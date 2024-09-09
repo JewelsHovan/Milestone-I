@@ -56,6 +56,7 @@ We will use a variety of data analysis techniques:
 ## **Contributions**
 - **Jewels Hovan**: Data cleaning, triage data analysis, and Sankey diagram creation.
 - **Liu Liu**: ICU data analysis, resource utilization analysis, and visualizations.
+- **George Mathew**: Hospital admissions data analysis, dataset merging, and visualizations.
 
 ## **Changelog**
 - **2022.07.27.1.CT**: Initial project proposal for SIADS 593.
