@@ -8,6 +8,7 @@ The project involves merging data from multiple sources, cleaning it, and perfor
 ## **Team Members**
 - **Jewels Hovan** (jhovan)
 - **Liu Liu** (luvul)
+- **George Mathew** (ggmathew)
 
 ## **Datasets**
 We are working with publicly available datasets from the **MIMIC-IV** database, which contains real hospital stay data for patients. Specifically, we are using the following datasets:
