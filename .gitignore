@@ -3,3 +3,7 @@ HOSP/
 mimic-iv-3.0/
 mimic-iv-ed-2.2/
 .env
+.ipynb_checkpoints/
+.DS_Store
+.virtual_documents/
+vscode/
