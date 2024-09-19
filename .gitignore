@@ -1,5 +1,6 @@
 ED/
 HOSP/
+Data/
 mimic-iv-3.0/
 mimic-iv-ed-2.2/
 .env
@@ -7,3 +8,4 @@ mimic-iv-ed-2.2/
 .DS_Store
 .virtual_documents/
 .vscode/
+
