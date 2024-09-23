@@ -1,4 +1,5 @@
 
+
 def nunique_per_cat(df):
     cat_cols = [(col, df[col].nunique()) for col in df.columns if df[col].dtype == 'object']
     return cat_cols
