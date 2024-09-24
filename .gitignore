@@ -8,4 +8,4 @@ mimic-iv-ed-2.2/
 .DS_Store
 .virtual_documents/
 .vscode/
-
+.venv/
