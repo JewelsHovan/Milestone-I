@@ -15,6 +15,7 @@ The project is organized as follows:
   - **`notebooks/`**
     - **`__init__.py`**: Initializes the notebooks package.
     - **Jupyter Notebooks**: Used for exploratory data analysis and prototyping.
+    - **`InsuranceAnalysis.ipynb`**: Analyzes the impact of insurance coverage on patient outcomes and resource use.
   - **`preprocessing/`**
     - **`__init__.py`**: Initializes the preprocessing package.
     - **`admissions_preprocessor.py`**: Preprocesses `admissions.csv`, handling missing values and feature engineering for admission data.
@@ -46,6 +47,7 @@ The project is organized as follows:
   - `vitalsign.csv` (Vital Signs)
   - `medrecon.csv` (Medication Reconciliation)
   - `patients.csv` (Patient Demographics)
+  - **CMS Medicare Enrollment Data** (External Insurance Data)
 
 ### b. Web Scraping ICD Codes
 
@@ -68,6 +70,19 @@ The project is organized as follows:
     - Structured prompts to ensure responses are in valid JSON format.
     - Extracted and parsed JSON responses to compile a comprehensive DataFrame.
     - Stored the collected statistics in `disease_data.csv`.
+
+### d. Collecting Insurance Data (`InsuranceAnalysis.ipynb`)
+
+- **Objective:** Analyze Medicare enrollment data to explore insurance coverage patterns and their impact on patient outcomes.
+- **Process:**
+  - **Data Acquisition:**
+    - Downloaded Medicare Monthly Enrollment data from [CMS Medicare Enrollment Reports](https://data.cms.gov/summary-statistics-on-beneficiary-enrollment/medicare-and-medicaid-reports/medicare-monthly-enrollment).
+  - **Data Preprocessing:**
+    - Cleaned and formatted the CMS data for integration with MIMIC-IV datasets.
+    - Merged CMS data with hospital admissions data on matching time periods and geographical locations.
+  - **Exploratory Analysis:**
+    - Visualized insurance coverage distributions among patients.
+    - Analyzed correlations between insurance types and variables such as length of stay (LOS) and patient demographics.
 
 ## 4. Data Preprocessing
 
@@ -155,12 +170,14 @@ The project is organized as follows:
     - Acquired all relevant MIMIC datasets.
     - Extracted disease categories and ICD-10 codes via web scraping.
     - Collected detailed disease statistics using API integrations.
+    - **Integrated external insurance data from CMS Medicare Enrollment Reports.**
   - **Data Preprocessing:**
     - Developed preprocessing modules for admissions, ED stays, triage, and diagnosis data.
     - Implemented utility functions for data validation and transformation.
   - **EDA and Modeling:**
     - Conducted exploratory data analysis with insightful visualizations.
     - Developed and evaluated a Random Forest classification model for predicting patient acuity.
+    - **Explored correlations between insurance status and variables like LOS, readmission rates, and mortality.**
   - **Patient Flow Analysis:**
     - Analyzed patient transfer patterns and their impact on hospital LOS.
     - Visualized common patient pathways and identified potential bottlenecks.
@@ -176,6 +193,7 @@ The project is organized as follows:
 - **Integration:**
   - Combine disease statistics with clinical data for more enriched analyses.
   - Analyze correlations between disease prevalence and patient outcomes.
+  - **Investigate the impact of insurance coverage on patient outcomes using advanced statistical models.**
 - **Advanced Analytics:**
   - Implement regression models to interpret factors affecting LOS and other key metrics.
   - Conduct longitudinal studies on patient outcomes based on transfer patterns.
