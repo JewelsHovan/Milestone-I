@@ -25,4 +25,6 @@ class AdmissionsPreprocessor:
             df[column] = df[column].astype('category')
         # remove admission_provider_id columnn
         df = df.drop(columns=['admit_provider_id'])
+        # add is_dead column
+        df['is_dead'] = df['deathtime'].notna()
         return df

@@ -7,6 +7,7 @@ import re
 import nltk
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
+import pandas as pd
 
 class TriagePreprocessor:
     """Preprocesses the Triage dataset."""
@@ -16,6 +17,8 @@ class TriagePreprocessor:
         Utils.download_nltk_data()
         df['processed_complaints'] = df['chiefcomplaint'].apply(self._preprocess_text)
         df = self._assign_topics(df)
+        df = self._convert_to_ordinal(df)
+        df = df.drop(columns=['chiefcomplaint', 'processed_complaints'])
         return df
 
     def _preprocess_text(self, text):
@@ -57,6 +60,16 @@ class TriagePreprocessor:
             4: "Limb & Head Pain"
         }
         df['topic_label'] = df['topic'].map(topic_labels)
+        return df
+
+    def _convert_to_ordinal(self, df):
+        """Converts acuity and topic to ordinal categories."""
+        # Convert acuity to ordinal (assuming it's already in the DataFrame)
+        df['acuity'] = pd.Categorical(df['acuity'], categories=[1, 2, 3, 4, 5], ordered=True)
+        
+        # Convert topic to ordinal (adding 1 to make it 1-indexed)
+        df['topic'] = pd.Categorical(df['topic'] + 1, categories=[1, 2, 3, 4, 5], ordered=True)
+        
         return df
 
     def _get_topic(self, complaint, lda_model, dictionary):
