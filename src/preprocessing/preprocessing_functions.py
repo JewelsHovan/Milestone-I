@@ -7,6 +7,7 @@ import re
 import nltk
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
+from config import DISEASE_CATEGORY_MAPPING
 
 def preprocess_diagnosis(df, icd9_codes_path, icd10_codes_path):
     """Processes the diagnosis DataFrame for both ICD-9 and ICD-10 codes."""
@@ -46,50 +47,7 @@ def preprocess_diagnosis(df, icd9_codes_path, icd10_codes_path):
     df['subcategory'] = df['subcategory_icd9'].fillna(df['subcategory_icd10'])
 
     # Updated category mapping for both ICD-9 and ICD-10
-    category_mapping = {
-        # ICD-10 mappings
-        'Certain infectious and parasitic diseases': 'Infectious & Parasitic',
-        'Neoplasms': 'Neoplasms',
-        'Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism': 'Blood & Immune System',
-        'Endocrine, nutritional and metabolic diseases': 'Endocrine & Metabolic',
-        'Mental and behavioural disorders': 'Mental & Behavioral',
-        'Diseases of the nervous system': 'Nervous System',
-        'Diseases of the eye and adnexa': 'Eye & Adnexa',
-        'Diseases of the ear and mastoid process': 'Ear & Mastoid',
-        'Diseases of the circulatory system': 'Circulatory System',
-        'Diseases of the respiratory system': 'Respiratory System',
-        'Diseases of the digestive system': 'Digestive System',
-        'Diseases of the skin and subcutaneous tissue': 'Skin & Subcutaneous',
-        'Diseases of the musculoskeletal system and connective tissue': 'Musculoskeletal & Connective',
-        'Diseases of the genitourinary system': 'Genitourinary System',
-        'Pregnancy, childbirth and the puerperium': 'Pregnancy & Childbirth',
-        'Certain conditions originating in the perinatal period': 'Perinatal Conditions',
-        'Congenital malformations, deformations and chromosomal abnormalities': 'Congenital & Chromosomal',
-        'Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified': 'Symptoms & Abnormal Findings',
-        'Injury, poisoning and certain other consequences of external causes': 'Injury & Poisoning',
-        'External causes of morbidity and mortality': 'External Causes',
-        'Factors influencing health status and contact with health services': 'Health Factors & Services',
-        'Codes for special purposes': 'Special Purposes',
-        
-        # ICD-9 mappings
-        'Infectious And Parasitic Diseases': 'Infectious & Parasitic',
-        'Neoplasms': 'Neoplasms',
-        'Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders': 'Endocrine & Metabolic',
-        'Diseases Of Blood And Blood-Forming Organs': 'Blood & Immune System',
-        'Mental Disorders': 'Mental & Behavioral',
-        'Diseases Of The Nervous System And Sense Organs': 'Nervous System',
-        'Diseases Of The Circulatory System': 'Circulatory System',
-        'Diseases Of The Respiratory System': 'Respiratory System',
-        'Diseases Of The Digestive System': 'Digestive System',
-        'Diseases Of The Genitourinary System': 'Genitourinary System',
-        'Complications Of Pregnancy, Childbirth, And The Puerperium': 'Pregnancy & Childbirth',
-        'Diseases Of The Skin And Subcutaneous Tissue': 'Skin & Subcutaneous',
-        'Diseases Of The Musculoskeletal System And Connective Tissue': 'Musculoskeletal & Connective',
-        'Congenital Anomalies': 'Congenital & Chromosomal',
-        'Certain Conditions Originating In The Perinatal Period': 'Perinatal Conditions',
-        'Symptoms, Signs, And Ill-Defined Conditions': 'Symptoms & Abnormal Findings',
-        'Injury And Poisoning': 'Injury & Poisoning'
-    }
+    category_mapping = DISEASE_CATEGORY_MAPPING
 
     # Apply category mapping
     df['category'] = df['category'].astype(str).map(category_mapping).fillna('Other')
@@ -121,6 +79,22 @@ def preprocess_admissions(df):
         df[column] = df[column].astype('category')
     df = df.drop(columns=['admit_provider_id'])
     df['is_dead'] = df['deathtime'].notna()
+    return df
+
+def preprocess_patients(df):
+    """Preprocesses the patients DataFrame."""
+    # Convert the dob column to datetime
+    df['dod'] = pd.to_datetime(df['dod'])
+
+    # Convert anchor_year_group to category
+    df['anchor_year_group'] = df['anchor_year_group'].astype('category')
+
+    # Convert gender to category
+    df['gender'] = df['gender'].astype('category')
+
+    # Determine if the patient is dead
+    df['is_dead'] = df['dod'].notna()
+
     return df
 
 def preprocess_triage(df):

@@ -4,7 +4,8 @@ from .preprocessing_functions import (
     preprocess_admissions,
     preprocess_triage,
     preprocess_vitalsigns,
-    preprocess_ed_stay
+    preprocess_ed_stay,
+    preprocess_patients
 )
 
 class Preprocessor:
@@ -37,6 +38,8 @@ class Preprocessor:
             return preprocess_vitalsigns(df)
         elif table_name == 'edstays':
             return preprocess_ed_stay(df)
+        elif table_name == 'patients':
+            return preprocess_patients(df)
         else:
             print(f"Warning: No preprocessing function for {table_name}")
             return df

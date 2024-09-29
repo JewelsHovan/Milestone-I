@@ -1,5 +1,3 @@
-
-
 """Utility functions and classes for data preprocessing."""
 
 import pandas as pd
@@ -46,6 +44,7 @@ class Utils:
         'PATIENT DECLINED TO ANSWER': 'Mixed or Other'
     }
 
+    # Data Information Methods
     @staticmethod
     def print_info(df):
         print("\n" + "="*50)
@@ -85,10 +84,11 @@ class Utils:
             print("  No categorical columns")
         
         print("\nSample Data:")
-        print(df.head().to_string())
+        display(df.head())
         
         print("\n" + "="*50 + "\n")
 
+    # Data Conversion Methods
     @staticmethod
     def convert_to_datetime(df, columns):
         for col in columns:
@@ -104,6 +104,7 @@ class Utils:
         df[f'{column}_grouped'] = df[column].map(mapping_dict)
         df[f'{column}_grouped'] = df[f'{column}_grouped'].fillna(fill_na)
 
+    # Data Cleaning Methods
     @staticmethod
     def filter_outliers(df, column, method='IQR'):
         if method == 'IQR':
@@ -131,6 +132,7 @@ class Utils:
         df[columns] = imputer.fit_transform(df[columns])
         return df
 
+    # Data Transformation Methods
     @staticmethod
     def encode_categorical(df, columns):
         df_encoded = pd.get_dummies(df, columns=columns, drop_first=True)
@@ -142,8 +144,107 @@ class Utils:
         df[columns] = scaler.fit_transform(df[columns])
         return df
 
+    # NLTK Data Download Method
     @staticmethod
     def download_nltk_data():
         nltk.download('punkt')
         nltk.download('stopwords')
         nltk.download('wordnet')
+
+    # Custom Methods for Disease Incidence Analysis
+    @staticmethod
+    def categorize_age(age):
+        if pd.isna(age):
+            return 'All ages'
+        elif age < 5:
+            return '<5 years'
+        elif 5 <= age <= 14:
+            return '5-14 years'
+        elif 15 <= age <= 49:
+            return '15-49 years'
+        elif 50 <= age <= 69:
+            return '50-69 years'
+        else:
+            return '70+ years'
+
+    @staticmethod
+    def get_first_element(x):
+        if isinstance(x, list) and len(x) > 0:
+            return x[0]
+        elif isinstance(x, str):
+            try:
+                lst = eval(x)
+                if isinstance(lst, list) and len(lst) > 0:
+                    return lst[0]
+            except:
+                pass
+        return None
+
+    @staticmethod
+    def extract_icd_ranges(df, cause_name_col, *icd_cols):
+        icd_dict = {}
+        for idx, row in df.iterrows():
+            cause_name = row[cause_name_col]
+            icd_ranges = []
+            for icd_col in icd_cols:
+                if pd.notna(row[icd_col]):
+                    ranges = row[icd_col].split(", ")
+                    for r in ranges:
+                        icd_ranges.append(r)
+            icd_dict[cause_name] = icd_ranges
+        return icd_dict
+    
+    @staticmethod
+    def get_n_element(x, n):
+        if isinstance(x, list) and len(x) >= n:
+            return x[n-1]
+        elif isinstance(x, list) and len(x) == n-1:
+            return None
+        elif isinstance(x, str):
+            return None
+        return None
+
+    @staticmethod
+    def code_map_from_icd_list(row, icd9_ranges, icd10_ranges):
+        icd_list = row["icd_code"]
+        for i in range(1, len(icd_list)+1):
+            code = Utils.get_n_element(icd_list, i)
+            if code:
+                if len(code) > 3:
+                    code = code[:3] + "." + code[3:]
+                if row['primary_ICD_version'] == 9:
+                    result = Utils.get_disease_for_icd(code, icd9_ranges)
+                else:
+                    result = Utils.get_disease_for_icd(code, icd10_ranges)
+                if result != "Unknown":
+                    return result
+        return "Unknown"
+
+    @staticmethod
+    def get_disease_for_icd(icd_code, icd_ranges):
+        for disease, ranges in icd_ranges.items():
+            for range_str in ranges:
+                start, end = Utils.parse_icd_range(range_str)
+                if Utils.is_in_range(icd_code, start, end):
+                    return disease
+        return "Unknown"
+
+    @staticmethod
+    def parse_icd_range(range_str):
+        parts = range_str.split('-')
+        if len(parts) == 1:
+            return parts[0].strip(), parts[0].strip()
+        start, end = parts
+        return start.strip(), end.strip()
+
+    @staticmethod
+    def is_in_range(code, start, end):
+        if start == end:
+            return code == start
+        if '.' not in code:
+            code += '.0'
+        if '.' not in start:
+            start += '.0'
+        if '.' not in end:
+            end += '.9'
+        return start <= code <= end
