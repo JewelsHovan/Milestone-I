@@ -1,0 +1,927 @@
+icd_code,category,subcategory,description
+001,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Cholera
+002,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Typhoid And Paratyphoid Fevers
+003,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Other Salmonella Infections
+004,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Shigellosis
+005,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Other Food Poisoning (Bacterial)
+006,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Amebiasis
+007,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Other Protozoal Intestinal Diseases
+008,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Intestinal Infections Due To Other Organisms
+009,Infectious And Parasitic Diseases,Intestinal Infectious Diseases,Ill-Defined Intestinal Infections
+010,Infectious And Parasitic Diseases,Tuberculosis,Primary Tuberculous Infection
+011,Infectious And Parasitic Diseases,Tuberculosis,Pulmonary Tuberculosis
+012,Infectious And Parasitic Diseases,Tuberculosis,Other Respiratory Tuberculosis
+013,Infectious And Parasitic Diseases,Tuberculosis,Tuberculosis Of Meninges And Central Nervous System
+014,Infectious And Parasitic Diseases,Tuberculosis,"Tuberculosis Of Intestines, Peritoneum, And Mesenteric Glands"
+015,Infectious And Parasitic Diseases,Tuberculosis,Tuberculosis Of Bones And Joints
+016,Infectious And Parasitic Diseases,Tuberculosis,Tuberculosis Of Genitourinary System
+017,Infectious And Parasitic Diseases,Tuberculosis,Tuberculosis Of Other Organs
+018,Infectious And Parasitic Diseases,Tuberculosis,Miliary Tuberculosis
+020,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Plague
+021,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Tularemia
+022,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Anthrax
+023,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Brucellosis
+024,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Glanders
+025,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Melioidosis
+026,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Rat-Bite Fever
+027,Infectious And Parasitic Diseases,Zoonotic Bacterial Diseases,Other Zoonotic Bacterial Diseases
+030,Infectious And Parasitic Diseases,Other Bacterial Diseases,Leprosy
+031,Infectious And Parasitic Diseases,Other Bacterial Diseases,Diseases Due To Other Mycobacteria
+032,Infectious And Parasitic Diseases,Other Bacterial Diseases,Diphtheria
+033,Infectious And Parasitic Diseases,Other Bacterial Diseases,Whooping Cough
+034,Infectious And Parasitic Diseases,Other Bacterial Diseases,Streptococcal Sore Throat And Scarlet Fever
+035,Infectious And Parasitic Diseases,Other Bacterial Diseases,Erysipelas
+036,Infectious And Parasitic Diseases,Other Bacterial Diseases,Meningococcal Infection
+037,Infectious And Parasitic Diseases,Other Bacterial Diseases,Tetanus
+038,Infectious And Parasitic Diseases,Other Bacterial Diseases,Septicemia
+039,Infectious And Parasitic Diseases,Other Bacterial Diseases,Actinomycotic Infections
+040,Infectious And Parasitic Diseases,Other Bacterial Diseases,Other Bacterial Diseases
+041,Infectious And Parasitic Diseases,Other Bacterial Diseases,Bacterial Infection In Conditions Classified Elsewhere And Of Unspecified Site
+042,Infectious And Parasitic Diseases,Other Bacterial Diseases,Human Immunodeficiency Virus [Hiv] Disease
+045,Infectious And Parasitic Diseases,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Acute Poliomyelitis
+046,Infectious And Parasitic Diseases,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Slow Virus Infection Of Central Nervous System
+047,Infectious And Parasitic Diseases,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Meningitis Due To Enterovirus
+048,Infectious And Parasitic Diseases,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Other Enterovirus Diseases Of Central Nervous System
+049,Infectious And Parasitic Diseases,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System
+050,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Smallpox
+051,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Cowpox And Paravaccinia
+052,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Chickenpox
+053,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Herpes Zoster
+054,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Herpes Simplex
+055,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Measles
+056,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Rubella
+057,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Other Viral Exanthemata
+058,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Other Human Herpesvirus
+059,Infectious And Parasitic Diseases,Viral Diseases Accompanied By Exanthem,Other Poxvirus Infections
+060,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Yellow Fever
+061,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Dengue
+062,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Mosquito-Borne Viral Encephalitis
+063,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Tick-Borne Viral Encephalitis
+064,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Viral Encephalitis Transmitted By Other And Unspecified Arthropods
+065,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Arthropod-Borne Hemorrhagic Fever
+066,Infectious And Parasitic Diseases,Arthropod-Borne Viral Diseases,Other Arthropod-Borne Viral Diseases
+070,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Viral Hepatitis
+071,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Rabies
+072,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Mumps
+073,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Ornithosis
+074,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Specific Diseases Due To Coxsackie Virus
+075,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Infectious Mononucleosis
+076,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Trachoma
+077,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Other Diseases Of Conjunctiva Due To Viruses And Chlamydiae
+078,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Other Diseases Due To Viruses And Chlamydiae
+079,Infectious And Parasitic Diseases,Other Diseases Due To Viruses And Chlamydiae,Viral Infection In Conditions Classified Elsewhere And Of Unspecified Site
+080,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Louse-Borne [Epidemic] Typhus
+081,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Other Typhus
+082,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Tick-Borne Rickettsioses
+083,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Other Rickettsioses
+084,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Malaria
+085,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Leishmaniasis
+086,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Trypanosomiasis
+087,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Relapsing Fever
+088,Infectious And Parasitic Diseases,Rickettsioses And Other Arthropod-Borne Diseases,Other Arthropod-Borne Diseases
+090,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Congenital Syphilis
+091,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,"Early Syphilis, Symptomatic"
+092,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,"Early Syphilis, Latent"
+093,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Cardiovascular Syphilis
+094,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Neurosyphilis
+095,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,"Other Forms Of Late Syphilis, With Symptoms"
+096,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,"Late Syphilis, Latent"
+097,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Other And Unspecified Syphilis
+098,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Gonococcal Infections
+099,Infectious And Parasitic Diseases,Syphilis And Other Venereal Diseases,Other Venereal Diseases
+100,Infectious And Parasitic Diseases,Other	Spirochetal Diseases,Leptospirosis
+101,Infectious And Parasitic Diseases,Other	Spirochetal Diseases,Vincent'S Angina
+102,Infectious And Parasitic Diseases,Other	Spirochetal Diseases,Yaws
+103,Infectious And Parasitic Diseases,Other	Spirochetal Diseases,Pinta
+104,Infectious And Parasitic Diseases,Other	Spirochetal Diseases,Other Spirochetal Infection
+110,Infectious And Parasitic Diseases,Mycoses,Dermatophytosis
+111,Infectious And Parasitic Diseases,Mycoses,"Dermatomycosis, Other And Unspecified"
+112,Infectious And Parasitic Diseases,Mycoses,Candidiasis
+114,Infectious And Parasitic Diseases,Mycoses,Coccidioidomycosis
+115,Infectious And Parasitic Diseases,Mycoses,Histoplasmosis
+116,Infectious And Parasitic Diseases,Mycoses,Blastomycotic Infection
+117,Infectious And Parasitic Diseases,Mycoses,Other Mycoses
+118,Infectious And Parasitic Diseases,Mycoses,Opportunistic Mycoses
+120,Infectious And Parasitic Diseases,Helminthiases,Schistosomiasis [Bilharziasis]
+121,Infectious And Parasitic Diseases,Helminthiases,Other Trematode Infections
+122,Infectious And Parasitic Diseases,Helminthiases,Echinococcosis
+123,Infectious And Parasitic Diseases,Helminthiases,Other Cestode Infection
+124,Infectious And Parasitic Diseases,Helminthiases,Trichinosis
+125,Infectious And Parasitic Diseases,Helminthiases,Filarial Infection And Dracontiasis
+126,Infectious And Parasitic Diseases,Helminthiases,Ancylostomiasis And Necatoriasis
+127,Infectious And Parasitic Diseases,Helminthiases,Other Intestinal Helminthiases
+128,Infectious And Parasitic Diseases,Helminthiases,Other And Unspecified Helminthiases
+129,Infectious And Parasitic Diseases,Helminthiases,"Intestinal Parasitism, Unspecified"
+130,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Toxoplasmosis
+131,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Trichomoniasis
+132,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Pediculosis And Phthirus Infestation
+133,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Acariasis
+134,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Other Infestation
+135,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Sarcoidosis
+136,Infectious And Parasitic Diseases,Other Infectious And Parasitic Diseases,Other And Unspecified Infectious And Parasitic Diseases
+137,Infectious And Parasitic Diseases,Late Effects Of Infectious And Parasitic Diseases,Late Effects Of Tuberculosis
+138,Infectious And Parasitic Diseases,Late Effects Of Infectious And Parasitic Diseases,Late Effects Of Acute Poliomyelitis
+139,Infectious And Parasitic Diseases,Late Effects Of Infectious And Parasitic Diseases,Late Effects Of Other Infectious And Parasitic Diseases
+140,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Lip
+141,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Tongue
+142,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Major Salivary Glands
+143,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Gum
+144,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Floor Of Mouth
+145,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Other And Unspecified Parts Of Mouth
+146,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Oropharynx
+147,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Nasopharynx
+148,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Malignant Neoplasm Of Hypopharynx
+149,Neoplasms,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx","Malignant Neoplasm Of Other And Ill-Defined Sites Within The Lip, Oral Cavity, And Pharynx"
+150,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Esophagus
+151,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Stomach
+152,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,"Malignant Neoplasm Of Small Intestine, Including Duodenum"
+153,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Colon
+154,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,"Malignant Neoplasm Of Rectum, Rectosigmoid Junction, And Anus"
+155,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Liver And Intrahepatic Bile Ducts
+156,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Gallbladder And Extrahepatic Bile Ducts
+157,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Pancreas
+158,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Retroperitoneum And Peritoneum
+159,Neoplasms,Malignant Neoplasm Of Digestive Organs And Peritoneum,Malignant Neoplasm Of Other And Ill-Defined Sites Within The Digestive Organs And Peritoneum
+160,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,"Malignant Neoplasm Of Nasal Cavities, Middle Ear, And Accessory Sinuses"
+161,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Malignant Neoplasm Of Larynx
+162,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,"Malignant Neoplasm Of Trachea, Bronchus, And Lung"
+163,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Malignant Neoplasm Of Pleura
+164,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,"Malignant Neoplasm Of Thymus, Heart, And Mediastinum"
+165,Neoplasms,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Malignant Neoplasm Of Other And Ill-Defined Sites Within The Respiratory System And Intrathoracic Organs
+170,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Malignant Neoplasm Of Bone And Articular Cartilage
+171,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Malignant Neoplasm Of Connective And Other Soft Tissue
+172,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Malignant Melanoma Of Skin
+173,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Other Malignant Neoplasm Of Skin
+174,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Malignant Neoplasm Of Female Breast
+175,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Malignant Neoplasm Of Male Breast
+176,Neoplasms,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Kaposi'S Sarcoma
+179,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,"Malignant Neoplasm Of Uterus, Part Unspecified"
+180,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Cervix Uteri
+181,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Placenta
+182,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Body Of Uterus
+183,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Ovary And Other Uterine Adnexa
+184,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Other And Unspecified Female Genital Organs
+185,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Prostate
+186,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Testis
+187,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Penis And Other Male Genital Organs
+188,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Bladder
+189,Neoplasms,Malignant Neoplasm Of Genitourinary Organs,Malignant Neoplasm Of Kidney And Other And Unspecified Urinary Organs
+190,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Eye
+191,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Brain
+192,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Other And Unspecified Parts Of Nervous System
+193,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Thyroid Gland
+194,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Other Endocrine Glands And Related Structures
+195,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Of Other And Ill-Defined Sites
+196,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Secondary And Unspecified Malignant Neoplasm Of Lymph Nodes
+197,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Secondary Malignant Neoplasm Of Respiratory And Digestive Systems
+198,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Secondary Malignant Neoplasm Of Other Specified Sites
+199,Neoplasms,Malignant Neoplasm Of Other And Unspecified Sites,Malignant Neoplasm Without Specification Of Site
+200,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Lymphosarcoma And Reticulosarcoma
+201,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Hodgkin'S Disease
+202,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Other Malignant Neoplasm Of Lymphoid And Histiocytic Tissue
+203,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Multiple Myeloma And Immunoproliferative Neoplasms
+204,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Lymphoid Leukemia
+205,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Myeloid Leukemia
+206,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Monocytic Leukemia
+207,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Other Specified Leukemia
+208,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Leukemia Of Unspecified Cell Type
+209,Neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neuroendocrine Tumors
+210,Neoplasms,Benign Neoplasms,"Benign Neoplasm Of Lip, Oral Cavity, And Pharynx"
+211,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Other Parts Of Digestive System
+212,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Respiratory And Intrathoracic Organs
+213,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Bone And Articular Cartilage
+214,Neoplasms,Benign Neoplasms,Lipoma
+215,Neoplasms,Benign Neoplasms,Other Benign Neoplasm Of Connective And Other Soft Tissue
+216,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Skin
+217,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Breast
+218,Neoplasms,Benign Neoplasms,Uterine Leiomyoma
+219,Neoplasms,Benign Neoplasms,Other Benign Neoplasm Of Uterus
+220,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Ovary
+221,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Other Female Genital Organs
+222,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Male Genital Organs
+223,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Kidney And Other Urinary Organs
+224,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Eye
+225,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Brain And Other Parts Of Nervous System
+226,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Thyroid Gland
+227,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Other Endocrine Glands And Related Structures
+228,Neoplasms,Benign Neoplasms,"Hemangioma And Lymphangioma, Any Site"
+229,Neoplasms,Benign Neoplasms,Benign Neoplasm Of Other And Unspecified Sites
+230,Neoplasms,Carcinoma In Situ,Carcinoma In Situ Of Digestive Organs
+231,Neoplasms,Carcinoma In Situ,Carcinoma In Situ Of Respiratory System
+232,Neoplasms,Carcinoma In Situ,Carcinoma In Situ Of Skin
+233,Neoplasms,Carcinoma In Situ,Carcinoma In Situ Of Breast And Genitourinary System
+234,Neoplasms,Carcinoma In Situ,Carcinoma In Situ Of Other And Unspecified Sites
+235,Neoplasms,Neoplasms Of Uncertain Behavior,Neoplasm Of Uncertain Behavior Of Digestive And Respiratory Systems
+236,Neoplasms,Neoplasms Of Uncertain Behavior,Neoplasm Of Uncertain Behavior Of Genitourinary Organs
+237,Neoplasms,Neoplasms Of Uncertain Behavior,Neoplasm Of Uncertain Behavior Of Endocrine Glands And Nervous System
+238,Neoplasms,Neoplasms Of Uncertain Behavior,Neoplasm Of Uncertain Behavior Of Other And Unspecified Sites And Tissues
+239,Neoplasms,Neoplasms Of Uncertain Behavior,Neoplasm Of Unspecified Nature
+240,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Simple And Unspecified Goiter
+241,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Nontoxic Nodular Goiter
+242,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Thyrotoxicosis With Or Without Goiter
+243,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Congenital Hypothyroidism
+244,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Acquired Hypothyroidism
+245,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Thyroiditis
+246,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Disorders Of Thyroid Gland,Other Disorders Of Thyroid
+249,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Secondary Diabetes Mellitus
+250,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Diabetes Mellitus
+251,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Other Disorders Of Pancreatic Internal Secretion
+252,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Disorders Of Parathyroid Gland
+253,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Disorders Of The Pituitary Gland And Its Hypothalamic Control
+254,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Diseases Of Thymus Gland
+255,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Disorders Of Adrenal Glands
+256,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Ovarian Dysfunction
+257,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Testicular Dysfunction
+258,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Polyglandular Dysfunction And Related Disorders
+259,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Diseases Of Other Endocrine Glands,Other Endocrine Disorders
+260,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Kwashiorkor
+261,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Nutritional Marasmus
+262,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Other Severe Protein-Calorie Malnutrition
+263,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Other And Unspecified Protein-Calorie Malnutrition
+264,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Vitamin A Deficiency
+265,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Thiamine And Niacin Deficiency States
+266,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Deficiency Of B-Complex Components
+267,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Ascorbic Acid Deficiency
+268,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Vitamin D Deficiency
+269,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Nutritional Deficiencies,Other Nutritional Deficiencies
+270,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Of Amino-Acid Transport And Metabolism
+271,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Of Carbohydrate Transport And Metabolism
+272,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Of Lipoid Metabolism
+273,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Of Plasma Protein Metabolism
+274,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Gout
+275,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Of Mineral Metabolism
+276,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,"Disorders Of Fluid, Electrolyte, And Acid-Base Balance"
+277,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Other And Unspecified Disorders Of Metabolism
+278,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Obesity And Other Hyperalimentation
+279,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders",Other Metabolic Disorders And Immunity Disorders,Disorders Involving The Immune Mechanism
+280,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Iron Deficiency Anemias
+281,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Other Deficiency Anemias
+282,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Hereditary Hemolytic Anemias
+283,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Acquired Hemolytic Anemias
+284,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Aplastic Anemia
+285,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Other And Unspecified Anemias
+286,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Coagulation Defects
+287,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Purpura And Other Hemorrhagic Conditions
+288,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Diseases Of White Blood Cells
+289,Diseases Of Blood And Blood-Forming Organs,Diseases Of The Blood And Blood-Forming Organs,Other Diseases Of Blood And Blood-Forming Organs
+290,Mental Disorders,Organic Psychotic Conditions,Senile And Presenile Organic Psychotic Conditions
+291,Mental Disorders,Organic Psychotic Conditions,Alcoholic Psychoses
+292,Mental Disorders,Organic Psychotic Conditions,Drug Psychoses
+293,Mental Disorders,Organic Psychotic Conditions,Transient Organic Psychotic Conditions
+294,Mental Disorders,Organic Psychotic Conditions,Other Organic Psychotic Conditions (Chronic)
+295,Mental Disorders,Other Psychoses,Schizophrenic Psychoses
+296,Mental Disorders,Other Psychoses,Affective Psychoses
+297,Mental Disorders,Other Psychoses,Paranoid States
+298,Mental Disorders,Other Psychoses,Other Nonorganic Psychoses
+299,Mental Disorders,Other Psychoses,Psychoses With Origin Specific To Childhood
+300,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Neurotic Disorders
+301,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Personality Disorders
+302,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Sexual Deviations And Disorders
+303,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Alcohol Dependence Syndrome
+304,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Drug Dependence
+305,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Nondependent Abuse Of Drugs
+306,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Physiological Malfunction Arising From Mental Factors
+307,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders","Special Symptoms Or Syndromes, Not Elsewhere Classified"
+308,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Acute Reaction To Stress
+309,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Adjustment Reaction
+310,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Specific Nonpsychotic Mental Disorders Following Organic Brain Damage
+311,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders","Depressive Disorder, Not Elsewhere Classified"
+312,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders","Disturbance Of Conduct, Not Elsewhere Classified"
+313,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Disturbance Of Emotions Specific To Childhood And Adolescence
+314,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Hyperkinetic Syndrome Of Childhood
+315,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Specific Delays In Development
+316,Mental Disorders,"Neurotic Disorders, Personality Disorders, And Other Nonpsychotic Mental Disorders",Psychic Factors Associated With Diseases Classified Elsewhere
+317,Mental Disorders,Mental Retardation,Mild Mental Retardation
+318,Mental Disorders,Mental Retardation,Other Specified Mental Retardation
+319,Mental Disorders,Mental Retardation,Unspecified Mental Retardation
+320,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Bacterial Meningitis
+321,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Meningitis Due To Other Organisms
+322,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Meningitis Of Unspecified Cause
+323,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,"Encephalitis, Myelitis, And Encephalomyelitis"
+324,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Intracranial And Intraspinal Abscess
+325,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Phlebitis And Thrombophlebitis Of Intracranial Venous Sinuses
+326,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Late Effects Of Intracranial Abscess Or Pyogenic Infection
+327,Diseases Of The Nervous System And Sense Organs,Inflammatory Diseases Of The Central Nervous System,Organic Sleep Disorders
+330,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Cerebral Degenerations Usually Manifest In Childhood
+331,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Other Cerebral Degenerations
+332,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Parkinson'S Disease
+333,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Other Extrapyramidal Disease And Abnormal Movement Disorders
+334,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Spinocerebellar Disease
+335,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Anterior Horn Cell Disease
+336,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Other Diseases Of Spinal Cord
+337,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Disorders Of The Autonomic Nervous System
+338,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,"Pain, Not Elsewhere Classified"
+339,Diseases Of The Nervous System And Sense Organs,Hereditary And Degenerative Diseases Of The Central Nervous System,Other Headache Syndromes
+340,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Multiple Sclerosis
+341,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Other Demyelinating Diseases Of Central Nervous System
+342,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Hemiplegia And Hemiparesis
+343,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Infantile Cerebral Palsy
+344,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Other Paralytic Syndromes
+345,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Epilepsy
+346,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Migraine
+347,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Cataplexy And Narcolepsy
+348,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Other Conditions Of Brain
+349,Diseases Of The Nervous System And Sense Organs,Other Disorders Of The Central Nervous System,Other And Unspecified Disorders Of The Nervous System
+350,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Trigeminal Nerve Disorders
+351,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Facial Nerve Disorders
+352,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Disorders Of Other Cranial Nerves
+353,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Nerve Root And Plexus Disorders
+354,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Mononeuritis Of Upper Limb And Mononeuritis Multiplex
+355,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Mononeuritis Of Lower Limb
+356,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Hereditary And Idiopathic Peripheral Neuropathy
+357,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Inflammatory And Toxic Neuropathy
+358,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Myoneural Disorders
+359,Diseases Of The Nervous System And Sense Organs,Disorders Of The Peripheral Nervous System,Muscular Dystrophies And Other Myopathies
+360,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of The Globe
+361,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Retinal Detachments And Defects
+362,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Other Retinal Disorders
+363,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Chorioretinal Inflammations And Scars And Other Disorders Of Choroid
+364,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of Iris And Ciliary Body
+365,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Glaucoma
+366,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Cataract
+367,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of Refraction And Accommodation
+368,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Visual Disturbances
+369,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Blindness And Low Vision
+370,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Keratitis
+371,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Corneal Opacity And Other Disorders Of Cornea
+372,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of Conjunctiva
+373,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Inflammation Of Eyelids
+374,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Other Disorders Of Eyelids
+375,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of Lacrimal System
+376,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of The Orbit
+377,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Disorders Of Optic Nerve And Visual Pathways
+378,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Strabismus And Other Disorders Of Binocular Eye Movements
+379,Diseases Of The Nervous System And Sense Organs,Disorders Of The Eye And Adnexa,Other Disorders Of Eye
+380,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Disorders Of External Ear
+381,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Nonsuppurative Otitis Media And Eustachian Tube Disorders
+382,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Suppurative And Unspecified Otitis Media
+383,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Mastoiditis And Related Conditions
+384,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Other Disorders Of Tympanic Membrane
+385,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Other Disorders Of Middle Ear And Mastoid
+386,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Vertiginous Syndromes And Other Disorders Of Vestibular System
+387,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Otosclerosis
+388,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Other Disorders Of Ear
+389,Diseases Of The Nervous System And Sense Organs,Diseases Of The Ear And Mastoid Process,Hearing Loss
+390,Diseases Of The Circulatory System,Acute Rheumatic Fever,Rheumatic Fever Without Mention Of Heart Involvement
+391,Diseases Of The Circulatory System,Acute Rheumatic Fever,Rheumatic Fever With Heart Involvement
+392,Diseases Of The Circulatory System,Acute Rheumatic Fever,Rheumatic Chorea
+393,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Chronic Rheumatic Pericarditis
+394,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Diseases Of Mitral Valve
+395,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Diseases Of Aortic Valve
+396,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Diseases Of Mitral And Aortic Valves
+397,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Diseases Of Other Endocardial Structures
+398,Diseases Of The Circulatory System,Chronic Rheumatic Heart Disease,Other Rheumatic Heart Disease
+401,Diseases Of The Circulatory System,Hypertensive Disease,Essential Hypertension
+402,Diseases Of The Circulatory System,Hypertensive Disease,Hypertensive Heart Disease
+403,Diseases Of The Circulatory System,Hypertensive Disease,Hypertensive Renal Disease
+404,Diseases Of The Circulatory System,Hypertensive Disease,Hypertensive Heart And Renal Disease
+405,Diseases Of The Circulatory System,Hypertensive Disease,Secondary Hypertension
+410,Diseases Of The Circulatory System,Ischemic Heart Disease,Acute Myocardial Infarction
+411,Diseases Of The Circulatory System,Ischemic Heart Disease,Other Acute And Subacute Form Of Ischemic Heart Disease
+412,Diseases Of The Circulatory System,Ischemic Heart Disease,Old Myocardial Infarction
+413,Diseases Of The Circulatory System,Ischemic Heart Disease,Angina Pectoris
+414,Diseases Of The Circulatory System,Ischemic Heart Disease,Other Forms Of Chronic Ischemic Heart Disease
+415,Diseases Of The Circulatory System,Diseases Of Pulmonary Circulation,Acute Pulmonary Heart Disease
+416,Diseases Of The Circulatory System,Diseases Of Pulmonary Circulation,Chronic Pulmonary Heart Disease
+417,Diseases Of The Circulatory System,Diseases Of Pulmonary Circulation,Other Diseases Of Pulmonary Circulation
+420,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Acute Pericarditis
+421,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Acute And Subacute Endocarditis
+422,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Acute Myocarditis
+423,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Other Diseases Of Pericardium
+424,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Other Diseases Of Endocardium
+425,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Cardiomyopathy
+426,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Conduction Disorders
+427,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Cardiac Dysrhythmias
+428,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Heart Failure
+429,Diseases Of The Circulatory System,Other Forms Of Heart Disease,Ill-Defined Descriptions And Complications Of Heart Disease
+430,Diseases Of The Circulatory System,Cerebrovascular Disease,Subarachnoid Hemorrhage
+431,Diseases Of The Circulatory System,Cerebrovascular Disease,Intracerebral Hemorrhage
+432,Diseases Of The Circulatory System,Cerebrovascular Disease,Other And Unspecified Intracranial Hemorrhage
+433,Diseases Of The Circulatory System,Cerebrovascular Disease,Occlusion And Stenosis Of Precerebral Arteries
+434,Diseases Of The Circulatory System,Cerebrovascular Disease,Occlusion Of Cerebral Arteries
+435,Diseases Of The Circulatory System,Cerebrovascular Disease,Transcient Cerebral Ischemia
+436,Diseases Of The Circulatory System,Cerebrovascular Disease,Acute But Ill-Defined Cerebrovascular Disease
+437,Diseases Of The Circulatory System,Cerebrovascular Disease,Other And Ill-Defined Cerebrovascular Disease
+438,Diseases Of The Circulatory System,Cerebrovascular Disease,Late Effects Of Cerebrovascular Disease
+440,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Atherosclerosis
+441,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Aortic Aneurysm And Dissection
+442,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Other Aneurysm
+443,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Other Peripheral Vascular Disease
+444,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Arterial Embolism And Thrombosis
+445,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Atheroembolism
+446,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Polyarteritis Nodosa And Allied Conditions
+447,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Other Disorders Of Arteries And Arterioles
+448,Diseases Of The Circulatory System,"Diseases Of Arteries, Arterioles, And Capillaries",Diseases Of Capillaries
+451,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Phlebitis And Thrombophlebitis
+452,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Portal Vein Thrombosis
+453,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Other Venous Embolism And Thrombosis
+454,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Varicose Veins Of Lower Extremities
+455,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Hemorrhoids
+456,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Varicose Veins Of Other Sites
+457,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Noninfective Disorders Of Lymphatic Channels
+458,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Hypotension
+459,Diseases Of The Circulatory System,"Diseases Of Veins And Lymphatics, And Other Diseases Of Circulatory System",Other Disorders Of Circulatory System
+460,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Nasopharyngitis [Common Cold]
+461,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Sinusitis
+462,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Pharyngitis
+463,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Tonsillitis
+464,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Laryngitis And Tracheitis
+465,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Upper Respiratory Infections Of Multiple Or Unspecified Sites
+466,Diseases Of The Respiratory System,Acute Respiratory Infections,Acute Bronchitis And Bronchiolitis
+470,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Deviated Nasal Septum
+471,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Nasal Polyps
+472,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Chronic Pharyngitis And Nasopharyngitis
+473,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Chronic Sinusitis
+474,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Chronic Disease Of Tonsils And Adenoids
+475,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Peritonsillar Abscess
+476,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Chronic Laryngitis And Laryngotracheitis
+477,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Allergic Rhinitis
+478,Diseases Of The Respiratory System,Other	Diseases Of Upper Respiratory Tract,Other Diseases Of Upper Respiratory Tract
+480,Diseases Of The Respiratory System,Pneumonia And Influenza,Viral Pneumonia
+481,Diseases Of The Respiratory System,Pneumonia And Influenza,Pneumococcal Pneumonia [Streptococcus Pneumoniae Pneumonia]
+482,Diseases Of The Respiratory System,Pneumonia And Influenza,Other Bacterial Pneumonia
+483,Diseases Of The Respiratory System,Pneumonia And Influenza,Pneumonia Due To Other Specified Organism
+484,Diseases Of The Respiratory System,Pneumonia And Influenza,Pneumonia In Infectious Diseases Classified Elsewhere
+485,Diseases Of The Respiratory System,Pneumonia And Influenza,"Bronchopneumonia, Organism Unspecified"
+486,Diseases Of The Respiratory System,Pneumonia And Influenza,"Pneumonia, Organism Unspecified"
+487,Diseases Of The Respiratory System,Pneumonia And Influenza,Influenza
+488,Diseases Of The Respiratory System,Pneumonia And Influenza,Influenza Due To Identified Avian Influenza Virus
+490,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,"Bronchitis, Not Specified As Acute Or Chronic"
+491,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,Chronic Bronchitis
+492,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,Emphysema
+493,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,Asthma
+494,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,Bronchiectasis
+495,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,Extrinsic Allergic Alveolitis
+496,Diseases Of The Respiratory System,Chronic Obstructive Pulmonary Disease And Allied Conditions,"Chronic Airways Obstruction, Not Elsewhere Classified"
+500,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Coalworkers' Pneumoconiosis
+501,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Asbestosis
+502,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Pneumoconiosis Due To Other Silica Or Silicates
+503,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Pneumoconiosis Due To Other Inorganic Dust
+504,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Pneumopathy Due To Inhalation Of Other Dust
+505,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,"Pneumoconiosis, Unspecified"
+506,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Respiratory Conditions Due To Chemical Fumes And Vapors
+507,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Pneumonitis Due To Solids And Liquids
+508,Diseases Of The Respiratory System,Pneumoconioses And Other Lung Diseases Due To External Agents,Respiratory Conditions Due To Other And Unspecified External Agents
+510,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Empyema
+511,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Pleurisy
+512,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Pneumothorax
+513,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Abscess Of Lung And Mediastinum
+514,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Pulmonary Congestion And Hypostasis
+515,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Postinflammatory Pulmonary Fibrosis
+516,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Other Alveolar And Parietoalveolar Pneumopathy
+517,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Lung Involvement In Conditions Classified Elsewhere
+518,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Other Diseases Of Lung
+519,Diseases Of The Respiratory System,Other Diseases Of Respiratory System,Other Diseases Of Respiratory System
+520,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Disorders Of Tooth Development And Eruption
+521,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Diseases Of Hard Tissues Of Teeth
+522,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Diseases Of Pulp And Periapical Tissues
+523,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Gingival And Periodontal Diseases
+524,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws","Dentofacial Anomalies, Including Malocclusion"
+525,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Other Diseases And Conditions Of The Teeth And Supporting Structures
+526,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Diseases Of The Jaws
+527,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Diseases Of The Salivary Glands
+528,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws","Diseases Of The Oral Soft Tissues, Excluding Lesions Specific For Gingiva And Tongue"
+529,Diseases Of The Digestive System,"Diseases Of Oral Cavity, Salivary Glands, And Jaws",Diseases And Other Conditions Of The Tongue
+530,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Diseases Of Esophagus
+531,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Gastric Ulcer
+532,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Duodenal Ulcer
+533,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum","Peptic Ulcer, Site Unspecified"
+534,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Gastrojejunal Ulcer
+535,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Gastritis And Duodenitis
+536,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Disorders Of Function Of Stomach
+537,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Other Disorders Of Stomach And Duodenum
+538,Diseases Of The Digestive System,"Diseases Of Esophagus, Stomach, And Duodenum",Gastrointestinal Mucositis (Ulcerative)
+540,Diseases Of The Digestive System,Appendicitis,Acute Appendicitis
+541,Diseases Of The Digestive System,Appendicitis,"Appendicitis, Unqualified"
+542,Diseases Of The Digestive System,Appendicitis,Other Appendicitis
+543,Diseases Of The Digestive System,Appendicitis,Other Diseases Of Appendix
+550,Diseases Of The Digestive System,Hernia Of Abdominal Cavity,Inguinal Hernia
+551,Diseases Of The Digestive System,Hernia Of Abdominal Cavity,"Other Hernia Of Abdominal Cavity, With Gangrene"
+552,Diseases Of The Digestive System,Hernia Of Abdominal Cavity,"Other Hernia Of Abdominal Cavity, With Obstruction, But Without Mention Of Gangrene"
+553,Diseases Of The Digestive System,Hernia Of Abdominal Cavity,Other Hernia Of Abdominal Cavity Without Mention Of Obstruction Or Gangrene
+555,Diseases Of The Digestive System,Noninfective Enteritis And Colitis,Regional Enteritis
+556,Diseases Of The Digestive System,Noninfective Enteritis And Colitis,Ulcerative Colitis
+557,Diseases Of The Digestive System,Noninfective Enteritis And Colitis,Vascular Insufficiency Of Intestine
+558,Diseases Of The Digestive System,Noninfective Enteritis And Colitis,Other Noninfective Gastroenteritis And Colitis
+560,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Intestinal Obstruction Without Mention Of Hernia
+562,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Diverticula Of Intestine
+564,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,"Functional Digestive Disorders, Not Elsewhere Classified"
+565,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Anal Fissure And Fistula
+566,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Abscess Of Anal And Rectal Regions
+567,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Peritonitis
+568,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Other Disorders Of Peritoneum
+569,Diseases Of The Digestive System,Other Diseases Of Intestines And Peritoneum,Other Disorders Of Intestine
+570,Diseases Of The Digestive System,Other Diseases Of Digestive System,Acute And Subacute Necrosis Of Liver
+571,Diseases Of The Digestive System,Other Diseases Of Digestive System,Chronic Liver Disease And Cirrhosis
+572,Diseases Of The Digestive System,Other Diseases Of Digestive System,Liver Abscess And Sequelae Of Chronic Liver Disease
+573,Diseases Of The Digestive System,Other Diseases Of Digestive System,Other Disorders Of Liver
+574,Diseases Of The Digestive System,Other Diseases Of Digestive System,Cholelithiasis
+575,Diseases Of The Digestive System,Other Diseases Of Digestive System,Other Disorders Of Gallbladder
+576,Diseases Of The Digestive System,Other Diseases Of Digestive System,Other Disorders Of Biliary Tract
+577,Diseases Of The Digestive System,Other Diseases Of Digestive System,Diseases Of Pancreas
+578,Diseases Of The Digestive System,Other Diseases Of Digestive System,Gastrointestinal Hemorrhage
+579,Diseases Of The Digestive System,Other Diseases Of Digestive System,Intestinal Malabsorption
+580,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Acute Glomerulonephritis
+581,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Nephrotic Syndrome
+582,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Chronic Glomerulonephritis
+583,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis","Nephritis And Nephropathy, Not Specified As Acute Or Chronic"
+584,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Acute Renal Failure
+585,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Chronic Renal Failure
+586,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis","Renal Failure, Unspecified"
+587,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis","Renal Sclerosis, Unspecified"
+588,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Disorders Resulting From Impaired Renal Function
+589,Diseases Of The Genitourinary System,"Nephritis, Nephrotic Syndrome, And Nephrosis",Small Kidney Of Unknown Cause
+590,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Infections Of Kidney
+591,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Hydronephrosis
+592,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Calculus Of Kidney And Ureter
+593,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Other Disorders Of Kidney And Ureter
+594,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Calculus Of Lower Urinary Tract
+595,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Cystitis
+596,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Other Disorders Of Bladder
+597,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,"Urethritis, Not Sexually Transmitted, And Urethral Syndrome"
+598,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Urethral Stricture
+599,Diseases Of The Genitourinary System,Other Diseases Of Urinary System,Other Disorders Of Urethra And Urinary Tract
+600,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Hyperplasia Of Prostate
+601,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Inflammatory Diseases Of Prostate
+602,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Other Disorders Of Prostate
+603,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Hydrocele
+604,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Orchitis And Epididymitis
+605,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Redundant Prepuce And Phimosis
+606,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,"Infertility, Male"
+607,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Disorders Of Penis
+608,Diseases Of The Genitourinary System,Diseases Of Male Genital Organs,Other Disorders Of Male Genital Organs
+610,Diseases Of The Genitourinary System,Disorders Of Breast,Benign Mammary Dysplasias
+611,Diseases Of The Genitourinary System,Disorders Of Breast,Other Disorders Of Breast
+612,Diseases Of The Genitourinary System,Disorders Of Breast,Deformity And Disproportion Of Reconstructed Breast
+614,Diseases Of The Genitourinary System,Inflammatory Disease Of Female Pelvic Organs,"Inflammatory Disease Of Ovary, Fallopian Tube, Pelvic Cellular Tissue, And Peritoneum"
+615,Diseases Of The Genitourinary System,Inflammatory Disease Of Female Pelvic Organs,"Inflammatory Diseases Of Uterus, Except Cervix"
+616,Diseases Of The Genitourinary System,Inflammatory Disease Of Female Pelvic Organs,"Inflammatory Disease Of Cervix, Vagina, And Vulva"
+617,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Endometriosis
+618,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Genital Prolapse
+619,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Fistula Involving Female Genital Tract
+620,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,"Noninflammatory Disorders Of Ovary, Fallopian Tube, And Broad Ligament"
+621,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,"Disorders Of Uterus, Not Elsewhere Classified"
+622,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Noninflammatory Disorders Of Cervix
+623,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Noninflammatory Disorders Of Vagina
+624,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Noninflammatory Disorders Of Vulva And Perineum
+625,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Pain And Other Symptoms Associated With Female Genital Organs
+626,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Disorders Of Menstruation And Other Abnormal Bleeding From Female Genital Tract
+627,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Menopausal And Postmenopausal Disorders
+628,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,"Infertility, Female"
+629,Diseases Of The Genitourinary System,Other Disorders Of Female Genital Tract,Other Disorders Of Female Genital Organs
+630,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Hydatidiform Mole
+631,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Other Abnormal Product Of Conception
+632,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Missed Abortion
+633,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Ectopic Pregnancy
+634,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Spontaneous Abortion
+635,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Legally Induced Abortion
+636,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Illegally Induced Abortion
+637,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Unspecified Abortion
+638,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Failed Attempted Abortion
+639,"Complications Of Pregnancy, Childbirth, And The Puerperium",Ectopic And Molar Pregnancy And Other Pregnancy With Abortive Outcome,Complications Following Abortion And Ectopic And Molar Pregnancies
+640,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,Hemorrhage In Early Pregnancy
+641,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Antepartum Hemorrhage, Abruptio Placentae, And Placenta Previa"
+642,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Hypertension Complicating Pregnancy, Childbirth, And The Puerperium"
+643,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,Excessive Vomiting In Pregnancy
+644,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,Early Or Threatened Labor
+645,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,Prolonged Pregnancy
+646,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Other Complications Of Pregnancy, Not Elsewhere Classified"
+647,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Infective And Parasitic Conditions In The Mother Classifiable Elsewhere But Complicating Pregnancy, Childbirth, And The Puerperium"
+648,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Other Current Conditions In The Mother Classifiable Elsewhere But Complicating Pregnancy, Childbirth, And The Puerperium"
+649,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Mainly Related To Pregnancy,"Other Conditions Or Status Of The Mother Complicating Pregnancy, Childbirth, Or The Puerperium"
+650,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Normal Delivery
+651,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Multiple Gestation
+652,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Malposition And Malpresentation Of Fetus
+653,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Disproportion
+654,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Abnormality Of Organs And Soft Tissues Of Pelvis
+655,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Known Or Suspected Fetal Abnormality Affecting Management Of Mother
+656,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Other Fetal And Placental Problems Affecting Management Of Mother
+657,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Polyhydramnios
+658,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Other Problems Associated With Amniotic Cavity And Membranes
+659,"Complications Of Pregnancy, Childbirth, And The Puerperium","Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery",Other Indications For Care Or Intervention Related To Labor And Delivery And Not Elsewhere Classified
+660,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Obstructed Labor
+661,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Abnormality Of Forces Of Labor
+662,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Long Labor
+663,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Umbilical Cord Complications
+664,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Trauma To Perineum And Vulva During Delivery
+665,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Other Obstetrical Trauma
+666,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Postpartum Hemorrhage
+667,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,"Retained Placenta Or Membranes, Without Hemorrhage"
+668,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,Complications Of The Administration Of Anesthetic Or Other Sedation In Labor And Delivery
+669,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Occurring Mainly In The Course Of Labor And Delivery,"Other Complications Of Labor And Delivery, Not Elsewhere Classified"
+670,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,Major Puerperal Infection
+671,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,Venous Complications In Pregnancy And The Puerperium
+672,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,Pyrexia Of Unknown Origin During The Puerperium
+673,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,Obstetrical Pulmonary Embolism
+674,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,"Other And Unspecified Complications Of The Puerperium, Not Elsewhere Classified"
+675,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,Infections Of The Breast And Nipple Associated With Childbirth
+676,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,"Other Disorders Of The Breast Associated With Childbirth, And Disorders Of Lactation"
+677,"Complications Of Pregnancy, Childbirth, And The Puerperium",Complications Of The Puerperium,"Late Effect Of Complication Of Pregnancy, Childbirth, And The Puerperium"
+678,"Complications Of Pregnancy, Childbirth, And The Puerperium",Other Maternal And Fetal Complications,Other Fetal Conditions
+679,"Complications Of Pregnancy, Childbirth, And The Puerperium",Other Maternal And Fetal Complications,Complications Of In Utero Procedures
+680,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Carbuncle And Furuncle
+681,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Cellulitis And Abscess Of Finger And Toe
+682,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Other Cellulitis And Abscess
+683,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Acute Lymphadenitis
+684,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Impetigo
+685,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Pilonidal Cyst
+686,Diseases Of The Skin And Subcutaneous Tissue,Infections Of Skin And Subcutaneous Tissue,Other Local Infections Of Skin And Subcutaneous Tissue
+690,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Erythematosquamous Dermatosis
+691,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Atopic Dermatitis And Related Conditions
+692,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Contact Dermatitis And Other Eczema
+693,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Dermatitis Due To Substances Taken Internally
+694,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Bullous Dermatoses
+695,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Erythematous Conditions
+696,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Psoriasis And Similar Disorders
+697,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Lichen
+698,Diseases Of The Skin And Subcutaneous Tissue,Other Inflammatory Conditions Of Skin And Subcutaneous Tissue,Pruritus And Related Conditions
+700,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Corns And Callosities
+701,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Other Hypertrophic And Atrophic Conditions Of Skin
+702,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Other Dermatoses
+703,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Diseases Of Nail
+704,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Diseases Of Hair And Hair Follicles
+705,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Disorders Of Sweat Glands
+706,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Diseases Of Sebaceous Glands
+707,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Chronic Ulcer Of Skin
+708,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Urticaria
+709,Diseases Of The Skin And Subcutaneous Tissue,Other Diseases Of Skin And Subcutaneous Tissue,Other Disorders Of Skin And Subcutaneous Tissue
+710,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Diffuse Diseases Of Connective Tissue
+711,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Arthropathy Associated With Infections
+712,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Crystal Arthropathies
+713,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Arthropathy Associated With Other Disorders Classified Elsewhere
+714,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Rheumatoid Arthritis And Other Inflammatory Polyarthropathies
+715,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Osteoarthrosis And Allied Disorders
+716,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Other And Unspecified Arthropathies
+717,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Internal Derangement Of Knee
+718,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Other Derangement Of Joint
+719,Diseases Of The Musculoskeletal System And Connective Tissue,Arthropathies And Related Disorders,Other And Unspecified Disorder Of Joint
+720,Diseases Of The Musculoskeletal System And Connective Tissue,Dorsopathies,Ankylosing Spondylitis And Other Inflammatory Spondylopathies
+721,Diseases Of The Musculoskeletal System And Connective Tissue,Dorsopathies,Spondylosis And Allied Disorders
+722,Diseases Of The Musculoskeletal System And Connective Tissue,Dorsopathies,Intervertebral Disc Disorders
+723,Diseases Of The Musculoskeletal System And Connective Tissue,Dorsopathies,Other Disorders Of Cervical Region
+724,Diseases Of The Musculoskeletal System And Connective Tissue,Dorsopathies,Other And Unspecified Disorders Of Back
+725,Diseases Of The Musculoskeletal System And Connective Tissue,"Rheumatism, Excluding The Back",Polymyalgia Rheumatica
+726,Diseases Of The Musculoskeletal System And Connective Tissue,"Rheumatism, Excluding The Back",Peripheral Enthesopathies And Allied Syndromes
+727,Diseases Of The Musculoskeletal System And Connective Tissue,"Rheumatism, Excluding The Back","Other Disorders Of Synovium, Tendon, And Bursa"
+728,Diseases Of The Musculoskeletal System And Connective Tissue,"Rheumatism, Excluding The Back","Disorders Of Muscle, Ligament, And Fascia"
+729,Diseases Of The Musculoskeletal System And Connective Tissue,"Rheumatism, Excluding The Back",Other Disorders Of Soft Tissues
+730,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities","Osteomyelitis, Periostitis, And Other Infections Involving Bone"
+731,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Osteitis Deformans And Osteopathies Associated With Other Disorders Classified Elsewhere
+732,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Osteochondropathies
+733,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Other Disorders Of Bone And Cartilage
+734,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Flat Foot
+735,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Acquired Deformities Of Toe
+736,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Other Acquired Deformities Of Limbs
+737,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Curvature Of Spine
+738,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities",Other Acquired Deformity
+739,Diseases Of The Musculoskeletal System And Connective Tissue,"Osteopathies, Chondropathies, And Acquired Musculoskeletal Deformities","Nonallopathic Lesions, Not Elsewhere Classified"
+740,Congenital Anomalies,Congential Anomalies,Anencephalus And Similar Anomalies
+741,Congenital Anomalies,Congential Anomalies,Spina Bifida
+742,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Nervous System
+743,Congenital Anomalies,Congential Anomalies,Congenital Anomalies Of Eye
+744,Congenital Anomalies,Congential Anomalies,"Congenital Anomalies Of Ear, Face, And Neck"
+745,Congenital Anomalies,Congential Anomalies,Bulbus Cordis Anomalies And Anomalies Of Cardiac Septal Closure
+746,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Heart
+747,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Circulatory System
+748,Congenital Anomalies,Congential Anomalies,Congenital Anomalies Of Respiratory System
+749,Congenital Anomalies,Congential Anomalies,Cleft Palate And Cleft Lip
+750,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Upper Alimentary Tract
+751,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Digestive System
+752,Congenital Anomalies,Congential Anomalies,Congenital Anomalies Of Genital Organs
+753,Congenital Anomalies,Congential Anomalies,Congenital Anomalies Of Urinary System
+754,Congenital Anomalies,Congential Anomalies,Certain Congenital Musculoskeletal Deformities
+755,Congenital Anomalies,Congential Anomalies,Other Congenital Anomalies Of Limbs
+756,Congenital Anomalies,Congential Anomalies,Other Congenital Musculoskeletal Anomalies
+757,Congenital Anomalies,Congential Anomalies,Congenital Anomalies Of The Integument
+758,Congenital Anomalies,Congential Anomalies,Chromosomal Anomalies
+759,Congenital Anomalies,Congential Anomalies,Other And Unspecified Congenital Anomalies
+760,Certain Conditions Originating In The Perinatal Period,Maternal Causes Of Perinatal Morbidity And Mortality,Fetus Or Newborn Affected By Maternal Conditions Which May Be Unrelated To Present Pregnancy
+761,Certain Conditions Originating In The Perinatal Period,Maternal Causes Of Perinatal Morbidity And Mortality,Fetus Or Newborn Affected By Maternal Complications Of Pregnancy
+762,Certain Conditions Originating In The Perinatal Period,Maternal Causes Of Perinatal Morbidity And Mortality,"Fetus Or Newborn Affected By Complications Of Placenta, Cord, And Membranes"
+763,Certain Conditions Originating In The Perinatal Period,Maternal Causes Of Perinatal Morbidity And Mortality,Fetus Or Newborn Affected By Other Complications Of Labor And Delivery
+764,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Slow Fetal Growth And Fetal Malnutrition
+765,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Disorders Relating To Short Gestation And Unspecified Low Birthweight
+766,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Disorders Relating To Long Gestation And High Birthweight
+767,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Birth Trauma
+768,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Intrauterine Hypoxia And Birth Asphyxia
+769,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Respiratory Distress Syndrome
+770,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Other Respiratory Conditions Of Fetus And Newborn
+771,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Infections Specific To The Perinatal Period
+772,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Fetal And Neonatal Hemorrhage
+773,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,"Hemolytic Disease Of Fetus Or Newborn, Due To Isoimmunization"
+774,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Other Perinatal Jaundice
+775,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Endocrine And Metabolic Disturbances Specific To The Fetus And Newborn
+776,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Hematological Disorders Of Fetus And Newborn
+777,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Perinatal Disorders Of Digestive System
+778,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Conditions Involving The Integument And Temperature Regulation Of Fetus And Newborn
+779,Certain Conditions Originating In The Perinatal Period,Other Conditions Originating In The Perinatal Period,Other And Ill-Defined Conditions Originating In The Perinatal Period
+780,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,General Symptoms
+781,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Nervous And Musculoskeletal Systems
+782,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Skin And Other Integumentary Tissue
+783,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,"Symptoms Concerning Nutrition, Metabolism, And Development"
+784,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Head And Neck
+785,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Cardiovascular System
+786,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Respiratory System And Other Chest Symptoms
+787,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Digestive System
+788,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Symptoms Involving Urinary System
+789,"Symptoms, Signs, And Ill-Defined Conditions",Symptoms,Other Symptoms Involving Abdomen And Pelvis
+790,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Findings On Examination Of Blood
+791,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Findings On Examination Of Urine
+792,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Abnormal Findings In Other Body Substances
+793,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Abnormal Findings On Radiological And Other Examination Of Body Structure
+794,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Abnormal Results Of Function Studies
+795,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Nonspecific Abnormal Histological And Immunological Findings
+796,"Symptoms, Signs, And Ill-Defined Conditions",Nonspecific Abnormal Findings,Other Nonspecific Abnormal Findings
+797,"Symptoms, Signs, And Ill-Defined Conditions",Ill-Defined And Unknown Causes Of Morbidity And Mortality,Senility Without Mention Of Psychosis
+798,"Symptoms, Signs, And Ill-Defined Conditions",Ill-Defined And Unknown Causes Of Morbidity And Mortality,"Sudden Death, Cause Unknown"
+799,"Symptoms, Signs, And Ill-Defined Conditions",Ill-Defined And Unknown Causes Of Morbidity And Mortality,Other Ill-Defined And Unknown Causes Of Morbidity And Mortality
+800,Injury And Poisoning,Fracture Of Skull,Fracture Of Vault Of Skull
+801,Injury And Poisoning,Fracture Of Skull,Fracture Of Base Of Skull
+802,Injury And Poisoning,Fracture Of Skull,Fracture Of Face Bones
+803,Injury And Poisoning,Fracture Of Skull,Other And Unqualified Skull Fractures
+804,Injury And Poisoning,Fracture Of Skull,Multiple Fractures Involving Skull Or Face With Other Bones
+805,Injury And Poisoning,Fracture Of Spine And Trunk,Fracture Of Vertebral Column Without Mention Of Spinal Cord Lesion
+806,Injury And Poisoning,Fracture Of Spine And Trunk,Fracture Of Vertebral Column With Spinal Cord Lesion
+807,Injury And Poisoning,Fracture Of Spine And Trunk,"Fracture Of Rib(S), Sternum, Larynx, And Trachea"
+808,Injury And Poisoning,Fracture Of Spine And Trunk,Fracture Of Pelvis
+809,Injury And Poisoning,Fracture Of Spine And Trunk,Ill-Defined Fractures Of Bones Of Trunk
+810,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Clavicle
+811,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Scapula
+812,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Humerus
+813,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Radius And Ulna
+814,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Carpal Bone(S)
+815,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of Metacarpal Bone(S)
+816,Injury And Poisoning,Fracture Of Upper Limb,Fracture Of One Or More Phalanges Of Hand
+817,Injury And Poisoning,Fracture Of Upper Limb,Multiple Fractures Of Hand Bones
+818,Injury And Poisoning,Fracture Of Upper Limb,Ill-Defined Fractures Of Upper Limb
+819,Injury And Poisoning,Fracture Of Upper Limb,"Multiple Fractures Involving Both Upper Limbs, And Upper Limb With Rib(S) And Sternum"
+820,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Neck Of Femur
+821,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Other And Unspecified Parts Of Femur
+822,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Patella
+823,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Tibia And Fibula
+824,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Ankle
+825,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of One Or More Tarsal And Metatarsal Bones
+826,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of One Or More Phalanges Of Foot
+827,Injury And Poisoning,Fracture Of Lower Limb,"Other, Multiple, And Ill-Defined Fractures Of Lower Limb"
+828,Injury And Poisoning,Fracture Of Lower Limb,"Multiple Fractures Involving Both Lower Limbs, Lower With Upper Limb, And Lower Limb(S) With Rib(S) And Sternum"
+829,Injury And Poisoning,Fracture Of Lower Limb,Fracture Of Unspecified Bones
+830,Injury And Poisoning,Dislocation,Dislocation Of Jaw
+831,Injury And Poisoning,Dislocation,Dislocation Of Shoulder
+832,Injury And Poisoning,Dislocation,Dislocation Of Elbow
+833,Injury And Poisoning,Dislocation,Dislocation Of Wrist
+834,Injury And Poisoning,Dislocation,Dislocation Of Finger
+835,Injury And Poisoning,Dislocation,Dislocation Of Hip
+836,Injury And Poisoning,Dislocation,Dislocation Of Knee
+837,Injury And Poisoning,Dislocation,Dislocation Of Ankle
+838,Injury And Poisoning,Dislocation,Dislocation Of Foot
+839,Injury And Poisoning,Dislocation,"Other, Multiple, And Ill-Defined Dislocations"
+840,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Shoulder And Upper Arm
+841,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Elbow And Forearm
+842,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Wrist And Hand
+843,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Hip And Thigh
+844,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Knee And Leg
+845,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Ankle And Foot
+846,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Sacroiliac Region
+847,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Sprains And Strains Of Other And Unspecified Parts Of Back
+848,Injury And Poisoning,Sprains And Strains Of Joints And Adjacent Muscles,Other And Ill-Defined Sprains And Strains
+850,Injury And Poisoning,"Intracranial Injury, Excluding Those With Skull Fracture",Concussion
+851,Injury And Poisoning,"Intracranial Injury, Excluding Those With Skull Fracture",Cerebral Laceration And Contusion
+852,Injury And Poisoning,"Intracranial Injury, Excluding Those With Skull Fracture","Subarachnoid, Subdural, And Extradural Hemorrhage, Following Injury"
+853,Injury And Poisoning,"Intracranial Injury, Excluding Those With Skull Fracture",Other And Unspecified Intracranial Hemorrhage Following Injury
+854,Injury And Poisoning,"Intracranial Injury, Excluding Those With Skull Fracture",Intracranial Injury Of Other And Unspecified Nature
+860,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Traumatic Pneumothorax And Hemothorax
+861,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Heart And Lung
+862,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Other And Unspecified Intrathoracic Organs
+863,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Gastrointestinal Tract
+864,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Liver
+865,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Spleen
+866,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Kidney
+867,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Pelvic Organs
+868,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Injury To Other Intra-Abdominal Organs
+869,Injury And Poisoning,"Internal Injury Of Chest, Abdomen, And Pelvis",Internal Injury To Unspecified Or Ill-Defined Organs
+870,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Ocular Adnexa
+871,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Eyeball
+872,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Ear
+873,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Other Open Wound Of Head
+874,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Neck
+875,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Chest (Wall)
+876,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Back
+877,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk",Open Wound Of Buttock
+878,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk","Open Wound Of Genital Organs (External), Including Traumatic Amputation"
+879,Injury And Poisoning,"Open Wound Of Head, Neck, And Trunk","Open Wound Of Other And Unspecified Sites, Except Limbs"
+880,Injury And Poisoning,Open Wound Of Upper Limb,Open Wound Of Shoulder And Upper Arm
+881,Injury And Poisoning,Open Wound Of Upper Limb,"Open Wound Of Elbow, Forearm, And Wrist"
+882,Injury And Poisoning,Open Wound Of Upper Limb,Open Wound Of Hand Except Finger(S) Alone
+883,Injury And Poisoning,Open Wound Of Upper Limb,Open Wound Of Finger(S)
+884,Injury And Poisoning,Open Wound Of Upper Limb,Multiple And Unspecified Open Wound Of Upper Limb
+885,Injury And Poisoning,Open Wound Of Upper Limb,Traumatic Amputation Of Thumb (Complete) (Partial)
+886,Injury And Poisoning,Open Wound Of Upper Limb,Traumatic Amputation Of Other Finger(S) (Complete) (Partial)
+887,Injury And Poisoning,Open Wound Of Upper Limb,Traumatic Amputation Of Arm And Hand (Complete) (Partial)
+890,Injury And Poisoning,Open Wound Of Lower Limb,Open Wound Of Hip And Thigh
+891,Injury And Poisoning,Open Wound Of Lower Limb,"Open Wound Of Knee, Leg [Except Thigh], And Ankle"
+892,Injury And Poisoning,Open Wound Of Lower Limb,Open Wound Of Foot Except Toe(S) Alone
+893,Injury And Poisoning,Open Wound Of Lower Limb,Open Wound Of Toe(S)
+894,Injury And Poisoning,Open Wound Of Lower Limb,Multiple And Unspecified Open Wound Of Lower Limb
+895,Injury And Poisoning,Open Wound Of Lower Limb,Traumatic Amputation Of Toe(S) (Complete) (Partial)
+896,Injury And Poisoning,Open Wound Of Lower Limb,Traumatic Amputation Of Foot (Complete) (Partial)
+897,Injury And Poisoning,Open Wound Of Lower Limb,Traumatic Amputation Of Leg(S) (Complete) (Partial)
+900,Injury And Poisoning,Injury To Blood Vessels,Injury To Blood Vessels Of Head And Neck
+901,Injury And Poisoning,Injury To Blood Vessels,Injury To Blood Vessels Of Thorax
+902,Injury And Poisoning,Injury To Blood Vessels,Injury To Blood Vessels Of Abdomen And Pelvis
+903,Injury And Poisoning,Injury To Blood Vessels,Injury To Blood Vessels Of Upper Extremity
+904,Injury And Poisoning,Injury To Blood Vessels,Injury To Blood Vessels Of Lower Extremity And Unspecified Sites
+905,Injury And Poisoning,"Late Effects Of Injuries, Poisonings, Toxic Effects, And Other External Causes",Late Effects Of Musculoskeletal And Connective Tissue Injuries
+906,Injury And Poisoning,"Late Effects Of Injuries, Poisonings, Toxic Effects, And Other External Causes",Late Effects Of Injuries To Skin And Subcutaneous Tissues
+907,Injury And Poisoning,"Late Effects Of Injuries, Poisonings, Toxic Effects, And Other External Causes",Late Effects Of Injuries To The Nervous System
+908,Injury And Poisoning,"Late Effects Of Injuries, Poisonings, Toxic Effects, And Other External Causes",Late Effects Of Other And Unspecified Injuries
+909,Injury And Poisoning,"Late Effects Of Injuries, Poisonings, Toxic Effects, And Other External Causes",Late Effects Of Other And Unspecified External Causes
+910,Injury And Poisoning,Superficial Injury,"Superficial Injury Of Face, Neck, And Scalp Except Eye"
+911,Injury And Poisoning,Superficial Injury,Superficial Injury Of Trunk
+912,Injury And Poisoning,Superficial Injury,Superficial Injury Of Shoulder And Upper Arm
+913,Injury And Poisoning,Superficial Injury,"Superficial Injury Of Elbow, Forearm, And Wrist"
+914,Injury And Poisoning,Superficial Injury,Superficial Injury Of Hand(S) Except Finger(S) Alone
+915,Injury And Poisoning,Superficial Injury,Superficial Injury Of Finger(S)
+916,Injury And Poisoning,Superficial Injury,"Superficial Injury Of Hip, Thigh, Leg, And Ankle"
+917,Injury And Poisoning,Superficial Injury,Superficial Injury Of Foot And Toe(S)
+918,Injury And Poisoning,Superficial Injury,Superficial Injury Of Eye And Adnexa
+919,Injury And Poisoning,Superficial Injury,"Superficial Injury Of Other, Multiple, And Unspecified Sites"
+920,Injury And Poisoning,Contusion With Intact Skin Surface,"Contusion Of Face, Scalp, And Neck Except Eye(S)"
+921,Injury And Poisoning,Contusion With Intact Skin Surface,Contusion Of Eye And Adnexa
+922,Injury And Poisoning,Contusion With Intact Skin Surface,Contusion Of Trunk
+923,Injury And Poisoning,Contusion With Intact Skin Surface,Contusion Of Upper Limb
+924,Injury And Poisoning,Contusion With Intact Skin Surface,Contusion Of Lower Limb And Of Other And Unspecified Sites
+925,Injury And Poisoning,Crushing Injury,"Crushing Injury Of Face, Scalp, And Neck"
+926,Injury And Poisoning,Crushing Injury,Crushing Injury Of Trunk
+927,Injury And Poisoning,Crushing Injury,Crushing Injury Of Upper Limb
+928,Injury And Poisoning,Crushing Injury,Crushing Injury Of Lower Limb
+929,Injury And Poisoning,Crushing Injury,Crushing Injury Of Multiple And Unspecified Sites
+930,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body On External Eye
+931,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Ear
+932,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Nose
+933,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Pharynx And Larynx
+934,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,"Foreign Body In Trachea, Bronchus, And Lung"
+935,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,"Foreign Body In Mouth, Esophagus, And Stomach"
+936,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Intestine And Colon
+937,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Anus And Rectum
+938,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,"Foreign Body In Digestive System, Unspecified"
+939,Injury And Poisoning,Effects Of Foreign Body Entering Through Orifice,Foreign Body In Genitourinary Tract
+940,Injury And Poisoning,Burns,Burn Confined To Eye And Adnexa
+941,Injury And Poisoning,Burns,"Burn Of Face, Head, And Neck"
+942,Injury And Poisoning,Burns,Burn Of Trunk
+943,Injury And Poisoning,Burns,"Burn Of Upper Limb, Except Wrist And Hand"
+944,Injury And Poisoning,Burns,Burn Of Wrist(S) And Hand(S)
+945,Injury And Poisoning,Burns,Burn Of Lower Limb(S)
+946,Injury And Poisoning,Burns,Burns Of Multiple Specified Sites
+947,Injury And Poisoning,Burns,Burn Of Internal Organs
+948,Injury And Poisoning,Burns,Burns Classified According To Extent Of Body Surface Involved
+949,Injury And Poisoning,Burns,"Burn, Unspecified"
+950,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Optic Nerve And Pathways
+951,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Other Cranial Nerve(S)
+952,Injury And Poisoning,Injury To Nerves And Spinal Cord,Spinal Cord Injury Without Evidence Of Spinal Bone Injury
+953,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Nerve Roots And Spinal Plexus
+954,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Other Nerve(S) Of Trunk Excluding Shoulder And Pelvic Girdles
+955,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Peripheral Nerve(S) Of Shoulder Girdle And Upper Limb
+956,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Peripheral Nerve(S) Of Pelvic Girdle And Lower Limb
+957,Injury And Poisoning,Injury To Nerves And Spinal Cord,Injury To Other And Unspecified Nerves
+958,Injury And Poisoning,Certain Traumatic Complications And Unspecified Injuries,Certain Early Complications Of Trauma
+959,Injury And Poisoning,Certain Traumatic Complications And Unspecified Injuries,"Injury, Other And Unspecified"
+960,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Antibiotics
+961,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Other Anti-Infectives
+962,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Hormones And Synthetic Substitutes
+963,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Primarily Systemic Agents
+964,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Agents Primarily Affecting Blood Constituents
+965,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances","Poisoning By Analgesics, Antipyretics, And Antirheumatics"
+966,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Anticonvulsants And Anti-Parkinsonism Drugs
+967,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Sedatives And Hypnotics
+968,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Other Central Nervous System Depressants And Anesthetics
+969,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Psychotropic Agents
+970,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Central Nervous System Stimulants
+971,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Drugs Primarily Affecting The Autonomic Nervous System
+972,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Agents Primarily Affecting The Cardiovascular System
+973,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Agents Primarily Affecting The Gastrointestinal System
+974,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances","Poisoning By Water, Mineral, And Uric Acid Metabolism Drugs"
+975,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Agents Primarily Acting On The Smooth And Skeletal Muscles And Respiratory System
+976,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances","Poisoning By Agents Primarily Affecting Skin And Mucous Membrane, Ophthalmological, Otorhinolaryngological, And Dental Drugs"
+977,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Other And Unspecified Drugs And Medicinals
+978,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Bacterial Vaccines
+979,Injury And Poisoning,"Poisoning By Drugs, Medicinals And Biological Substances",Poisoning By Other Vaccines And Biological Substances
+980,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Alcohol
+981,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Petroleum Products
+982,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Solvents Other Than Petroleum-Based
+983,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,"Toxic Effect Of Corrosive Aromatics, Acids, And Caustic Alkalis"
+984,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Lead And Its Compounds (Including Fumes)
+985,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Other Metals
+986,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Carbon Monoxide
+987,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,"Toxic Effect Of Other Gases, Fumes, Or Vapors"
+988,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,Toxic Effect Of Noxious Substances Eaten As Food
+989,Injury And Poisoning,Toxic Effects Of Substances Chiefly Nonmedicinal As To Source,"Toxic Effect Of Other Substances, Chiefly Nonmedicinal As To Source"
+990,Injury And Poisoning,Other And Unspecified Effects Of External Causes,"Effects Of Radiation, Unspecified"
+991,Injury And Poisoning,Other And Unspecified Effects Of External Causes,Effects Of Reduced Temperature
+992,Injury And Poisoning,Other And Unspecified Effects Of External Causes,Effects Of Heat And Light
+993,Injury And Poisoning,Other And Unspecified Effects Of External Causes,Effects Of Air Pressure
+994,Injury And Poisoning,Other And Unspecified Effects Of External Causes,Effects Of Other External Causes
+995,Injury And Poisoning,Other And Unspecified Effects Of External Causes,"Certain Adverse Effects, Not Elsewhere Classified"
+996,Injury And Poisoning,"Complications Of Surgical And Medical Care, Not Elsewhere Classified",Complications Peculiar To Certain Specified Procedures
+997,Injury And Poisoning,"Complications Of Surgical And Medical Care, Not Elsewhere Classified","Complications Affecting Specified Body Systems, Not Elsewhere Classified"
+998,Injury And Poisoning,"Complications Of Surgical And Medical Care, Not Elsewhere Classified","Other Complications Of Procedures, Not Elsewhere Classified"
+999,Injury And Poisoning,"Complications Of Surgical And Medical Care, Not Elsewhere Classified","Complications Of Medical Care, Not Elsewhere Classified"

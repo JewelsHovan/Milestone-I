@@ -98,16 +98,15 @@ We will employ a variety of analytical techniques:
   - Data cleaning and preprocessing, including handling of outliers and missing values.
   - Web scraping and compilation of ICD-10 classification data.
   - Development of visualizations such as Sankey diagrams and disease distribution charts.
-
 - **Liu Liu**:
   - Research and integration of external datasets, focusing on demographics and socioeconomic factors.
   - Comparative analysis between hospital data and external statistics.
   - Resource utilization analysis and associated visualizations.
-
 - **George Mathew**:
   - Exploration and integration of insurance data.
   - Analysis of the impact of insurance coverage on patient outcomes and resource use.
   - Creation of visualizations related to insurance and socioeconomic data.
+  - **Developed `InsuranceAnalysis.ipynb` for detailed exploration of Medicare data and its correlation with patient data.**
 
 ## **Changelog**
 
