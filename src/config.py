@@ -1,19 +1,25 @@
 import os
 
-# Base directory for data files
-BASE_DATA_DIR = os.path.join("..", "Data")
-
 # File paths
 FILE_PATHS = {
-    'edstays': os.path.join(BASE_DATA_DIR, "ED", "edstays.csv"),
-    'admissions': os.path.join(BASE_DATA_DIR, "HOSP", "admissions.csv"),
-    'transfers': os.path.join(BASE_DATA_DIR, "HOSP", "transfers.csv"),
-    'diagnosis': os.path.join(BASE_DATA_DIR, "ED", "diagnosis.csv"),
-    'triage': os.path.join(BASE_DATA_DIR, "ED", "triage.csv"),
-    'vitalsigns': os.path.join(BASE_DATA_DIR, "ED", "vitalsign.csv"),
-    'medrecon': os.path.join(BASE_DATA_DIR, "ED", "medrecon.csv"),
-    'patients': os.path.join(BASE_DATA_DIR, "HOSP", "patients.csv"),
-    'disease_categories': os.path.join(BASE_DATA_DIR, "disease_categories.csv")
+    # ED files
+    'edstays': "../ED/edstays.csv",
+    'diagnosis': "../ED/diagnosis.csv",
+    'triage': "../ED/triage.csv",
+    'vitalsigns': '../ED/vitalsign.csv',
+    
+    # HOSP files
+    'admissions': "../HOSP/admissions.csv",
+    'transfers': "../HOSP/transfers.csv",
+    'patients': "../HOSP/patients.csv",
+    'hosp_diagnosis': "../HOSP/diagnoses_icd.csv",
+
+    # ICU files
+    'icu_stays': "../ICU/icustays.csv",
+    
+    # Data files
+    'icd10_codes': "../Data/diagnosis_icd10_codes.csv",
+    'icd9_codes': "../Data/diagnosis_icd9_codes.csv"
 }
 
 # Other configurations
@@ -72,4 +78,51 @@ DISEASE_CATEGORY_MAPPING = {
     'Certain Conditions Originating In The Perinatal Period': 'Perinatal Conditions',
     'Symptoms, Signs, And Ill-Defined Conditions': 'Symptoms & Abnormal Findings',
     'Injury And Poisoning': 'Injury & Poisoning'
+}
+
+# Define a mapping for careunit categories
+CAREUNIT_MAPPING = {
+    'Emergency Department': 'Emergency Department',
+    'Emergency Department Observation': 'Emergency Department',
+    'Medical Intensive Care Unit (MICU)': 'Intensive Care Unit (ICU)',
+    'Surgical Intensive Care Unit (SICU)': 'Intensive Care Unit (ICU)',
+    'Cardiac Vascular Intensive Care Unit (CVICU)': 'Intensive Care Unit (ICU)',
+    'Coronary Care Unit (CCU)': 'Intensive Care Unit (ICU)',
+    'Neuro Surgical Intensive Care Unit (Neuro SICU)': 'Intensive Care Unit (ICU)',
+    'Intensive Care Unit (ICU)': 'Intensive Care Unit (ICU)',
+    'Trauma SICU (TSICU)': 'Intensive Care Unit (ICU)',
+    'Cardiology Surgery Intermediate': 'Intermediate Care',
+    'Medical/Surgical Intensive Care Unit (MICU/SICU)': 'Intermediate Care',
+    'Hematology/Oncology Intermediate': 'Intermediate Care',
+    'Medicine/Cardiology Intermediate': 'Intermediate Care',
+    'Neuro Intermediate': 'Intermediate Care',
+    'Surgical Intermediate': 'Intermediate Care',
+    'Medicine': 'General Medicine/Surgery',
+    'Med/Surg': 'General Medicine/Surgery',
+    'Surgery/Trauma': 'General Medicine/Surgery',
+    'Med/Surg/GYN': 'General Medicine/Surgery',
+    'Med/Surg/Trauma': 'General Medicine/Surgery',
+    'Surgery': 'General Medicine/Surgery',
+    'Surgery/Pancreatic/Biliary/Bariatric': 'General Medicine/Surgery',
+    'Surgery/Vascular/Intermediate': 'General Medicine/Surgery',
+    'Transplant': 'Specialty Units',
+    'Thoracic Surgery': 'Specialty Units',
+    'Vascular': 'Specialty Units',
+    'Labor & Delivery': 'Specialty Units',
+    'Obstetrics (Postpartum & Antepartum)': 'Specialty Units',
+    'Neurology': 'Specialty Units',
+    'Psychiatry': 'Specialty Units',
+    'Hematology/Oncology': 'Specialty Units',
+    'Oncology': 'Specialty Units',
+    'Cardiology': 'Specialty Units',
+    'Discharge Lounge': 'Observation/Other',
+    'PACU': 'Observation/Other',
+    'Observation': 'Observation/Other',
+    'Obstetrics Postpartum': 'Observation/Other',
+    'Obstetrics Antepartum': 'Observation/Other',
+    'Neuro Stepdown': 'Observation/Other',
+    'Nursery': 'Observation/Other',
+    'Special Care Nursery (SCN)': 'Observation/Other',
+    'Unknown': 'Observation/Other',
+    'UNKNOWN': 'Observation/Other'
 }

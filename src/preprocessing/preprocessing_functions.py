@@ -7,7 +7,7 @@ import re
 import nltk
 from gensim import corpora
 from gensim.models.ldamodel import LdaModel
-from config import DISEASE_CATEGORY_MAPPING
+from config import DISEASE_CATEGORY_MAPPING, CAREUNIT_MAPPING
 
 def preprocess_diagnosis(df, icd9_codes_path, icd10_codes_path):
     """Processes the diagnosis DataFrame for both ICD-9 and ICD-10 codes."""
@@ -71,6 +71,7 @@ def preprocess_admissions(df):
     Utils.convert_to_datetime(df, ['admittime', 'dischtime', 'edregtime', 'edouttime', 'deathtime'])
     Utils.compute_length_of_stay(df, 'admittime', 'dischtime', 'admission')
     df['race'] = df['race'].map(Utils.race_mapping)
+    df['discharge_location'] = df['discharge_location'].fillna('Unknown')
     category_columns = [
         'admission_type', 'admission_location', 'discharge_location',
         'insurance', 'language', 'race', 'marital_status'
@@ -79,6 +80,11 @@ def preprocess_admissions(df):
         df[column] = df[column].astype('category')
     df = df.drop(columns=['admit_provider_id'])
     df['is_dead'] = df['deathtime'].notna()
+    # Start of Selection
+    columns_to_impute = ['insurance', 'marital_status', 'language', 'admission_location']
+    for column in columns_to_impute:
+        df[column] = df[column].fillna(df[column].mode()[0])
+
     return df
 
 def preprocess_patients(df):
@@ -94,6 +100,32 @@ def preprocess_patients(df):
 
     # Determine if the patient is dead
     df['is_dead'] = df['dod'].notna()
+
+    return df
+
+def preprocess_transfers(df):
+    """Preprocesses the transfers DataFrame."""
+    # Parse dates
+    df['intime'] = pd.to_datetime(df['intime'])
+    df['outtime'] = pd.to_datetime(df['outtime'])
+
+    # Compute length of stay
+    df['los'] = (df['outtime'] - df['intime']).dt.total_seconds() / 3600
+
+    # Apply the mapping to the careunit column
+    df['careunit_grouped'] = df['careunit'].map(CAREUNIT_MAPPING).fillna('Observation/Other')
+
+    # Convert categorical variables to category dtype
+    df['careunit'] = df['careunit'].astype('category')
+    df['careunit_grouped'] = df['careunit_grouped'].astype('category')
+    df['eventtype'] = df['eventtype'].astype('category')
+
+    # Update 'outtime' and 'los' for rows where eventtype is 'discharge'
+    df.loc[df['eventtype'] == 'discharge', 'outtime'] = df['intime']
+    df.loc[df['eventtype'] == 'discharge', 'los'] = 0
+
+    # Drop rows with missing los
+    df = df.dropna(subset=['los'])
 
     return df
 
