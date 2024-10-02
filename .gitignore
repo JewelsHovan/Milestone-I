@@ -10,3 +10,4 @@ mimic-iv-ed-2.2/
 .vscode/
 .venv/
 /Data/Medicare_Monthly_Enrollment_Data_Sept2024.csv
+/Processed_Data/

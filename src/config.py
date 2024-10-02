@@ -13,6 +13,7 @@ FILE_PATHS = {
     'transfers': "../HOSP/transfers.csv",
     'patients': "../HOSP/patients.csv",
     'hosp_diagnosis': "../HOSP/diagnoses_icd.csv",
+    "prescriptions": "../HOSP/prescriptions.csv",
 
     # ICU files
     'icu_stays': "../ICU/icustays.csv",
