@@ -155,6 +155,19 @@ def preprocess_ed_stay(df):
     df['admitted'] = df['hadm_id'].notna()
     return df
 
+def preprocess_icu_stays(df):
+    """Preprocesses the icustays DataFrame."""
+    # Parse the dates
+    df['intime'] = pd.to_datetime(df['intime'])
+    df['outtime'] = pd.to_datetime(df['outtime'])
+
+    # Convert object columns to category dtype
+    cat_cols = ['first_careunit', 'last_careunit']
+    for col in cat_cols:
+        df[col] = df[col].astype('category')
+
+    return df
+
 # Helper functions for triage preprocessing
 def _preprocess_text(text):
     lemmatizer = WordNetLemmatizer()
