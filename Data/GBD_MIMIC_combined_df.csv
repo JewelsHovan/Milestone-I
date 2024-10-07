@@ -1,0 +1,1321 @@
+gender,age_category,map_disease_category,year_group,case,total_case,percentage_of_group
+F,15-49 years,Cardiovascular diseases,2008 - 2010,2354,46297,5.084562714646737
+F,15-49 years,Cardiovascular diseases,2011 - 2013,1021,22458,4.5462641375011135
+F,15-49 years,Cardiovascular diseases,2014 - 2016,960,17165,5.592775997669676
+F,15-49 years,Cardiovascular diseases,2017 - 2019,712,12511,5.6909919271041485
+F,15-49 years,Cardiovascular diseases,2020 - 2022,464,6859,6.764834523983088
+F,15-49 years,Chronic respiratory diseases,2008 - 2010,2620,46297,5.659113981467482
+F,15-49 years,Chronic respiratory diseases,2011 - 2013,828,22458,3.686882180069463
+F,15-49 years,Chronic respiratory diseases,2014 - 2016,428,17165,2.493445965627731
+F,15-49 years,Chronic respiratory diseases,2017 - 2019,223,12511,1.782431460314923
+F,15-49 years,Chronic respiratory diseases,2020 - 2022,97,6859,1.4142003207464644
+F,15-49 years,Diabetes and kidney diseases,2008 - 2010,1860,46297,4.017538933408212
+F,15-49 years,Diabetes and kidney diseases,2011 - 2013,506,22458,2.253094665598005
+F,15-49 years,Diabetes and kidney diseases,2014 - 2016,372,17165,2.1672006990969996
+F,15-49 years,Diabetes and kidney diseases,2017 - 2019,256,12511,2.0461993445767725
+F,15-49 years,Diabetes and kidney diseases,2020 - 2022,120,6859,1.7495261699956262
+F,15-49 years,Digestive diseases,2008 - 2010,6596,46297,14.24714344341966
+F,15-49 years,Digestive diseases,2011 - 2013,2970,22458,13.224686080683941
+F,15-49 years,Digestive diseases,2014 - 2016,1922,17165,11.197203612001164
+F,15-49 years,Digestive diseases,2017 - 2019,1292,12511,10.326912317160899
+F,15-49 years,Digestive diseases,2020 - 2022,837,6859,12.202945035719493
+F,15-49 years,Enteric infections,2008 - 2010,437,46297,0.94390565263408
+F,15-49 years,Enteric infections,2011 - 2013,175,22458,0.7792323448214445
+F,15-49 years,Enteric infections,2014 - 2016,125,17165,0.7282260413632392
+F,15-49 years,Enteric infections,2017 - 2019,78,12511,0.6234513628007353
+F,15-49 years,Enteric infections,2020 - 2022,23,6859,0.3353258492491617
+F,15-49 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,231,46297,0.49895241592327794
+F,15-49 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,141,22458,0.6278386321132782
+F,15-49 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,79,17165,0.4602388581415672
+F,15-49 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,63,12511,0.50355686995444
+F,15-49 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,47,6859,0.685231083248287
+F,15-49 years,Maternal and neonatal disorders,2008 - 2010,11130,46297,24.0404345853943
+F,15-49 years,Maternal and neonatal disorders,2011 - 2013,5863,22458,26.10650992964645
+F,15-49 years,Maternal and neonatal disorders,2014 - 2016,4834,17165,28.161957471599187
+F,15-49 years,Maternal and neonatal disorders,2017 - 2019,3277,12511,26.192950203820637
+F,15-49 years,Maternal and neonatal disorders,2020 - 2022,1493,6859,21.767021431695582
+F,15-49 years,Mental disorders,2008 - 2010,4345,46297,9.385057347128324
+F,15-49 years,Mental disorders,2011 - 2013,2630,22458,11.71074895360228
+F,15-49 years,Mental disorders,2014 - 2016,2209,17165,12.869210602971162
+F,15-49 years,Mental disorders,2017 - 2019,1893,12511,15.130684997202462
+F,15-49 years,Mental disorders,2020 - 2022,1095,6859,15.96442630121009
+F,15-49 years,Musculoskeletal disorders,2008 - 2010,1947,46297,4.205456077067629
+F,15-49 years,Musculoskeletal disorders,2011 - 2013,805,22458,3.5844687861786446
+F,15-49 years,Musculoskeletal disorders,2014 - 2016,498,17165,2.901252548791145
+F,15-49 years,Musculoskeletal disorders,2017 - 2019,361,12511,2.885460794500839
+F,15-49 years,Musculoskeletal disorders,2020 - 2022,238,6859,3.469893570491325
+F,15-49 years,Neglected tropical diseases and malaria,2008 - 2010,31,46297,0.0669589822234702
+F,15-49 years,Neglected tropical diseases and malaria,2011 - 2013,9,22458,0.04007480630510286
+F,15-49 years,Neglected tropical diseases and malaria,2014 - 2016,19,17165,0.11069035828721234
+F,15-49 years,Neglected tropical diseases and malaria,2017 - 2019,11,12511,0.0879226280872832
+F,15-49 years,Neglected tropical diseases and malaria,2020 - 2022,5,6859,0.07289692374981775
+F,15-49 years,Neoplasms,2008 - 2010,1466,46297,3.166511869019591
+F,15-49 years,Neoplasms,2011 - 2013,897,22458,3.994122361741918
+F,15-49 years,Neoplasms,2014 - 2016,667,17165,3.885814156714244
+F,15-49 years,Neoplasms,2017 - 2019,497,12511,3.97250419630725
+F,15-49 years,Neoplasms,2020 - 2022,298,6859,4.344656655489138
+F,15-49 years,Neurological disorders,2008 - 2010,2172,46297,4.691448689979913
+F,15-49 years,Neurological disorders,2011 - 2013,902,22458,4.0163861430225305
+F,15-49 years,Neurological disorders,2014 - 2016,689,17165,4.013981939994174
+F,15-49 years,Neurological disorders,2017 - 2019,502,12511,4.012469027256015
+F,15-49 years,Neurological disorders,2020 - 2022,252,6859,3.674004956990815
+F,15-49 years,Nutritional deficiencies,2008 - 2010,160,46297,0.3455947469598462
+F,15-49 years,Nutritional deficiencies,2011 - 2013,88,22458,0.39184255053878353
+F,15-49 years,Nutritional deficiencies,2014 - 2016,62,17165,0.3612001165161666
+F,15-49 years,Nutritional deficiencies,2017 - 2019,56,12511,0.44760610662616895
+F,15-49 years,Nutritional deficiencies,2020 - 2022,36,6859,0.5248578509986879
+F,15-49 years,Other infectious diseases,2008 - 2010,969,46297,2.0930081862755685
+F,15-49 years,Other infectious diseases,2011 - 2013,479,22458,2.1328702466826965
+F,15-49 years,Other infectious diseases,2014 - 2016,417,17165,2.429362073987766
+F,15-49 years,Other infectious diseases,2017 - 2019,329,12511,2.6296858764287427
+F,15-49 years,Other infectious diseases,2020 - 2022,196,6859,2.8575594109928564
+F,15-49 years,Other non-communicable diseases,2008 - 2010,4175,46297,9.017862928483487
+F,15-49 years,Other non-communicable diseases,2011 - 2013,1973,22458,8.785288093329772
+F,15-49 years,Other non-communicable diseases,2014 - 2016,1434,17165,8.35420914651908
+F,15-49 years,Other non-communicable diseases,2017 - 2019,975,12511,7.793142035009192
+F,15-49 years,Other non-communicable diseases,2020 - 2022,494,6859,7.202216066481995
+F,15-49 years,Respiratory infections and tuberculosis,2008 - 2010,1062,46297,2.293885132945979
+F,15-49 years,Respiratory infections and tuberculosis,2011 - 2013,457,22458,2.034909609048001
+F,15-49 years,Respiratory infections and tuberculosis,2014 - 2016,336,17165,1.9574715991843867
+F,15-49 years,Respiratory infections and tuberculosis,2017 - 2019,199,12511,1.5906002717608503
+F,15-49 years,Respiratory infections and tuberculosis,2020 - 2022,157,6859,2.2889634057442776
+F,15-49 years,Self-harm and interpersonal violence,2008 - 2010,727,46297,1.5702961314988013
+F,15-49 years,Self-harm and interpersonal violence,2011 - 2013,380,22458,1.6920473773265652
+F,15-49 years,Self-harm and interpersonal violence,2014 - 2016,400,17165,2.330323332362365
+F,15-49 years,Self-harm and interpersonal violence,2017 - 2019,380,12511,3.0373271521061467
+F,15-49 years,Self-harm and interpersonal violence,2020 - 2022,255,6859,3.717743111240706
+F,15-49 years,Sense organ diseases,2008 - 2010,165,46297,0.3563945828023414
+F,15-49 years,Sense organ diseases,2011 - 2013,80,22458,0.3562205004898032
+F,15-49 years,Sense organ diseases,2014 - 2016,73,17165,0.42528400815613165
+F,15-49 years,Sense organ diseases,2017 - 2019,43,12511,0.34369754615937975
+F,15-49 years,Sense organ diseases,2020 - 2022,27,6859,0.39364338824901585
+F,15-49 years,Skin and subcutaneous diseases,2008 - 2010,1076,46297,2.324124673304966
+F,15-49 years,Skin and subcutaneous diseases,2011 - 2013,499,22458,2.2219253718051473
+F,15-49 years,Skin and subcutaneous diseases,2014 - 2016,339,17165,1.9749490241771046
+F,15-49 years,Skin and subcutaneous diseases,2017 - 2019,221,12511,1.7664455279354168
+F,15-49 years,Skin and subcutaneous diseases,2020 - 2022,117,6859,1.7057880157457355
+F,15-49 years,Substance use disorders,2008 - 2010,1051,46297,2.2701254940924898
+F,15-49 years,Substance use disorders,2011 - 2013,705,22458,3.1391931605663905
+F,15-49 years,Substance use disorders,2014 - 2016,582,17165,3.3906204485872413
+F,15-49 years,Substance use disorders,2017 - 2019,404,12511,3.2291583406602187
+F,15-49 years,Substance use disorders,2020 - 2022,201,6859,2.930456334742674
+F,15-49 years,Transport injuries,2008 - 2010,255,46297,0.5507916279672549
+F,15-49 years,Transport injuries,2011 - 2013,188,22458,0.8371181761510376
+F,15-49 years,Transport injuries,2014 - 2016,90,17165,0.5243227497815321
+F,15-49 years,Transport injuries,2017 - 2019,94,12511,0.7513388218367836
+F,15-49 years,Transport injuries,2020 - 2022,63,6859,0.9185012392477038
+F,15-49 years,Unintentional injuries,2008 - 2010,1468,46297,3.1708318033565894
+F,15-49 years,Unintentional injuries,2011 - 2013,862,22458,3.8382758927776295
+F,15-49 years,Unintentional injuries,2014 - 2016,630,17165,3.6702592484707255
+F,15-49 years,Unintentional injuries,2017 - 2019,645,12511,5.155463192390696
+F,15-49 years,Unintentional injuries,2020 - 2022,344,6859,5.015308353987462
+F,50-69 years,Cardiovascular diseases,2008 - 2010,6267,41269,15.185732632242118
+F,50-69 years,Cardiovascular diseases,2011 - 2013,3171,19969,15.879613400771195
+F,50-69 years,Cardiovascular diseases,2014 - 2016,2787,15558,17.91361357500964
+F,50-69 years,Cardiovascular diseases,2017 - 2019,2225,11511,19.32933715576405
+F,50-69 years,Cardiovascular diseases,2020 - 2022,1254,6887,18.208218382459705
+F,50-69 years,Chronic respiratory diseases,2008 - 2010,4351,41269,10.543022607768544
+F,50-69 years,Chronic respiratory diseases,2011 - 2013,1611,19969,8.067504632179878
+F,50-69 years,Chronic respiratory diseases,2014 - 2016,860,15558,5.52770278956164
+F,50-69 years,Chronic respiratory diseases,2017 - 2019,390,11511,3.3880635913474064
+F,50-69 years,Chronic respiratory diseases,2020 - 2022,210,6887,3.0492231740961233
+F,50-69 years,Diabetes and kidney diseases,2008 - 2010,2690,41269,6.518209794276577
+F,50-69 years,Diabetes and kidney diseases,2011 - 2013,983,19969,4.922630076618759
+F,50-69 years,Diabetes and kidney diseases,2014 - 2016,579,15558,3.7215580408792905
+F,50-69 years,Diabetes and kidney diseases,2017 - 2019,465,11511,4.039614281991139
+F,50-69 years,Diabetes and kidney diseases,2020 - 2022,220,6887,3.19442427762451
+F,50-69 years,Digestive diseases,2008 - 2010,6164,41269,14.936150621531901
+F,50-69 years,Digestive diseases,2011 - 2013,3044,19969,15.243627622815364
+F,50-69 years,Digestive diseases,2014 - 2016,2241,15558,14.404165059776322
+F,50-69 years,Digestive diseases,2017 - 2019,1565,11511,13.59569107809921
+F,50-69 years,Digestive diseases,2020 - 2022,994,6887,14.432989690721648
+F,50-69 years,Enteric infections,2008 - 2010,557,41269,1.349681358889239
+F,50-69 years,Enteric infections,2011 - 2013,187,19969,0.9364514998247283
+F,50-69 years,Enteric infections,2014 - 2016,152,15558,0.9769893302481039
+F,50-69 years,Enteric infections,2017 - 2019,105,11511,0.9121709669012249
+F,50-69 years,Enteric infections,2020 - 2022,37,6887,0.5372440830550312
+F,50-69 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,71,41269,0.1720419685478204
+F,50-69 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,28,19969,0.14021733687215185
+F,50-69 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,26,15558,0.16711659596349146
+F,50-69 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,19,11511,0.1650595082964121
+F,50-69 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,25,6887,0.36300275882096705
+F,50-69 years,Maternal and neonatal disorders,2008 - 2010,83,41269,0.20111948435871962
+F,50-69 years,Maternal and neonatal disorders,2011 - 2013,48,19969,0.24037257749511742
+F,50-69 years,Maternal and neonatal disorders,2014 - 2016,54,15558,0.34708831469340534
+F,50-69 years,Maternal and neonatal disorders,2017 - 2019,27,11511,0.23455824863174357
+F,50-69 years,Maternal and neonatal disorders,2020 - 2022,34,6887,0.4936837519965152
+F,50-69 years,Mental disorders,2008 - 2010,1893,41269,4.586978119169352
+F,50-69 years,Mental disorders,2011 - 2013,891,19969,4.461915969753117
+F,50-69 years,Mental disorders,2014 - 2016,515,15558,3.310194112353773
+F,50-69 years,Mental disorders,2017 - 2019,352,11511,3.0579445747545826
+F,50-69 years,Mental disorders,2020 - 2022,205,6887,2.97662262233193
+F,50-69 years,Musculoskeletal disorders,2008 - 2010,3349,41269,8.115050037558458
+F,50-69 years,Musculoskeletal disorders,2011 - 2013,1526,19969,7.6418448595322745
+F,50-69 years,Musculoskeletal disorders,2014 - 2016,1132,15558,7.27599948579509
+F,50-69 years,Musculoskeletal disorders,2017 - 2019,740,11511,6.4286334810181565
+F,50-69 years,Musculoskeletal disorders,2020 - 2022,383,6887,5.561202265137215
+F,50-69 years,Neglected tropical diseases and malaria,2008 - 2010,23,41269,0.05573190530422351
+F,50-69 years,Neglected tropical diseases and malaria,2011 - 2013,20,19969,0.1001552406229656
+F,50-69 years,Neglected tropical diseases and malaria,2014 - 2016,19,15558,0.12212366628101298
+F,50-69 years,Neglected tropical diseases and malaria,2017 - 2019,12,11511,0.10424811050299713
+F,50-69 years,Neglected tropical diseases and malaria,2020 - 2022,8,6887,0.11616088282270945
+F,50-69 years,Neoplasms,2008 - 2010,2961,41269,7.174877026339383
+F,50-69 years,Neoplasms,2011 - 2013,2017,19969,10.10065601682608
+F,50-69 years,Neoplasms,2014 - 2016,1811,15558,11.640313664995501
+F,50-69 years,Neoplasms,2017 - 2019,1392,11511,12.092780818347668
+F,50-69 years,Neoplasms,2020 - 2022,881,6887,12.79221722085088
+F,50-69 years,Neurological disorders,2008 - 2010,1847,41269,4.475514308560905
+F,50-69 years,Neurological disorders,2011 - 2013,873,19969,4.371776253192448
+F,50-69 years,Neurological disorders,2014 - 2016,671,15558,4.3128936881347215
+F,50-69 years,Neurological disorders,2017 - 2019,523,11511,4.543480149422292
+F,50-69 years,Neurological disorders,2020 - 2022,292,6887,4.239872223028895
+F,50-69 years,Nutritional deficiencies,2008 - 2010,163,41269,0.39496958976471447
+F,50-69 years,Nutritional deficiencies,2011 - 2013,70,19969,0.3505433421803796
+F,50-69 years,Nutritional deficiencies,2014 - 2016,91,15558,0.5849080858722201
+F,50-69 years,Nutritional deficiencies,2017 - 2019,50,11511,0.43436712709582137
+F,50-69 years,Nutritional deficiencies,2020 - 2022,34,6887,0.4936837519965152
+F,50-69 years,Other infectious diseases,2008 - 2010,1404,41269,3.4020693498752093
+F,50-69 years,Other infectious diseases,2011 - 2013,771,19969,3.8609845260153235
+F,50-69 years,Other infectious diseases,2014 - 2016,660,15558,4.242190512919398
+F,50-69 years,Other infectious diseases,2017 - 2019,446,11511,3.8745547736947263
+F,50-69 years,Other infectious diseases,2020 - 2022,319,6887,4.63191520255554
+F,50-69 years,Other non-communicable diseases,2008 - 2010,3268,41269,7.918776805834889
+F,50-69 years,Other non-communicable diseases,2011 - 2013,1736,19969,8.693474886073414
+F,50-69 years,Other non-communicable diseases,2014 - 2016,1249,15558,8.028024167630802
+F,50-69 years,Other non-communicable diseases,2017 - 2019,859,11511,7.462427243506212
+F,50-69 years,Other non-communicable diseases,2020 - 2022,452,6887,6.563089879483084
+F,50-69 years,Respiratory infections and tuberculosis,2008 - 2010,1491,41269,3.6128813395042285
+F,50-69 years,Respiratory infections and tuberculosis,2011 - 2013,645,19969,3.2300065100906403
+F,50-69 years,Respiratory infections and tuberculosis,2014 - 2016,418,15558,2.6867206581822853
+F,50-69 years,Respiratory infections and tuberculosis,2017 - 2019,256,11511,2.2239596907306054
+F,50-69 years,Respiratory infections and tuberculosis,2020 - 2022,222,6887,3.2234644983301872
+F,50-69 years,Self-harm and interpersonal violence,2008 - 2010,537,41269,1.30121883253774
+F,50-69 years,Self-harm and interpersonal violence,2011 - 2013,345,19969,1.7276779007461565
+F,50-69 years,Self-harm and interpersonal violence,2014 - 2016,539,15558,3.464455585550842
+F,50-69 years,Self-harm and interpersonal violence,2017 - 2019,580,11511,5.038658674311528
+F,50-69 years,Self-harm and interpersonal violence,2020 - 2022,326,6887,4.73355597502541
+F,50-69 years,Sense organ diseases,2008 - 2010,239,41269,0.5791271899004095
+F,50-69 years,Sense organ diseases,2011 - 2013,113,19969,0.5658771095197557
+F,50-69 years,Sense organ diseases,2014 - 2016,92,15558,0.5913356472554313
+F,50-69 years,Sense organ diseases,2017 - 2019,74,11511,0.6428633481018157
+F,50-69 years,Sense organ diseases,2020 - 2022,32,6887,0.4646435312908378
+F,50-69 years,Skin and subcutaneous diseases,2008 - 2010,1334,41269,3.2324505076449634
+F,50-69 years,Skin and subcutaneous diseases,2011 - 2013,554,19969,2.774300165256147
+F,50-69 years,Skin and subcutaneous diseases,2014 - 2016,383,15558,2.461756009769893
+F,50-69 years,Skin and subcutaneous diseases,2017 - 2019,199,11511,1.7287811658413692
+F,50-69 years,Skin and subcutaneous diseases,2020 - 2022,108,6887,1.5681719181065776
+F,50-69 years,Substance use disorders,2008 - 2010,523,41269,1.2672950640916911
+F,50-69 years,Substance use disorders,2011 - 2013,155,19969,0.7762031148279833
+F,50-69 years,Substance use disorders,2014 - 2016,167,15558,1.073402750996272
+F,50-69 years,Substance use disorders,2017 - 2019,98,11511,0.85135956910781
+F,50-69 years,Substance use disorders,2020 - 2022,42,6887,0.6098446348192246
+F,50-69 years,Transport injuries,2008 - 2010,115,41269,0.27865952652111753
+F,50-69 years,Transport injuries,2011 - 2013,98,19969,0.49076067905253146
+F,50-69 years,Transport injuries,2014 - 2016,66,15558,0.4242190512919399
+F,50-69 years,Transport injuries,2017 - 2019,42,11511,0.36486838676048994
+F,50-69 years,Transport injuries,2020 - 2022,50,6887,0.7260055176419341
+F,50-69 years,Unintentional injuries,2008 - 2010,1939,41269,4.6984419297777995
+F,50-69 years,Unintentional injuries,2011 - 2013,1083,19969,5.423406279733587
+F,50-69 years,Unintentional injuries,2014 - 2016,1046,15558,6.723229206838925
+F,50-69 years,Unintentional injuries,2017 - 2019,1092,11511,9.486578055772739
+F,50-69 years,Unintentional injuries,2020 - 2022,759,6887,11.02076375780456
+F,70+ years,Cardiovascular diseases,2008 - 2010,8557,34700,24.659942363112393
+F,70+ years,Cardiovascular diseases,2011 - 2013,4398,16620,26.462093862815884
+F,70+ years,Cardiovascular diseases,2014 - 2016,3848,13499,28.505815245573746
+F,70+ years,Cardiovascular diseases,2017 - 2019,3033,11127,27.258021029927203
+F,70+ years,Cardiovascular diseases,2020 - 2022,1860,6923,26.866965188502096
+F,70+ years,Chronic respiratory diseases,2008 - 2010,2999,34700,8.642651296829971
+F,70+ years,Chronic respiratory diseases,2011 - 2013,1044,16620,6.28158844765343
+F,70+ years,Chronic respiratory diseases,2014 - 2016,664,13499,4.918882880213349
+F,70+ years,Chronic respiratory diseases,2017 - 2019,401,11127,3.603846499505707
+F,70+ years,Chronic respiratory diseases,2020 - 2022,215,6923,3.1055900621118013
+F,70+ years,Diabetes and kidney diseases,2008 - 2010,2326,34700,6.703170028818444
+F,70+ years,Diabetes and kidney diseases,2011 - 2013,910,16620,5.475330926594465
+F,70+ years,Diabetes and kidney diseases,2014 - 2016,684,13499,5.067042003111342
+F,70+ years,Diabetes and kidney diseases,2017 - 2019,660,11127,5.931517929361014
+F,70+ years,Diabetes and kidney diseases,2020 - 2022,282,6923,4.0733785930954785
+F,70+ years,Digestive diseases,2008 - 2010,4435,34700,12.780979827089336
+F,70+ years,Digestive diseases,2011 - 2013,2186,16620,13.152827918170878
+F,70+ years,Digestive diseases,2014 - 2016,1547,13499,11.460108156159714
+F,70+ years,Digestive diseases,2017 - 2019,1216,11127,10.928372427428776
+F,70+ years,Digestive diseases,2020 - 2022,689,6923,9.95233280369782
+F,70+ years,Enteric infections,2008 - 2010,474,34700,1.3659942363112392
+F,70+ years,Enteric infections,2011 - 2013,163,16620,0.9807460890493381
+F,70+ years,Enteric infections,2014 - 2016,129,13499,0.9556263426920514
+F,70+ years,Enteric infections,2017 - 2019,81,11127,0.7279590186033971
+F,70+ years,Enteric infections,2020 - 2022,35,6923,0.5055611729019212
+F,70+ years,HIV/AIDS and sexually transmitted infections,2008 - 2010,8,34700,0.023054755043227668
+F,70+ years,HIV/AIDS and sexually transmitted infections,2011 - 2013,8,16620,0.04813477737665463
+F,70+ years,HIV/AIDS and sexually transmitted infections,2014 - 2016,10,13499,0.07407956144899622
+F,70+ years,HIV/AIDS and sexually transmitted infections,2017 - 2019,12,11127,0.10784578053383662
+F,70+ years,HIV/AIDS and sexually transmitted infections,2020 - 2022,21,6923,0.3033367037411527
+F,70+ years,Maternal and neonatal disorders,2008 - 2010,32,34700,0.09221902017291067
+F,70+ years,Maternal and neonatal disorders,2011 - 2013,31,16620,0.1865222623345367
+F,70+ years,Maternal and neonatal disorders,2014 - 2016,25,13499,0.18519890362249056
+F,70+ years,Maternal and neonatal disorders,2017 - 2019,25,11127,0.22467870944549295
+F,70+ years,Maternal and neonatal disorders,2020 - 2022,16,6923,0.23111367904087823
+F,70+ years,Mental disorders,2008 - 2010,983,34700,2.8328530259365996
+F,70+ years,Mental disorders,2011 - 2013,409,16620,2.460890493381468
+F,70+ years,Mental disorders,2014 - 2016,205,13499,1.5186310097044224
+F,70+ years,Mental disorders,2017 - 2019,123,11127,1.1054192504718252
+F,70+ years,Mental disorders,2020 - 2022,60,6923,0.8666762964032934
+F,70+ years,Musculoskeletal disorders,2008 - 2010,2289,34700,6.596541786743517
+F,70+ years,Musculoskeletal disorders,2011 - 2013,1057,16620,6.359807460890493
+F,70+ years,Musculoskeletal disorders,2014 - 2016,740,13499,5.48188754722572
+F,70+ years,Musculoskeletal disorders,2017 - 2019,650,11127,5.841646445582817
+F,70+ years,Musculoskeletal disorders,2020 - 2022,423,6923,6.110067889643219
+F,70+ years,Neglected tropical diseases and malaria,2008 - 2010,10,34700,0.028818443804034585
+F,70+ years,Neglected tropical diseases and malaria,2011 - 2013,8,16620,0.04813477737665463
+F,70+ years,Neglected tropical diseases and malaria,2014 - 2016,20,13499,0.14815912289799243
+F,70+ years,Neglected tropical diseases and malaria,2017 - 2019,6,11127,0.05392289026691831
+F,70+ years,Neglected tropical diseases and malaria,2020 - 2022,7,6923,0.10111223458038424
+F,70+ years,Neoplasms,2008 - 2010,1643,34700,4.734870317002882
+F,70+ years,Neoplasms,2011 - 2013,1171,16620,7.045728038507821
+F,70+ years,Neoplasms,2014 - 2016,1107,13499,8.200607452403883
+F,70+ years,Neoplasms,2017 - 2019,957,11127,8.600700997573469
+F,70+ years,Neoplasms,2020 - 2022,752,6923,10.862342914921278
+F,70+ years,Neurological disorders,2008 - 2010,1461,34700,4.210374639769452
+F,70+ years,Neurological disorders,2011 - 2013,809,16620,4.8676293622142
+F,70+ years,Neurological disorders,2014 - 2016,727,13499,5.385584117342026
+F,70+ years,Neurological disorders,2017 - 2019,619,11127,5.563044845870405
+F,70+ years,Neurological disorders,2020 - 2022,338,6923,4.882276469738553
+F,70+ years,Nutritional deficiencies,2008 - 2010,174,34700,0.5014409221902018
+F,70+ years,Nutritional deficiencies,2011 - 2013,79,16620,0.47533092659446446
+F,70+ years,Nutritional deficiencies,2014 - 2016,68,13499,0.5037410178531743
+F,70+ years,Nutritional deficiencies,2017 - 2019,55,11127,0.49429316078008445
+F,70+ years,Nutritional deficiencies,2020 - 2022,32,6923,0.46222735808175647
+F,70+ years,Other infectious diseases,2008 - 2010,1254,34700,3.613832853025937
+F,70+ years,Other infectious diseases,2011 - 2013,720,16620,4.332129963898916
+F,70+ years,Other infectious diseases,2014 - 2016,712,13499,5.274464775168531
+F,70+ years,Other infectious diseases,2017 - 2019,565,11127,5.077738833468141
+F,70+ years,Other infectious diseases,2020 - 2022,388,6923,5.604506716741297
+F,70+ years,Other non-communicable diseases,2008 - 2010,3329,34700,9.593659942363113
+F,70+ years,Other non-communicable diseases,2011 - 2013,1444,16620,8.688327316486161
+F,70+ years,Other non-communicable diseases,2014 - 2016,1080,13499,8.000592636491593
+F,70+ years,Other non-communicable diseases,2017 - 2019,838,11127,7.5312303406129235
+F,70+ years,Other non-communicable diseases,2020 - 2022,409,6923,5.9078434204824495
+F,70+ years,Respiratory infections and tuberculosis,2008 - 2010,1597,34700,4.602305475504323
+F,70+ years,Respiratory infections and tuberculosis,2011 - 2013,592,16620,3.561973525872443
+F,70+ years,Respiratory infections and tuberculosis,2014 - 2016,441,13499,3.2669086599007335
+F,70+ years,Respiratory infections and tuberculosis,2017 - 2019,306,11127,2.7500674036128334
+F,70+ years,Respiratory infections and tuberculosis,2020 - 2022,233,6923,3.3655929510327893
+F,70+ years,Self-harm and interpersonal violence,2008 - 2010,172,34700,0.49567723342939485
+F,70+ years,Self-harm and interpersonal violence,2011 - 2013,136,16620,0.8182912154031288
+F,70+ years,Self-harm and interpersonal violence,2014 - 2016,350,13499,2.5927846507148677
+F,70+ years,Self-harm and interpersonal violence,2017 - 2019,482,11127,4.331805518109104
+F,70+ years,Self-harm and interpersonal violence,2020 - 2022,281,6923,4.058933988155424
+F,70+ years,Sense organ diseases,2008 - 2010,228,34700,0.6570605187319885
+F,70+ years,Sense organ diseases,2011 - 2013,101,16620,0.6077015643802647
+F,70+ years,Sense organ diseases,2014 - 2016,71,13499,0.5259648862878732
+F,70+ years,Sense organ diseases,2017 - 2019,38,11127,0.34151163835714926
+F,70+ years,Sense organ diseases,2020 - 2022,30,6923,0.4333381482016467
+F,70+ years,Skin and subcutaneous diseases,2008 - 2010,817,34700,2.3544668587896256
+F,70+ years,Skin and subcutaneous diseases,2011 - 2013,325,16620,1.9554753309265944
+F,70+ years,Skin and subcutaneous diseases,2014 - 2016,210,13499,1.5556707904289206
+F,70+ years,Skin and subcutaneous diseases,2017 - 2019,146,11127,1.3121236631616788
+F,70+ years,Skin and subcutaneous diseases,2020 - 2022,88,6923,1.2711252347248303
+F,70+ years,Substance use disorders,2008 - 2010,86,34700,0.24783861671469742
+F,70+ years,Substance use disorders,2011 - 2013,39,16620,0.23465703971119134
+F,70+ years,Substance use disorders,2014 - 2016,27,13499,0.20001481591228978
+F,70+ years,Substance use disorders,2017 - 2019,19,11127,0.17075581917857463
+F,70+ years,Substance use disorders,2020 - 2022,10,6923,0.1444460494005489
+F,70+ years,Transport injuries,2008 - 2010,59,34700,0.17002881844380402
+F,70+ years,Transport injuries,2011 - 2013,38,16620,0.2286401925391095
+F,70+ years,Transport injuries,2014 - 2016,26,13499,0.1926068597673902
+F,70+ years,Transport injuries,2017 - 2019,29,11127,0.26062730295677183
+F,70+ years,Transport injuries,2020 - 2022,19,6923,0.27444749386104295
+F,70+ years,Unintentional injuries,2008 - 2010,1767,34700,5.0922190201729105
+F,70+ years,Unintentional injuries,2011 - 2013,952,16620,5.728038507821901
+F,70+ years,Unintentional injuries,2014 - 2016,808,13499,5.985628565078895
+F,70+ years,Unintentional injuries,2017 - 2019,866,11127,7.782870495191875
+F,70+ years,Unintentional injuries,2020 - 2022,735,6923,10.616784630940344
+M,15-49 years,Cardiovascular diseases,2008 - 2010,2670,32312,8.263183956424857
+M,15-49 years,Cardiovascular diseases,2011 - 2013,1335,16979,7.862653866541021
+M,15-49 years,Cardiovascular diseases,2014 - 2016,1331,12961,10.269269346501043
+M,15-49 years,Cardiovascular diseases,2017 - 2019,954,9726,9.808760024676126
+M,15-49 years,Cardiovascular diseases,2020 - 2022,586,5999,9.768294715785965
+M,15-49 years,Chronic respiratory diseases,2008 - 2010,2432,32312,7.526615498885862
+M,15-49 years,Chronic respiratory diseases,2011 - 2013,936,16979,5.51269214912539
+M,15-49 years,Chronic respiratory diseases,2014 - 2016,428,12961,3.302214335313633
+M,15-49 years,Chronic respiratory diseases,2017 - 2019,234,9726,2.405922270203578
+M,15-49 years,Chronic respiratory diseases,2020 - 2022,150,5999,2.5004167361226872
+M,15-49 years,Diabetes and kidney diseases,2008 - 2010,1943,32312,6.013245852933895
+M,15-49 years,Diabetes and kidney diseases,2011 - 2013,736,16979,4.334766476235349
+M,15-49 years,Diabetes and kidney diseases,2014 - 2016,570,12961,4.39780881104853
+M,15-49 years,Diabetes and kidney diseases,2017 - 2019,352,9726,3.6191651244088012
+M,15-49 years,Diabetes and kidney diseases,2020 - 2022,167,5999,2.783797299549925
+M,15-49 years,Digestive diseases,2008 - 2010,4631,32312,14.332136667491953
+M,15-49 years,Digestive diseases,2011 - 2013,2453,16979,14.447258377996347
+M,15-49 years,Digestive diseases,2014 - 2016,1753,12961,13.525190957487847
+M,15-49 years,Digestive diseases,2017 - 2019,1475,9726,15.16553567756529
+M,15-49 years,Digestive diseases,2020 - 2022,913,5999,15.219203200533421
+M,15-49 years,Enteric infections,2008 - 2010,223,32312,0.690146075761327
+M,15-49 years,Enteric infections,2011 - 2013,132,16979,0.7774309441074269
+M,15-49 years,Enteric infections,2014 - 2016,90,12961,0.6943908649023994
+M,15-49 years,Enteric infections,2017 - 2019,52,9726,0.5346493933785729
+M,15-49 years,Enteric infections,2020 - 2022,21,5999,0.3500583430571762
+M,15-49 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,296,32312,0.9160683337459767
+M,15-49 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,97,16979,0.5712939513516697
+M,15-49 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,74,12961,0.5709436000308618
+M,15-49 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,31,9726,0.3187332922064569
+M,15-49 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,40,5999,0.6667777962993832
+M,15-49 years,Maternal and neonatal disorders,2008 - 2010,23,32312,0.07118098539242387
+M,15-49 years,Maternal and neonatal disorders,2011 - 2013,34,16979,0.2002473643913069
+M,15-49 years,Maternal and neonatal disorders,2014 - 2016,47,12961,0.3626263405601419
+M,15-49 years,Maternal and neonatal disorders,2017 - 2019,23,9726,0.23647953937898417
+M,15-49 years,Maternal and neonatal disorders,2020 - 2022,13,5999,0.21670278379729954
+M,15-49 years,Mental disorders,2008 - 2010,4701,32312,14.548774449121069
+M,15-49 years,Mental disorders,2011 - 2013,2972,16979,17.503975499146005
+M,15-49 years,Mental disorders,2014 - 2016,2067,12961,15.947843530591776
+M,15-49 years,Mental disorders,2017 - 2019,1802,9726,18.52765782438824
+M,15-49 years,Mental disorders,2020 - 2022,996,5999,16.60276712785464
+M,15-49 years,Musculoskeletal disorders,2008 - 2010,1570,32312,4.85887595939589
+M,15-49 years,Musculoskeletal disorders,2011 - 2013,836,16979,4.92372931268037
+M,15-49 years,Musculoskeletal disorders,2014 - 2016,641,12961,4.9456060489159785
+M,15-49 years,Musculoskeletal disorders,2017 - 2019,338,9726,3.4752210569607236
+M,15-49 years,Musculoskeletal disorders,2020 - 2022,225,5999,3.7506251041840306
+M,15-49 years,Neglected tropical diseases and malaria,2008 - 2010,42,32312,0.12998266897746968
+M,15-49 years,Neglected tropical diseases and malaria,2011 - 2013,24,16979,0.14135108074680489
+M,15-49 years,Neglected tropical diseases and malaria,2014 - 2016,22,12961,0.16973998919836433
+M,15-49 years,Neglected tropical diseases and malaria,2017 - 2019,18,9726,0.1850709438618137
+M,15-49 years,Neglected tropical diseases and malaria,2020 - 2022,12,5999,0.20003333888981498
+M,15-49 years,Neoplasms,2008 - 2010,1032,32312,3.1938598663035402
+M,15-49 years,Neoplasms,2011 - 2013,617,16979,3.6339007008657753
+M,15-49 years,Neoplasms,2014 - 2016,414,12961,3.1941979785510375
+M,15-49 years,Neoplasms,2017 - 2019,304,9726,3.1256426074439645
+M,15-49 years,Neoplasms,2020 - 2022,260,5999,4.334055675945991
+M,15-49 years,Neurological disorders,2008 - 2010,1312,32312,4.060410992820005
+M,15-49 years,Neurological disorders,2011 - 2013,681,16979,4.010836916190589
+M,15-49 years,Neurological disorders,2014 - 2016,555,12961,4.282077000231464
+M,15-49 years,Neurological disorders,2017 - 2019,414,9726,4.256631708821715
+M,15-49 years,Neurological disorders,2020 - 2022,254,5999,4.234039006501083
+M,15-49 years,Nutritional deficiencies,2008 - 2010,54,32312,0.16712057439960387
+M,15-49 years,Nutritional deficiencies,2011 - 2013,19,16979,0.11190293892455387
+M,15-49 years,Nutritional deficiencies,2014 - 2016,22,12961,0.16973998919836433
+M,15-49 years,Nutritional deficiencies,2017 - 2019,23,9726,0.23647953937898417
+M,15-49 years,Nutritional deficiencies,2020 - 2022,16,5999,0.26671111851975327
+M,15-49 years,Other infectious diseases,2008 - 2010,860,32312,2.6615498885862836
+M,15-49 years,Other infectious diseases,2011 - 2013,518,16979,3.0508274927852055
+M,15-49 years,Other infectious diseases,2014 - 2016,464,12961,3.5799706812745926
+M,15-49 years,Other infectious diseases,2017 - 2019,359,9726,3.69113715813284
+M,15-49 years,Other infectious diseases,2020 - 2022,265,5999,4.417402900483413
+M,15-49 years,Other non-communicable diseases,2008 - 2010,1504,32312,4.654617479574152
+M,15-49 years,Other non-communicable diseases,2011 - 2013,853,16979,5.023852994876023
+M,15-49 years,Other non-communicable diseases,2014 - 2016,734,12961,5.663143275981791
+M,15-49 years,Other non-communicable diseases,2017 - 2019,485,9726,4.986633765165536
+M,15-49 years,Other non-communicable diseases,2020 - 2022,304,5999,5.067511251875312
+M,15-49 years,Respiratory infections and tuberculosis,2008 - 2010,982,32312,3.0391185937113145
+M,15-49 years,Respiratory infections and tuberculosis,2011 - 2013,462,16979,2.721008304375994
+M,15-49 years,Respiratory infections and tuberculosis,2014 - 2016,348,12961,2.6849780109559447
+M,15-49 years,Respiratory infections and tuberculosis,2017 - 2019,218,9726,2.2414147645486326
+M,15-49 years,Respiratory infections and tuberculosis,2020 - 2022,245,5999,4.084014002333722
+M,15-49 years,Self-harm and interpersonal violence,2008 - 2010,773,32312,2.392300074275811
+M,15-49 years,Self-harm and interpersonal violence,2011 - 2013,476,16979,2.8034631014782967
+M,15-49 years,Self-harm and interpersonal violence,2014 - 2016,552,12961,4.25893063806805
+M,15-49 years,Self-harm and interpersonal violence,2017 - 2019,506,9726,5.202549866337652
+M,15-49 years,Self-harm and interpersonal violence,2020 - 2022,326,5999,5.434239039839974
+M,15-49 years,Sense organ diseases,2008 - 2010,122,32312,0.37756870512503093
+M,15-49 years,Sense organ diseases,2011 - 2013,93,16979,0.5477354378938689
+M,15-49 years,Sense organ diseases,2014 - 2016,73,12961,0.5632281459763907
+M,15-49 years,Sense organ diseases,2017 - 2019,62,9726,0.6374665844129138
+M,15-49 years,Sense organ diseases,2020 - 2022,22,5999,0.36672778796466077
+M,15-49 years,Skin and subcutaneous diseases,2008 - 2010,1296,32312,4.0108937855904925
+M,15-49 years,Skin and subcutaneous diseases,2011 - 2013,676,16979,3.981388774368337
+M,15-49 years,Skin and subcutaneous diseases,2014 - 2016,457,12961,3.5259625028932957
+M,15-49 years,Skin and subcutaneous diseases,2017 - 2019,365,9726,3.7528274727534443
+M,15-49 years,Skin and subcutaneous diseases,2020 - 2022,152,5999,2.533755625937656
+M,15-49 years,Substance use disorders,2008 - 2010,3754,32312,11.617974746224313
+M,15-49 years,Substance use disorders,2011 - 2013,1738,16979,10.236174097414453
+M,15-49 years,Substance use disorders,2014 - 2016,1404,12961,10.832497492477431
+M,15-49 years,Substance use disorders,2017 - 2019,838,9726,8.61608060867777
+M,15-49 years,Substance use disorders,2020 - 2022,446,5999,7.434572428738123
+M,15-49 years,Transport injuries,2008 - 2010,481,32312,1.488611042337212
+M,15-49 years,Transport injuries,2011 - 2013,356,16979,2.096707697744272
+M,15-49 years,Transport injuries,2014 - 2016,238,12961,1.8362780649641233
+M,15-49 years,Transport injuries,2017 - 2019,189,9726,1.9432449105490437
+M,15-49 years,Transport injuries,2020 - 2022,181,5999,3.0171695282547093
+M,15-49 years,Unintentional injuries,2008 - 2010,1611,32312,4.985763802921515
+M,15-49 years,Unintentional injuries,2011 - 2013,935,16979,5.506802520760941
+M,15-49 years,Unintentional injuries,2014 - 2016,677,12961,5.223362394876938
+M,15-49 years,Unintentional injuries,2017 - 2019,684,9726,7.03269586674892
+M,15-49 years,Unintentional injuries,2020 - 2022,405,5999,6.7511251875312555
+M,50-69 years,Cardiovascular diseases,2008 - 2010,9288,45245,20.52823516410653
+M,50-69 years,Cardiovascular diseases,2011 - 2013,5279,24140,21.868268434134215
+M,50-69 years,Cardiovascular diseases,2014 - 2016,4622,19481,23.725681433191316
+M,50-69 years,Cardiovascular diseases,2017 - 2019,3502,14509,24.136742711420496
+M,50-69 years,Cardiovascular diseases,2020 - 2022,2086,8698,23.98252471832605
+M,50-69 years,Chronic respiratory diseases,2008 - 2010,3554,45245,7.855011603492098
+M,50-69 years,Chronic respiratory diseases,2011 - 2013,1548,24140,6.412593206296603
+M,50-69 years,Chronic respiratory diseases,2014 - 2016,708,19481,3.6343103536779426
+M,50-69 years,Chronic respiratory diseases,2017 - 2019,420,14509,2.8947549796677925
+M,50-69 years,Chronic respiratory diseases,2020 - 2022,225,8698,2.586801563577834
+M,50-69 years,Diabetes and kidney diseases,2008 - 2010,3862,45245,8.535749806608466
+M,50-69 years,Diabetes and kidney diseases,2011 - 2013,1486,24140,6.155758077879039
+M,50-69 years,Diabetes and kidney diseases,2014 - 2016,1087,19481,5.579795698372774
+M,50-69 years,Diabetes and kidney diseases,2017 - 2019,829,14509,5.713694947963333
+M,50-69 years,Diabetes and kidney diseases,2020 - 2022,446,8698,5.127615543803174
+M,50-69 years,Digestive diseases,2008 - 2010,5763,45245,12.737319040777987
+M,50-69 years,Digestive diseases,2011 - 2013,3313,24140,13.724109362054682
+M,50-69 years,Digestive diseases,2014 - 2016,2688,19481,13.798059647862019
+M,50-69 years,Digestive diseases,2017 - 2019,1851,14509,12.757598731821629
+M,50-69 years,Digestive diseases,2020 - 2022,1039,8698,11.945274775810532
+M,50-69 years,Enteric infections,2008 - 2010,381,45245,0.84208199801083
+M,50-69 years,Enteric infections,2011 - 2013,146,24140,0.6048053024026512
+M,50-69 years,Enteric infections,2014 - 2016,112,19481,0.5749191519942508
+M,50-69 years,Enteric infections,2017 - 2019,86,14509,0.592735543455786
+M,50-69 years,Enteric infections,2020 - 2022,35,8698,0.4023913543343297
+M,50-69 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,169,45245,0.37352193612553874
+M,50-69 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,83,24140,0.34382767191383595
+M,50-69 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,45,19481,0.2309943021405472
+M,50-69 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,18,14509,0.12406092770004824
+M,50-69 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,28,8698,0.3219130834674638
+M,50-69 years,Maternal and neonatal disorders,2008 - 2010,29,45245,0.06409548016355399
+M,50-69 years,Maternal and neonatal disorders,2011 - 2013,18,24140,0.07456503728251865
+M,50-69 years,Maternal and neonatal disorders,2014 - 2016,28,19481,0.1437297879985627
+M,50-69 years,Maternal and neonatal disorders,2017 - 2019,16,14509,0.11027638017782067
+M,50-69 years,Maternal and neonatal disorders,2020 - 2022,15,8698,0.17245343757185558
+M,50-69 years,Mental disorders,2008 - 2010,1940,45245,4.287766604044646
+M,50-69 years,Mental disorders,2011 - 2013,809,24140,3.3512841756420877
+M,50-69 years,Mental disorders,2014 - 2016,578,19481,2.966993480827473
+M,50-69 years,Mental disorders,2017 - 2019,447,14509,3.0808463712178646
+M,50-69 years,Mental disorders,2020 - 2022,244,8698,2.8052425845021842
+M,50-69 years,Musculoskeletal disorders,2008 - 2010,2631,45245,5.815007183114156
+M,50-69 years,Musculoskeletal disorders,2011 - 2013,1404,24140,5.816072908036454
+M,50-69 years,Musculoskeletal disorders,2014 - 2016,1034,19481,5.307735742518351
+M,50-69 years,Musculoskeletal disorders,2017 - 2019,790,14509,5.444896271279895
+M,50-69 years,Musculoskeletal disorders,2020 - 2022,454,8698,5.219590710508163
+M,50-69 years,Neglected tropical diseases and malaria,2008 - 2010,46,45245,0.10166869267322357
+M,50-69 years,Neglected tropical diseases and malaria,2011 - 2013,23,24140,0.09527754763877382
+M,50-69 years,Neglected tropical diseases and malaria,2014 - 2016,29,19481,0.1488629947127971
+M,50-69 years,Neglected tropical diseases and malaria,2017 - 2019,24,14509,0.16541457026673098
+M,50-69 years,Neglected tropical diseases and malaria,2020 - 2022,15,8698,0.17245343757185558
+M,50-69 years,Neoplasms,2008 - 2010,3128,45245,6.913471101779202
+M,50-69 years,Neoplasms,2011 - 2013,2303,24140,9.540182270091135
+M,50-69 years,Neoplasms,2014 - 2016,1866,19481,9.578563728761358
+M,50-69 years,Neoplasms,2017 - 2019,1381,14509,9.518230064098146
+M,50-69 years,Neoplasms,2020 - 2022,971,8698,11.163485858818119
+M,50-69 years,Neurological disorders,2008 - 2010,1551,45245,3.4280030942645596
+M,50-69 years,Neurological disorders,2011 - 2013,799,24140,3.309859154929577
+M,50-69 years,Neurological disorders,2014 - 2016,676,19481,3.4700477388224424
+M,50-69 years,Neurological disorders,2017 - 2019,487,14509,3.3565373216624166
+M,50-69 years,Neurological disorders,2020 - 2022,320,8698,3.6790066681995857
+M,50-69 years,Nutritional deficiencies,2008 - 2010,137,45245,0.3027958890485136
+M,50-69 years,Nutritional deficiencies,2011 - 2013,74,24140,0.30654515327257664
+M,50-69 years,Nutritional deficiencies,2014 - 2016,68,19481,0.349058056567938
+M,50-69 years,Nutritional deficiencies,2017 - 2019,55,14509,0.37907505686125853
+M,50-69 years,Nutritional deficiencies,2020 - 2022,31,8698,0.3564037709818349
+M,50-69 years,Other infectious diseases,2008 - 2010,1934,45245,4.274505470217703
+M,50-69 years,Other infectious diseases,2011 - 2013,1149,24140,4.75973487986744
+M,50-69 years,Other infectious diseases,2014 - 2016,932,19481,4.784148657666444
+M,50-69 years,Other infectious diseases,2017 - 2019,674,14509,4.645392514990696
+M,50-69 years,Other infectious diseases,2020 - 2022,441,8698,5.070131064612555
+M,50-69 years,Other non-communicable diseases,2008 - 2010,2711,45245,5.991822300806719
+M,50-69 years,Other non-communicable diseases,2011 - 2013,1466,24140,6.072908036454018
+M,50-69 years,Other non-communicable diseases,2014 - 2016,1101,19481,5.651660592372055
+M,50-69 years,Other non-communicable diseases,2017 - 2019,819,14509,5.644772210352196
+M,50-69 years,Other non-communicable diseases,2020 - 2022,506,8698,5.817429294090595
+M,50-69 years,Respiratory infections and tuberculosis,2008 - 2010,1645,45245,3.635760857553321
+M,50-69 years,Respiratory infections and tuberculosis,2011 - 2013,760,24140,3.1483015741507874
+M,50-69 years,Respiratory infections and tuberculosis,2014 - 2016,475,19481,2.4382731892613316
+M,50-69 years,Respiratory infections and tuberculosis,2017 - 2019,379,14509,2.6121717554621267
+M,50-69 years,Respiratory infections and tuberculosis,2020 - 2022,277,8698,3.184640147160267
+M,50-69 years,Self-harm and interpersonal violence,2008 - 2010,708,45245,1.56481379157918
+M,50-69 years,Self-harm and interpersonal violence,2011 - 2013,592,24140,2.452361226180613
+M,50-69 years,Self-harm and interpersonal violence,2014 - 2016,781,19481,4.009034443817053
+M,50-69 years,Self-harm and interpersonal violence,2017 - 2019,831,14509,5.727479495485561
+M,50-69 years,Self-harm and interpersonal violence,2020 - 2022,463,8698,5.3230627730512765
+M,50-69 years,Sense organ diseases,2008 - 2010,181,45245,0.4000442037794231
+M,50-69 years,Sense organ diseases,2011 - 2013,112,24140,0.463960231980116
+M,50-69 years,Sense organ diseases,2014 - 2016,80,19481,0.4106565371387506
+M,50-69 years,Sense organ diseases,2017 - 2019,59,14509,0.40664415190571374
+M,50-69 years,Sense organ diseases,2020 - 2022,39,8698,0.4483789376868246
+M,50-69 years,Skin and subcutaneous diseases,2008 - 2010,1357,45245,2.999226433860095
+M,50-69 years,Skin and subcutaneous diseases,2011 - 2013,600,24140,2.4855012427506216
+M,50-69 years,Skin and subcutaneous diseases,2014 - 2016,399,19481,2.0481494789795183
+M,50-69 years,Skin and subcutaneous diseases,2017 - 2019,247,14509,1.7023916189951065
+M,50-69 years,Skin and subcutaneous diseases,2020 - 2022,148,8698,1.7015405840423086
+M,50-69 years,Substance use disorders,2008 - 2010,2090,45245,4.619294949718201
+M,50-69 years,Substance use disorders,2011 - 2013,727,24140,3.0115990057995026
+M,50-69 years,Substance use disorders,2014 - 2016,836,19481,4.291360813099943
+M,50-69 years,Substance use disorders,2017 - 2019,362,14509,2.4950031015231926
+M,50-69 years,Substance use disorders,2020 - 2022,158,8698,1.8165095424235456
+M,50-69 years,Transport injuries,2008 - 2010,172,45245,0.3801525030390098
+M,50-69 years,Transport injuries,2011 - 2013,140,24140,0.579950289975145
+M,50-69 years,Transport injuries,2014 - 2016,79,19481,0.4055233304245162
+M,50-69 years,Transport injuries,2017 - 2019,84,14509,0.5789509959335585
+M,50-69 years,Transport injuries,2020 - 2022,86,8698,0.9887330420786388
+M,50-69 years,Unintentional injuries,2008 - 2010,1968,45245,4.349651895237043
+M,50-69 years,Unintentional injuries,2011 - 2013,1309,24140,5.422535211267605
+M,50-69 years,Unintentional injuries,2014 - 2016,1257,19481,6.452440839792619
+M,50-69 years,Unintentional injuries,2017 - 2019,1148,14509,7.912330277758632
+M,50-69 years,Unintentional injuries,2020 - 2022,671,8698,7.714417107381006
+M,70+ years,Cardiovascular diseases,2008 - 2010,8134,27193,29.912109734122755
+M,70+ years,Cardiovascular diseases,2011 - 2013,4520,14497,31.178864592674348
+M,70+ years,Cardiovascular diseases,2014 - 2016,4018,12273,32.73853173633178
+M,70+ years,Cardiovascular diseases,2017 - 2019,3145,10356,30.36886828891464
+M,70+ years,Cardiovascular diseases,2020 - 2022,2074,7010,29.586305278174034
+M,70+ years,Chronic respiratory diseases,2008 - 2010,2058,27193,7.568124149597323
+M,70+ years,Chronic respiratory diseases,2011 - 2013,789,14497,5.442505345933641
+M,70+ years,Chronic respiratory diseases,2014 - 2016,497,12273,4.049539639859855
+M,70+ years,Chronic respiratory diseases,2017 - 2019,350,10356,3.379683275395906
+M,70+ years,Chronic respiratory diseases,2020 - 2022,212,7010,3.0242510699001426
+M,70+ years,Diabetes and kidney diseases,2008 - 2010,2083,27193,7.660059574155113
+M,70+ years,Diabetes and kidney diseases,2011 - 2013,983,14497,6.780713251017452
+M,70+ years,Diabetes and kidney diseases,2014 - 2016,793,12273,6.461337896194899
+M,70+ years,Diabetes and kidney diseases,2017 - 2019,682,10356,6.585554268057164
+M,70+ years,Diabetes and kidney diseases,2020 - 2022,452,7010,6.447931526390869
+M,70+ years,Digestive diseases,2008 - 2010,3222,27193,11.848637517008054
+M,70+ years,Digestive diseases,2011 - 2013,1722,14497,11.878319652341863
+M,70+ years,Digestive diseases,2014 - 2016,1354,12273,11.032347429316387
+M,70+ years,Digestive diseases,2017 - 2019,1103,10356,10.650830436461954
+M,70+ years,Digestive diseases,2020 - 2022,667,7010,9.514978601997147
+M,70+ years,Enteric infections,2008 - 2010,237,27193,0.871547824807855
+M,70+ years,Enteric infections,2011 - 2013,82,14497,0.5656342691591364
+M,70+ years,Enteric infections,2014 - 2016,57,12273,0.46443412368614034
+M,70+ years,Enteric infections,2017 - 2019,48,10356,0.4634994206257242
+M,70+ years,Enteric infections,2020 - 2022,22,7010,0.31383737517831667
+M,70+ years,HIV/AIDS and sexually transmitted infections,2008 - 2010,11,27193,0.04045158680542787
+M,70+ years,HIV/AIDS and sexually transmitted infections,2011 - 2013,2,14497,0.013795957784369178
+M,70+ years,HIV/AIDS and sexually transmitted infections,2014 - 2016,2,12273,0.016295934164425978
+M,70+ years,HIV/AIDS and sexually transmitted infections,2017 - 2019,3,10356,0.028968713789107762
+M,70+ years,HIV/AIDS and sexually transmitted infections,2020 - 2022,8,7010,0.11412268188302425
+M,70+ years,Maternal and neonatal disorders,2008 - 2010,15,27193,0.05516125473467436
+M,70+ years,Maternal and neonatal disorders,2011 - 2013,2,14497,0.013795957784369178
+M,70+ years,Maternal and neonatal disorders,2014 - 2016,11,12273,0.08962763790434287
+M,70+ years,Maternal and neonatal disorders,2017 - 2019,9,10356,0.08690614136732329
+M,70+ years,Maternal and neonatal disorders,2020 - 2022,9,7010,0.12838801711840228
+M,70+ years,Mental disorders,2008 - 2010,644,27193,2.368256536608686
+M,70+ years,Mental disorders,2011 - 2013,287,14497,1.979719942056977
+M,70+ years,Mental disorders,2014 - 2016,172,12273,1.401450338140634
+M,70+ years,Mental disorders,2017 - 2019,71,10356,0.6855928930088837
+M,70+ years,Mental disorders,2020 - 2022,51,7010,0.7275320970042796
+M,70+ years,Musculoskeletal disorders,2008 - 2010,1053,27193,3.87232008237414
+M,70+ years,Musculoskeletal disorders,2011 - 2013,662,14497,4.566462026626199
+M,70+ years,Musculoskeletal disorders,2014 - 2016,449,12273,3.6584372199136315
+M,70+ years,Musculoskeletal disorders,2017 - 2019,398,10356,3.8431826960216298
+M,70+ years,Musculoskeletal disorders,2020 - 2022,310,7010,4.42225392296719
+M,70+ years,Neglected tropical diseases and malaria,2008 - 2010,18,27193,0.06619350568160924
+M,70+ years,Neglected tropical diseases and malaria,2011 - 2013,7,14497,0.048285852245292124
+M,70+ years,Neglected tropical diseases and malaria,2014 - 2016,6,12273,0.048887802493277926
+M,70+ years,Neglected tropical diseases and malaria,2017 - 2019,14,10356,0.13518733101583622
+M,70+ years,Neglected tropical diseases and malaria,2020 - 2022,11,7010,0.15691868758915833
+M,70+ years,Neoplasms,2008 - 2010,1754,27193,6.450189386974589
+M,70+ years,Neoplasms,2011 - 2013,1119,14497,7.718838380354557
+M,70+ years,Neoplasms,2014 - 2016,989,12273,8.058339444308645
+M,70+ years,Neoplasms,2017 - 2019,943,10356,9.10583236770954
+M,70+ years,Neoplasms,2020 - 2022,707,7010,10.085592011412269
+M,70+ years,Neurological disorders,2008 - 2010,1057,27193,3.887029750303387
+M,70+ years,Neurological disorders,2011 - 2013,641,14497,4.4216044698903225
+M,70+ years,Neurological disorders,2014 - 2016,558,12273,4.546565631874847
+M,70+ years,Neurological disorders,2017 - 2019,461,10356,4.451525685592893
+M,70+ years,Neurological disorders,2020 - 2022,339,7010,4.835948644793152
+M,70+ years,Nutritional deficiencies,2008 - 2010,105,27193,0.38612878314272053
+M,70+ years,Nutritional deficiencies,2011 - 2013,56,14497,0.386286817962337
+M,70+ years,Nutritional deficiencies,2014 - 2016,50,12273,0.40739835411064934
+M,70+ years,Nutritional deficiencies,2017 - 2019,49,10356,0.4731556585554268
+M,70+ years,Nutritional deficiencies,2020 - 2022,34,7010,0.48502139800285304
+M,70+ years,Other infectious diseases,2008 - 2010,1105,27193,4.063545765454345
+M,70+ years,Other infectious diseases,2011 - 2013,752,14497,5.187280126922811
+M,70+ years,Other infectious diseases,2014 - 2016,743,12273,6.05393954208425
+M,70+ years,Other infectious diseases,2017 - 2019,574,10356,5.542680571649285
+M,70+ years,Other infectious diseases,2020 - 2022,411,7010,5.863052781740371
+M,70+ years,Other non-communicable diseases,2008 - 2010,2056,27193,7.5607693156327
+M,70+ years,Other non-communicable diseases,2011 - 2013,1004,14497,6.925570807753329
+M,70+ years,Other non-communicable diseases,2014 - 2016,814,12273,6.632445204921372
+M,70+ years,Other non-communicable diseases,2017 - 2019,672,10356,6.488991888760139
+M,70+ years,Other non-communicable diseases,2020 - 2022,399,7010,5.6918687589158345
+M,70+ years,Respiratory infections and tuberculosis,2008 - 2010,1404,27193,5.163093443165521
+M,70+ years,Respiratory infections and tuberculosis,2011 - 2013,641,14497,4.4216044698903225
+M,70+ years,Respiratory infections and tuberculosis,2014 - 2016,431,12273,3.511773812433798
+M,70+ years,Respiratory infections and tuberculosis,2017 - 2019,294,10356,2.8389339513325607
+M,70+ years,Respiratory infections and tuberculosis,2020 - 2022,254,7010,3.62339514978602
+M,70+ years,Self-harm and interpersonal violence,2008 - 2010,212,27193,0.7796124002500644
+M,70+ years,Self-harm and interpersonal violence,2011 - 2013,201,14497,1.3864937573291027
+M,70+ years,Self-harm and interpersonal violence,2014 - 2016,434,12273,3.5362177136804367
+M,70+ years,Self-harm and interpersonal violence,2017 - 2019,556,10356,5.368868288914639
+M,70+ years,Self-harm and interpersonal violence,2020 - 2022,344,7010,4.907275320970043
+M,70+ years,Sense organ diseases,2008 - 2010,152,27193,0.5589673813113669
+M,70+ years,Sense organ diseases,2011 - 2013,60,14497,0.41387873353107535
+M,70+ years,Sense organ diseases,2014 - 2016,46,12273,0.3748064857817974
+M,70+ years,Sense organ diseases,2017 - 2019,34,10356,0.328312089609888
+M,70+ years,Sense organ diseases,2020 - 2022,21,7010,0.2995720399429387
+M,70+ years,Skin and subcutaneous diseases,2008 - 2010,584,27193,2.1476115176699886
+M,70+ years,Skin and subcutaneous diseases,2011 - 2013,275,14497,1.8969441953507624
+M,70+ years,Skin and subcutaneous diseases,2014 - 2016,186,12273,1.5155218772916157
+M,70+ years,Skin and subcutaneous diseases,2017 - 2019,128,10356,1.2359984550019312
+M,70+ years,Skin and subcutaneous diseases,2020 - 2022,79,7010,1.1269614835948645
+M,70+ years,Substance use disorders,2008 - 2010,143,27193,0.5258706284705623
+M,70+ years,Substance use disorders,2011 - 2013,38,14497,0.2621231979030144
+M,70+ years,Substance use disorders,2014 - 2016,60,12273,0.48887802493277926
+M,70+ years,Substance use disorders,2017 - 2019,31,10356,0.29934337582078024
+M,70+ years,Substance use disorders,2020 - 2022,22,7010,0.31383737517831667
+M,70+ years,Transport injuries,2008 - 2010,60,27193,0.22064501893869745
+M,70+ years,Transport injuries,2011 - 2013,23,14497,0.15865351452024556
+M,70+ years,Transport injuries,2014 - 2016,25,12273,0.20369917705532467
+M,70+ years,Transport injuries,2017 - 2019,20,10356,0.19312475859405176
+M,70+ years,Transport injuries,2020 - 2022,15,7010,0.21398002853067047
+M,70+ years,Unintentional injuries,2008 - 2010,1086,27193,3.993674842790424
+M,70+ years,Unintentional injuries,2011 - 2013,631,14497,4.352624680968476
+M,70+ years,Unintentional injuries,2014 - 2016,578,12273,4.709524973519106
+M,70+ years,Unintentional injuries,2017 - 2019,771,10356,7.444959443800696
+M,70+ years,Unintentional injuries,2020 - 2022,569,7010,8.1169757489301
+Both,15-49 years,Cardiovascular diseases,2008 - 2010,5024,78609,6.3911256980752835
+Both,15-49 years,Cardiovascular diseases,2011 - 2013,2356,39437,5.974085249892233
+Both,15-49 years,Cardiovascular diseases,2014 - 2016,2291,30126,7.604726814047666
+Both,15-49 years,Cardiovascular diseases,2017 - 2019,1666,22237,7.492017808157575
+Both,15-49 years,Cardiovascular diseases,2020 - 2022,1050,12858,8.166122258516099
+Both,15-49 years,Chronic respiratory diseases,2008 - 2010,5052,78609,6.42674502919513
+Both,15-49 years,Chronic respiratory diseases,2011 - 2013,1764,39437,4.472956867915916
+Both,15-49 years,Chronic respiratory diseases,2014 - 2016,856,30126,2.8413994556197304
+Both,15-49 years,Chronic respiratory diseases,2017 - 2019,457,22237,2.0551333363313398
+Both,15-49 years,Chronic respiratory diseases,2020 - 2022,247,12858,1.9209830455747396
+Both,15-49 years,Diabetes and kidney diseases,2008 - 2010,3803,78609,4.8378684374562715
+Both,15-49 years,Diabetes and kidney diseases,2011 - 2013,1242,39437,3.1493267743489617
+Both,15-49 years,Diabetes and kidney diseases,2014 - 2016,942,30126,3.126867157936666
+Both,15-49 years,Diabetes and kidney diseases,2017 - 2019,608,22237,2.734181769123533
+Both,15-49 years,Diabetes and kidney diseases,2020 - 2022,287,12858,2.232073417327734
+Both,15-49 years,Digestive diseases,2008 - 2010,11227,78609,14.282079660089812
+Both,15-49 years,Digestive diseases,2011 - 2013,5423,39437,13.751045972056698
+Both,15-49 years,Digestive diseases,2014 - 2016,3675,30126,12.198765186217884
+Both,15-49 years,Digestive diseases,2017 - 2019,2767,22237,12.443225255205288
+Both,15-49 years,Digestive diseases,2020 - 2022,1750,12858,13.610203764193498
+Both,15-49 years,Enteric infections,2008 - 2010,660,78609,0.8395985192535207
+Both,15-49 years,Enteric infections,2011 - 2013,307,39437,0.7784567791667724
+Both,15-49 years,Enteric infections,2014 - 2016,215,30126,0.7136692557923388
+Both,15-49 years,Enteric infections,2017 - 2019,130,22237,0.5846112335297028
+Both,15-49 years,Enteric infections,2020 - 2022,44,12858,0.3421994089282937
+Both,15-49 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,527,78609,0.6704066964342505
+Both,15-49 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,238,39437,0.60349418059183
+Both,15-49 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,153,30126,0.5078669587731528
+Both,15-49 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,94,22237,0.422718891936862
+Both,15-49 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,87,12858,0.6766215585627624
+Both,15-49 years,Maternal and neonatal disorders,2008 - 2010,11153,78609,14.187942856415933
+Both,15-49 years,Maternal and neonatal disorders,2011 - 2013,5897,39437,14.95296295357152
+Both,15-49 years,Maternal and neonatal disorders,2014 - 2016,4881,30126,16.201951802429797
+Both,15-49 years,Maternal and neonatal disorders,2017 - 2019,3300,22237,14.840131312677068
+Both,15-49 years,Maternal and neonatal disorders,2020 - 2022,1506,12858,11.712552496500233
+Both,15-49 years,Mental disorders,2008 - 2010,9046,78609,11.507588189647496
+Both,15-49 years,Mental disorders,2011 - 2013,5602,39437,14.204934452417781
+Both,15-49 years,Mental disorders,2014 - 2016,4276,30126,14.193719710549027
+Both,15-49 years,Mental disorders,2017 - 2019,3695,22237,16.616450060709628
+Both,15-49 years,Mental disorders,2020 - 2022,2091,12858,16.262249183387777
+Both,15-49 years,Musculoskeletal disorders,2008 - 2010,3517,78609,4.474042412446412
+Both,15-49 years,Musculoskeletal disorders,2011 - 2013,1641,39437,4.161067018282324
+Both,15-49 years,Musculoskeletal disorders,2014 - 2016,1139,30126,3.7807873597556925
+Both,15-49 years,Musculoskeletal disorders,2017 - 2019,699,22237,3.1434096325943246
+Both,15-49 years,Musculoskeletal disorders,2020 - 2022,463,12858,3.6008710530409083
+Both,15-49 years,Neglected tropical diseases and malaria,2008 - 2010,73,78609,0.09286468470531364
+Both,15-49 years,Neglected tropical diseases and malaria,2011 - 2013,33,39437,0.08367776453584197
+Both,15-49 years,Neglected tropical diseases and malaria,2014 - 2016,41,30126,0.13609506738365532
+Both,15-49 years,Neglected tropical diseases and malaria,2017 - 2019,29,22237,0.1304132751720106
+Both,15-49 years,Neglected tropical diseases and malaria,2020 - 2022,17,12858,0.13221340799502254
+Both,15-49 years,Neoplasms,2008 - 2010,2498,78609,3.177753183477719
+Both,15-49 years,Neoplasms,2011 - 2013,1514,39437,3.8390344093110533
+Both,15-49 years,Neoplasms,2014 - 2016,1081,30126,3.588262630286131
+Both,15-49 years,Neoplasms,2017 - 2019,801,22237,3.6021046004407067
+Both,15-49 years,Neoplasms,2020 - 2022,558,12858,4.33971068595427
+Both,15-49 years,Neurological disorders,2008 - 2010,3484,78609,4.432062486483736
+Both,15-49 years,Neurological disorders,2011 - 2013,1583,39437,4.013997007885996
+Both,15-49 years,Neurological disorders,2014 - 2016,1244,30126,4.129323507933346
+Both,15-49 years,Neurological disorders,2017 - 2019,916,22237,4.11926069164006
+Both,15-49 years,Neurological disorders,2020 - 2022,506,12858,3.9352932026753775
+Both,15-49 years,Nutritional deficiencies,2008 - 2010,214,78609,0.2722334592731112
+Both,15-49 years,Nutritional deficiencies,2011 - 2013,107,39437,0.27131881228288157
+Both,15-49 years,Nutritional deficiencies,2014 - 2016,84,30126,0.27882891854212305
+Both,15-49 years,Nutritional deficiencies,2017 - 2019,79,22237,0.35526374960651164
+Both,15-49 years,Nutritional deficiencies,2020 - 2022,52,12858,0.4044174832788925
+Both,15-49 years,Other infectious diseases,2008 - 2010,1829,78609,2.326705593507105
+Both,15-49 years,Other infectious diseases,2011 - 2013,997,39437,2.5280827649161957
+Both,15-49 years,Other infectious diseases,2014 - 2016,881,30126,2.9243842528048862
+Both,15-49 years,Other infectious diseases,2017 - 2019,688,22237,3.0939425282187347
+Both,15-49 years,Other infectious diseases,2020 - 2022,461,12858,3.585316534453259
+Both,15-49 years,Other non-communicable diseases,2008 - 2010,5679,78609,7.224363622485976
+Both,15-49 years,Other non-communicable diseases,2011 - 2013,2826,39437,7.165859472069376
+Both,15-49 years,Other non-communicable diseases,2014 - 2016,2168,30126,7.1964416118967005
+Both,15-49 years,Other non-communicable diseases,2017 - 2019,1460,22237,6.565633853487431
+Both,15-49 years,Other non-communicable diseases,2020 - 2022,798,12858,6.206252916472235
+Both,15-49 years,Respiratory infections and tuberculosis,2008 - 2010,2044,78609,2.600211171748782
+Both,15-49 years,Respiratory infections and tuberculosis,2011 - 2013,919,39437,2.330298957831478
+Both,15-49 years,Respiratory infections and tuberculosis,2014 - 2016,684,30126,2.2704640509858596
+Both,15-49 years,Respiratory infections and tuberculosis,2017 - 2019,417,22237,1.8752529567837388
+Both,15-49 years,Respiratory infections and tuberculosis,2020 - 2022,402,12858,3.126458236117592
+Both,15-49 years,Self-harm and interpersonal violence,2008 - 2010,1500,78609,1.9081784528489103
+Both,15-49 years,Self-harm and interpersonal violence,2011 - 2013,856,39437,2.1705504982630526
+Both,15-49 years,Self-harm and interpersonal violence,2014 - 2016,952,30126,3.1600610768107282
+Both,15-49 years,Self-harm and interpersonal violence,2017 - 2019,886,22237,3.9843504069793587
+Both,15-49 years,Self-harm and interpersonal violence,2020 - 2022,581,12858,4.5185876497122415
+Both,15-49 years,Sense organ diseases,2008 - 2010,287,78609,0.3650981439784249
+Both,15-49 years,Sense organ diseases,2011 - 2013,173,39437,0.43867434135456557
+Both,15-49 years,Sense organ diseases,2014 - 2016,146,30126,0.4846312155613092
+Both,15-49 years,Sense organ diseases,2017 - 2019,105,22237,0.4721859963124522
+Both,15-49 years,Sense organ diseases,2020 - 2022,49,12858,0.381085705397418
+Both,15-49 years,Skin and subcutaneous diseases,2008 - 2010,2372,78609,3.0174661934384104
+Both,15-49 years,Skin and subcutaneous diseases,2011 - 2013,1175,39437,2.979435555442858
+Both,15-49 years,Skin and subcutaneous diseases,2014 - 2016,796,30126,2.642235942375357
+Both,15-49 years,Skin and subcutaneous diseases,2017 - 2019,586,22237,2.635247560372352
+Both,15-49 years,Skin and subcutaneous diseases,2020 - 2022,269,12858,2.092082750038886
+Both,15-49 years,Substance use disorders,2008 - 2010,4805,78609,6.112531643959343
+Both,15-49 years,Substance use disorders,2011 - 2013,2443,39437,6.1946902654867255
+Both,15-49 years,Substance use disorders,2014 - 2016,1986,30126,6.592312288388767
+Both,15-49 years,Substance use disorders,2017 - 2019,1242,22237,5.585285784953006
+Both,15-49 years,Substance use disorders,2020 - 2022,647,12858,5.031886763104683
+Both,15-49 years,Transport injuries,2008 - 2010,736,78609,0.936279560864532
+Both,15-49 years,Transport injuries,2011 - 2013,544,39437,1.3794152699241828
+Both,15-49 years,Transport injuries,2014 - 2016,328,30126,1.0887605390692425
+Both,15-49 years,Transport injuries,2017 - 2019,283,22237,1.272653685299276
+Both,15-49 years,Transport injuries,2020 - 2022,244,12858,1.897651267693265
+Both,15-49 years,Unintentional injuries,2008 - 2010,3079,78609,3.9168543042145303
+Both,15-49 years,Unintentional injuries,2011 - 2013,1797,39437,4.556634632451758
+Both,15-49 years,Unintentional injuries,2014 - 2016,1307,30126,4.338445196839938
+Both,15-49 years,Unintentional injuries,2017 - 2019,1329,22237,5.9765256104690385
+Both,15-49 years,Unintentional injuries,2020 - 2022,749,12858,5.825167211074818
+Both,50-69 years,Cardiovascular diseases,2008 - 2010,15555,86514,17.97974894236771
+Both,50-69 years,Cardiovascular diseases,2011 - 2013,8450,44109,19.157088122605366
+Both,50-69 years,Cardiovascular diseases,2014 - 2016,7409,35039,21.14500984617141
+Both,50-69 years,Cardiovascular diseases,2017 - 2019,5727,26020,22.00999231360492
+Both,50-69 years,Cardiovascular diseases,2020 - 2022,3340,15585,21.43086300930382
+Both,50-69 years,Chronic respiratory diseases,2008 - 2010,7905,86514,9.137249462514738
+Both,50-69 years,Chronic respiratory diseases,2011 - 2013,3159,44109,7.161803713527852
+Both,50-69 years,Chronic respiratory diseases,2014 - 2016,1568,35039,4.4750135563229545
+Both,50-69 years,Chronic respiratory diseases,2017 - 2019,810,26020,3.112990007686395
+Both,50-69 years,Chronic respiratory diseases,2020 - 2022,435,15585,2.791145332050048
+Both,50-69 years,Diabetes and kidney diseases,2008 - 2010,6552,86514,7.5733407309799565
+Both,50-69 years,Diabetes and kidney diseases,2011 - 2013,2469,44109,5.597497109433449
+Both,50-69 years,Diabetes and kidney diseases,2014 - 2016,1666,35039,4.754701903593139
+Both,50-69 years,Diabetes and kidney diseases,2017 - 2019,1294,26020,4.973097617217525
+Both,50-69 years,Diabetes and kidney diseases,2020 - 2022,666,15585,4.273339749759384
+Both,50-69 years,Digestive diseases,2008 - 2010,11927,86514,13.786208012576
+Both,50-69 years,Digestive diseases,2011 - 2013,6357,44109,14.412024756852343
+Both,50-69 years,Digestive diseases,2014 - 2016,4929,35039,14.067182282599388
+Both,50-69 years,Digestive diseases,2017 - 2019,3416,26020,13.128362797847808
+Both,50-69 years,Digestive diseases,2020 - 2022,2033,15585,13.044594161052295
+Both,50-69 years,Enteric infections,2008 - 2010,938,86514,1.0842175832813186
+Both,50-69 years,Enteric infections,2011 - 2013,333,44109,0.7549479698020811
+Both,50-69 years,Enteric infections,2014 - 2016,264,35039,0.7534461599931505
+Both,50-69 years,Enteric infections,2017 - 2019,191,26020,0.7340507302075328
+Both,50-69 years,Enteric infections,2020 - 2022,72,15585,0.46198267564966317
+Both,50-69 years,HIV/AIDS and sexually transmitted infections,2008 - 2010,240,86514,0.27741174838754423
+Both,50-69 years,HIV/AIDS and sexually transmitted infections,2011 - 2013,111,44109,0.25164932326736045
+Both,50-69 years,HIV/AIDS and sexually transmitted infections,2014 - 2016,71,35039,0.20263135363452153
+Both,50-69 years,HIV/AIDS and sexually transmitted infections,2017 - 2019,37,26020,0.14219830899308225
+Both,50-69 years,HIV/AIDS and sexually transmitted infections,2020 - 2022,53,15585,0.3400705806865576
+Both,50-69 years,Maternal and neonatal disorders,2008 - 2010,112,86514,0.12945881591418731
+Both,50-69 years,Maternal and neonatal disorders,2011 - 2013,66,44109,0.14962932734816026
+Both,50-69 years,Maternal and neonatal disorders,2014 - 2016,82,35039,0.23402494363423615
+Both,50-69 years,Maternal and neonatal disorders,2017 - 2019,43,26020,0.1652574942352037
+Both,50-69 years,Maternal and neonatal disorders,2020 - 2022,49,15585,0.3144048764837985
+Both,50-69 years,Mental disorders,2008 - 2010,3833,86514,4.430496798206071
+Both,50-69 years,Mental disorders,2011 - 2013,1700,44109,3.8540887347253396
+Both,50-69 years,Mental disorders,2014 - 2016,1093,35039,3.1193812608807328
+Both,50-69 years,Mental disorders,2017 - 2019,799,26020,3.070714834742506
+Both,50-69 years,Mental disorders,2020 - 2022,449,15585,2.8809752967597047
+Both,50-69 years,Musculoskeletal disorders,2008 - 2010,5980,86514,6.9121760639896435
+Both,50-69 years,Musculoskeletal disorders,2011 - 2013,2930,44109,6.642635289850143
+Both,50-69 years,Musculoskeletal disorders,2014 - 2016,2166,35039,6.18168326721653
+Both,50-69 years,Musculoskeletal disorders,2017 - 2019,1530,26020,5.8800922367409685
+Both,50-69 years,Musculoskeletal disorders,2020 - 2022,837,15585,5.370548604427334
+Both,50-69 years,Neglected tropical diseases and malaria,2008 - 2010,69,86514,0.07975587766141896
+Both,50-69 years,Neglected tropical diseases and malaria,2011 - 2013,43,44109,0.09748577387834682
+Both,50-69 years,Neglected tropical diseases and malaria,2014 - 2016,48,35039,0.13699021090784552
+Both,50-69 years,Neglected tropical diseases and malaria,2017 - 2019,36,26020,0.13835511145272866
+Both,50-69 years,Neglected tropical diseases and malaria,2020 - 2022,23,15585,0.1475777991658646
+Both,50-69 years,Neoplasms,2008 - 2010,6089,86514,7.038167233048986
+Both,50-69 years,Neoplasms,2011 - 2013,4320,44109,9.793919608243215
+Both,50-69 years,Neoplasms,2014 - 2016,3677,35039,10.494020948086417
+Both,50-69 years,Neoplasms,2017 - 2019,2773,26020,10.657186779400462
+Both,50-69 years,Neoplasms,2020 - 2022,1852,15585,11.883221045877445
+Both,50-69 years,Neurological disorders,2008 - 2010,3398,86514,3.9276880042536466
+Both,50-69 years,Neurological disorders,2011 - 2013,1672,44109,3.7906096261533926
+Both,50-69 years,Neurological disorders,2014 - 2016,1347,35039,3.8442877936014157
+Both,50-69 years,Neurological disorders,2017 - 2019,1010,26020,3.8816295157571097
+Both,50-69 years,Neurological disorders,2020 - 2022,612,15585,3.926852743022137
+Both,50-69 years,Nutritional deficiencies,2008 - 2010,300,86514,0.34676468548443024
+Both,50-69 years,Nutritional deficiencies,2011 - 2013,144,44109,0.3264639869414405
+Both,50-69 years,Nutritional deficiencies,2014 - 2016,159,35039,0.4537800736322384
+Both,50-69 years,Nutritional deficiencies,2017 - 2019,105,26020,0.4035357417371253
+Both,50-69 years,Nutritional deficiencies,2020 - 2022,65,15585,0.4170676932948348
+Both,50-69 years,Other infectious diseases,2008 - 2010,3338,86514,3.858335067156761
+Both,50-69 years,Other infectious diseases,2011 - 2013,1920,44109,4.352853159219207
+Both,50-69 years,Other infectious diseases,2014 - 2016,1592,35039,4.543508661776877
+Both,50-69 years,Other infectious diseases,2017 - 2019,1120,26020,4.304381245196003
+Both,50-69 years,Other infectious diseases,2020 - 2022,760,15585,4.876483798524222
+Both,50-69 years,Other non-communicable diseases,2008 - 2010,5979,86514,6.9110201817046955
+Both,50-69 years,Other non-communicable diseases,2011 - 2013,3202,44109,7.259289487406198
+Both,50-69 years,Other non-communicable diseases,2014 - 2016,2350,35039,6.706812409029938
+Both,50-69 years,Other non-communicable diseases,2017 - 2019,1678,26020,6.448885472713298
+Both,50-69 years,Other non-communicable diseases,2020 - 2022,958,15585,6.146936156560796
+Both,50-69 years,Respiratory infections and tuberculosis,2008 - 2010,3136,86514,3.6248468455972445
+Both,50-69 years,Respiratory infections and tuberculosis,2011 - 2013,1405,44109,3.1852909836994714
+Both,50-69 years,Respiratory infections and tuberculosis,2014 - 2016,893,35039,2.5485887154313764
+Both,50-69 years,Respiratory infections and tuberculosis,2017 - 2019,635,26020,2.44043043812452
+Both,50-69 years,Respiratory infections and tuberculosis,2020 - 2022,499,15585,3.2017965992941932
+Both,50-69 years,Self-harm and interpersonal violence,2008 - 2010,1245,86514,1.4390734447603855
+Both,50-69 years,Self-harm and interpersonal violence,2011 - 2013,937,44109,2.12428302613979
+Both,50-69 years,Self-harm and interpersonal violence,2014 - 2016,1320,35039,3.7672307999657524
+Both,50-69 years,Self-harm and interpersonal violence,2017 - 2019,1411,26020,5.422751729438893
+Both,50-69 years,Self-harm and interpersonal violence,2020 - 2022,789,15585,5.062560153994225
+Both,50-69 years,Sense organ diseases,2008 - 2010,420,86514,0.4854705596782024
+Both,50-69 years,Sense organ diseases,2011 - 2013,225,44109,0.5100999795960008
+Both,50-69 years,Sense organ diseases,2014 - 2016,172,35039,0.4908815890864465
+Both,50-69 years,Sense organ diseases,2017 - 2019,133,26020,0.5111452728670254
+Both,50-69 years,Sense organ diseases,2020 - 2022,71,15585,0.4555662495989734
+Both,50-69 years,Skin and subcutaneous diseases,2008 - 2010,2691,86514,3.11047922879534
+Both,50-69 years,Skin and subcutaneous diseases,2011 - 2013,1154,44109,2.6162461175723775
+Both,50-69 years,Skin and subcutaneous diseases,2014 - 2016,782,35039,2.2317988527069836
+Both,50-69 years,Skin and subcutaneous diseases,2017 - 2019,446,26020,1.7140661029976942
+Both,50-69 years,Skin and subcutaneous diseases,2020 - 2022,256,15585,1.64260506897658
+Both,50-69 years,Substance use disorders,2008 - 2010,2613,86514,3.0203204105693873
+Both,50-69 years,Substance use disorders,2011 - 2013,882,44109,1.999591920016323
+Both,50-69 years,Substance use disorders,2014 - 2016,1003,35039,2.8625246154285224
+Both,50-69 years,Substance use disorders,2017 - 2019,460,26020,1.7678708685626443
+Both,50-69 years,Substance use disorders,2020 - 2022,200,15585,1.2832852101379533
+Both,50-69 years,Transport injuries,2008 - 2010,287,86514,0.33173821578010493
+Both,50-69 years,Transport injuries,2011 - 2013,238,44109,0.5395724228615476
+Both,50-69 years,Transport injuries,2014 - 2016,145,35039,0.41382459545078343
+Both,50-69 years,Transport injuries,2017 - 2019,126,26020,0.48424289008455035
+Both,50-69 years,Transport injuries,2020 - 2022,136,15585,0.8726339428938081
+Both,50-69 years,Unintentional injuries,2008 - 2010,3907,86514,4.51603208729223
+Both,50-69 years,Unintentional injuries,2011 - 2013,2392,44109,5.422929560860595
+Both,50-69 years,Unintentional injuries,2014 - 2016,2303,35039,6.572676160849339
+Both,50-69 years,Unintentional injuries,2017 - 2019,2240,26020,8.608762490392007
+Both,50-69 years,Unintentional injuries,2020 - 2022,1430,15585,9.175489252486365
+Both,70+ years,Cardiovascular diseases,2008 - 2010,16691,61893,26.967508441988592
+Both,70+ years,Cardiovascular diseases,2011 - 2013,8918,31117,28.659575151846255
+Both,70+ years,Cardiovascular diseases,2014 - 2016,7866,25772,30.52149619742356
+Both,70+ years,Cardiovascular diseases,2017 - 2019,6178,21483,28.757622306009402
+Both,70+ years,Cardiovascular diseases,2020 - 2022,3934,13933,28.235125242230673
+Both,70+ years,Chronic respiratory diseases,2008 - 2010,5057,61893,8.170552404956942
+Both,70+ years,Chronic respiratory diseases,2011 - 2013,1833,31117,5.890670694475689
+Both,70+ years,Chronic respiratory diseases,2014 - 2016,1161,25772,4.504889026850846
+Both,70+ years,Chronic respiratory diseases,2017 - 2019,751,21483,3.4957873667551085
+Both,70+ years,Chronic respiratory diseases,2020 - 2022,427,13933,3.0646666188186322
+Both,70+ years,Diabetes and kidney diseases,2008 - 2010,4409,61893,7.123584250238315
+Both,70+ years,Diabetes and kidney diseases,2011 - 2013,1893,31117,6.083491339139377
+Both,70+ years,Diabetes and kidney diseases,2014 - 2016,1477,25772,5.731025919602669
+Both,70+ years,Diabetes and kidney diseases,2017 - 2019,1342,21483,6.2467997951868925
+Both,70+ years,Diabetes and kidney diseases,2020 - 2022,734,13933,5.268068614081677
+Both,70+ years,Digestive diseases,2008 - 2010,7657,61893,12.371350556605755
+Both,70+ years,Digestive diseases,2011 - 2013,3908,31117,12.559051322428255
+Both,70+ years,Digestive diseases,2014 - 2016,2901,25772,11.256402297066584
+Both,70+ years,Digestive diseases,2017 - 2019,2319,21483,10.794581762323698
+Both,70+ years,Digestive diseases,2020 - 2022,1356,13933,9.732290246178138
+Both,70+ years,Enteric infections,2008 - 2010,711,61893,1.1487567253162716
+Both,70+ years,Enteric infections,2011 - 2013,245,31117,0.7873509657100619
+Both,70+ years,Enteric infections,2014 - 2016,186,25772,0.7217134875058203
+Both,70+ years,Enteric infections,2017 - 2019,129,21483,0.6004747940231812
+Both,70+ years,Enteric infections,2020 - 2022,57,13933,0.409100696188904
+Both,70+ years,HIV/AIDS and sexually transmitted infections,2008 - 2010,19,61893,0.0306981403389721
+Both,70+ years,HIV/AIDS and sexually transmitted infections,2011 - 2013,10,31117,0.03213677411061478
+Both,70+ years,HIV/AIDS and sexually transmitted infections,2014 - 2016,12,25772,0.04656216048424647
+Both,70+ years,HIV/AIDS and sexually transmitted infections,2017 - 2019,15,21483,0.06982265046781176
+Both,70+ years,HIV/AIDS and sexually transmitted infections,2020 - 2022,29,13933,0.20813895069260027
+Both,70+ years,Maternal and neonatal disorders,2008 - 2010,47,61893,0.07593750504903624
+Both,70+ years,Maternal and neonatal disorders,2011 - 2013,33,31117,0.10605135456502876
+Both,70+ years,Maternal and neonatal disorders,2014 - 2016,36,25772,0.1396864814527394
+Both,70+ years,Maternal and neonatal disorders,2017 - 2019,34,21483,0.15826467439370664
+Both,70+ years,Maternal and neonatal disorders,2020 - 2022,25,13933,0.17943012990741405
+Both,70+ years,Mental disorders,2008 - 2010,1627,61893,2.6287302279740845
+Both,70+ years,Mental disorders,2011 - 2013,696,31117,2.2367194780987885
+Both,70+ years,Mental disorders,2014 - 2016,377,25772,1.46282787521341
+Both,70+ years,Mental disorders,2017 - 2019,194,21483,0.903039612717032
+Both,70+ years,Mental disorders,2020 - 2022,111,13933,0.7966697767889185
+Both,70+ years,Musculoskeletal disorders,2008 - 2010,3342,61893,5.399641316465513
+Both,70+ years,Musculoskeletal disorders,2011 - 2013,1719,31117,5.5243114696146804
+Both,70+ years,Musculoskeletal disorders,2014 - 2016,1189,25772,4.613534067980754
+Both,70+ years,Musculoskeletal disorders,2017 - 2019,1048,21483,4.8782758460177815
+Both,70+ years,Musculoskeletal disorders,2020 - 2022,733,13933,5.26089140888538
+Both,70+ years,Neglected tropical diseases and malaria,2008 - 2010,28,61893,0.045239364710064144
+Both,70+ years,Neglected tropical diseases and malaria,2011 - 2013,15,31117,0.04820516116592216
+Both,70+ years,Neglected tropical diseases and malaria,2014 - 2016,26,25772,0.10088468104920069
+Both,70+ years,Neglected tropical diseases and malaria,2017 - 2019,20,21483,0.09309686729041568
+Both,70+ years,Neglected tropical diseases and malaria,2020 - 2022,18,13933,0.12918969353333812
+Both,70+ years,Neoplasms,2008 - 2010,3397,61893,5.488504354288853
+Both,70+ years,Neoplasms,2011 - 2013,2290,31117,7.359321271330783
+Both,70+ years,Neoplasms,2014 - 2016,2096,25772,8.132857364581717
+Both,70+ years,Neoplasms,2017 - 2019,1900,21483,8.844202392589489
+Both,70+ years,Neoplasms,2020 - 2022,1459,13933,10.471542381396684
+Both,70+ years,Neurological disorders,2008 - 2010,2518,61893,4.068311440712197
+Both,70+ years,Neurological disorders,2011 - 2013,1450,31117,4.659832246039143
+Both,70+ years,Neurological disorders,2014 - 2016,1285,25772,4.986031351854726
+Both,70+ years,Neurological disorders,2017 - 2019,1080,21483,5.027230833682447
+Both,70+ years,Neurological disorders,2020 - 2022,677,13933,4.858967917892772
+Both,70+ years,Nutritional deficiencies,2008 - 2010,279,61893,0.4507779555038534
+Both,70+ years,Nutritional deficiencies,2011 - 2013,135,31117,0.4338464504932995
+Both,70+ years,Nutritional deficiencies,2014 - 2016,118,25772,0.457861244761757
+Both,70+ years,Nutritional deficiencies,2017 - 2019,104,21483,0.4841037099101615
+Both,70+ years,Nutritional deficiencies,2020 - 2022,66,13933,0.47369554295557315
+Both,70+ years,Other infectious diseases,2008 - 2010,2359,61893,3.811416476822904
+Both,70+ years,Other infectious diseases,2011 - 2013,1472,31117,4.730533149082495
+Both,70+ years,Other infectious diseases,2014 - 2016,1455,25772,5.645661958714884
+Both,70+ years,Other infectious diseases,2017 - 2019,1139,21483,5.301866592189173
+Both,70+ years,Other infectious diseases,2020 - 2022,799,13933,5.734586951840953
+Both,70+ years,Other non-communicable diseases,2008 - 2010,5385,61893,8.700499248703407
+Both,70+ years,Other non-communicable diseases,2011 - 2013,2448,31117,7.867082302278497
+Both,70+ years,Other non-communicable diseases,2014 - 2016,1894,25772,7.349060996430234
+Both,70+ years,Other non-communicable diseases,2017 - 2019,1510,21483,7.0288134804263835
+Both,70+ years,Other non-communicable diseases,2020 - 2022,808,13933,5.799181798607622
+Both,70+ years,Respiratory infections and tuberculosis,2008 - 2010,3001,61893,4.848690481960803
+Both,70+ years,Respiratory infections and tuberculosis,2011 - 2013,1233,31117,3.9624642478388017
+Both,70+ years,Respiratory infections and tuberculosis,2014 - 2016,872,25772,3.383516995188577
+Both,70+ years,Respiratory infections and tuberculosis,2017 - 2019,600,21483,2.79290601871247
+Both,70+ years,Respiratory infections and tuberculosis,2020 - 2022,487,13933,3.4952989305964257
+Both,70+ years,Self-harm and interpersonal violence,2008 - 2010,384,61893,0.620425573166594
+Both,70+ years,Self-harm and interpersonal violence,2011 - 2013,337,31117,1.083009287527718
+Both,70+ years,Self-harm and interpersonal violence,2014 - 2016,784,25772,3.042061151637436
+Both,70+ years,Self-harm and interpersonal violence,2017 - 2019,1038,21483,4.831727412372574
+Both,70+ years,Self-harm and interpersonal violence,2020 - 2022,625,13933,4.485753247685351
+Both,70+ years,Sense organ diseases,2008 - 2010,380,61893,0.6139628067794419
+Both,70+ years,Sense organ diseases,2011 - 2013,161,31117,0.5174020631808979
+Both,70+ years,Sense organ diseases,2014 - 2016,117,25772,0.4539810647214031
+Both,70+ years,Sense organ diseases,2017 - 2019,72,21483,0.3351487222454964
+Both,70+ years,Sense organ diseases,2020 - 2022,51,13933,0.36603746501112466
+Both,70+ years,Skin and subcutaneous diseases,2008 - 2010,1401,61893,2.263583927099995
+Both,70+ years,Skin and subcutaneous diseases,2011 - 2013,600,31117,1.9282064466368865
+Both,70+ years,Skin and subcutaneous diseases,2014 - 2016,396,25772,1.5365512959801335
+Both,70+ years,Skin and subcutaneous diseases,2017 - 2019,274,21483,1.2754270818786948
+Both,70+ years,Skin and subcutaneous diseases,2020 - 2022,167,13933,1.1985932677815259
+Both,70+ years,Substance use disorders,2008 - 2010,229,61893,0.3699933756644532
+Both,70+ years,Substance use disorders,2011 - 2013,77,31117,0.24745316065173378
+Both,70+ years,Substance use disorders,2014 - 2016,87,25772,0.3375756635107869
+Both,70+ years,Substance use disorders,2017 - 2019,50,21483,0.2327421682260392
+Both,70+ years,Substance use disorders,2020 - 2022,32,13933,0.22967056628148996
+Both,70+ years,Transport injuries,2008 - 2010,119,61893,0.19226730001777262
+Both,70+ years,Transport injuries,2011 - 2013,61,31117,0.19603432207475013
+Both,70+ years,Transport injuries,2014 - 2016,51,25772,0.1978891820580475
+Both,70+ years,Transport injuries,2017 - 2019,49,21483,0.22808732486151842
+Both,70+ years,Transport injuries,2020 - 2022,34,13933,0.24402497667408313
+Both,70+ years,Unintentional injuries,2008 - 2010,2853,61893,4.609568125636178
+Both,70+ years,Unintentional injuries,2011 - 2013,1583,31117,5.087251341710319
+Both,70+ years,Unintentional injuries,2014 - 2016,1386,25772,5.377929535930467
+Both,70+ years,Unintentional injuries,2017 - 2019,1637,21483,7.6199785877205235
+Both,70+ years,Unintentional injuries,2020 - 2022,1304,13933,9.359075575970717
+F,All ages,Cardiovascular diseases,2008 - 2010,17178,122266,14.049694927453258
+F,All ages,Cardiovascular diseases,2011 - 2013,8590,59047,14.547733161718632
+F,All ages,Cardiovascular diseases,2014 - 2016,7595,46222,16.431569382545106
+F,All ages,Cardiovascular diseases,2017 - 2019,5970,35149,16.984835983954024
+F,All ages,Cardiovascular diseases,2020 - 2022,3578,20669,17.310948763849243
+F,All ages,Chronic respiratory diseases,2008 - 2010,9970,122266,8.154351986652053
+F,All ages,Chronic respiratory diseases,2011 - 2013,3483,59047,5.898690873372059
+F,All ages,Chronic respiratory diseases,2014 - 2016,1952,46222,4.2230972264289734
+F,All ages,Chronic respiratory diseases,2017 - 2019,1014,35149,2.884861589234402
+F,All ages,Chronic respiratory diseases,2020 - 2022,522,20669,2.525521312109923
+F,All ages,Diabetes and kidney diseases,2008 - 2010,6876,122266,5.623803837534556
+F,All ages,Diabetes and kidney diseases,2011 - 2013,2399,59047,4.062865175199418
+F,All ages,Diabetes and kidney diseases,2014 - 2016,1635,46222,3.537276621522219
+F,All ages,Diabetes and kidney diseases,2017 - 2019,1381,35149,3.9289880224188454
+F,All ages,Diabetes and kidney diseases,2020 - 2022,622,20669,3.0093376554260005
+F,All ages,Digestive diseases,2008 - 2010,17195,122266,14.063599038162694
+F,All ages,Digestive diseases,2011 - 2013,8200,59047,13.887242366250613
+F,All ages,Digestive diseases,2014 - 2016,5710,46222,12.353424776080654
+F,All ages,Digestive diseases,2017 - 2019,4073,35149,11.587811886540157
+F,All ages,Digestive diseases,2020 - 2022,2520,20669,12.192171851565146
+F,All ages,Enteric infections,2008 - 2010,1468,122266,1.200660854203131
+F,All ages,Enteric infections,2011 - 2013,525,59047,0.8891222246684846
+F,All ages,Enteric infections,2014 - 2016,406,46222,0.8783696075461901
+F,All ages,Enteric infections,2017 - 2019,264,35149,0.7510882244160574
+F,All ages,Enteric infections,2020 - 2022,95,20669,0.4596255261502733
+F,All ages,HIV/AIDS and sexually transmitted infections,2008 - 2010,310,122266,0.2535455482309064
+F,All ages,HIV/AIDS and sexually transmitted infections,2011 - 2013,177,59047,0.29976120717394616
+F,All ages,HIV/AIDS and sexually transmitted infections,2014 - 2016,115,46222,0.24879927307342822
+F,All ages,HIV/AIDS and sexually transmitted infections,2017 - 2019,94,35149,0.26743292839056587
+F,All ages,HIV/AIDS and sexually transmitted infections,2020 - 2022,93,20669,0.44994919928395183
+F,All ages,Maternal and neonatal disorders,2008 - 2010,11245,122266,9.197160289859815
+F,All ages,Maternal and neonatal disorders,2011 - 2013,5942,59047,10.063170017105017
+F,All ages,Maternal and neonatal disorders,2014 - 2016,4913,46222,10.629137640084808
+F,All ages,Maternal and neonatal disorders,2017 - 2019,3329,35149,9.47110870864036
+F,All ages,Maternal and neonatal disorders,2020 - 2022,1543,20669,7.465286177367071
+F,All ages,Mental disorders,2008 - 2010,7221,122266,5.905975496049597
+F,All ages,Mental disorders,2011 - 2013,3930,59047,6.655714938946941
+F,All ages,Mental disorders,2014 - 2016,2929,46222,6.336809311583229
+F,All ages,Mental disorders,2017 - 2019,2368,35149,6.737033770519788
+F,All ages,Mental disorders,2020 - 2022,1360,20669,6.579902269098651
+F,All ages,Musculoskeletal disorders,2008 - 2010,7585,122266,6.203687043004597
+F,All ages,Musculoskeletal disorders,2011 - 2013,3388,59047,5.73780208986062
+F,All ages,Musculoskeletal disorders,2014 - 2016,2370,46222,5.1274284972523905
+F,All ages,Musculoskeletal disorders,2017 - 2019,1751,35149,4.9816495490625625
+F,All ages,Musculoskeletal disorders,2020 - 2022,1044,20669,5.051042624219846
+F,All ages,Neglected tropical diseases and malaria,2008 - 2010,64,122266,0.05234488737670325
+F,All ages,Neglected tropical diseases and malaria,2011 - 2013,37,59047,0.06266194726235033
+F,All ages,Neglected tropical diseases and malaria,2014 - 2016,58,46222,0.12548137250659858
+F,All ages,Neglected tropical diseases and malaria,2017 - 2019,29,35149,0.08250590343964266
+F,All ages,Neglected tropical diseases and malaria,2020 - 2022,20,20669,0.09676326866321544
+F,All ages,Neoplasms,2008 - 2010,6070,122266,4.964585412134199
+F,All ages,Neoplasms,2011 - 2013,4085,59047,6.918217690991922
+F,All ages,Neoplasms,2014 - 2016,3585,46222,7.756046904071654
+F,All ages,Neoplasms,2017 - 2019,2846,35149,8.096958661697345
+F,All ages,Neoplasms,2020 - 2022,1931,20669,9.34249358943345
+F,All ages,Neurological disorders,2008 - 2010,5480,122266,4.482030981630216
+F,All ages,Neurological disorders,2011 - 2013,2584,59047,4.376174911511169
+F,All ages,Neurological disorders,2014 - 2016,2087,46222,4.5151659382977805
+F,All ages,Neurological disorders,2017 - 2019,1644,35149,4.677231215681812
+F,All ages,Neurological disorders,2020 - 2022,882,20669,4.267260148047801
+F,All ages,Nutritional deficiencies,2008 - 2010,497,122266,0.4064907660347112
+F,All ages,Nutritional deficiencies,2011 - 2013,237,59047,0.40137517570748726
+F,All ages,Nutritional deficiencies,2014 - 2016,221,46222,0.478127298688936
+F,All ages,Nutritional deficiencies,2017 - 2019,161,35149,0.4580500156476713
+F,All ages,Nutritional deficiencies,2020 - 2022,102,20669,0.4934926701823988
+F,All ages,Other infectious diseases,2008 - 2010,3627,122266,2.9664829143016047
+F,All ages,Other infectious diseases,2011 - 2013,1970,59047,3.3363253001845985
+F,All ages,Other infectious diseases,2014 - 2016,1789,46222,3.8704513002466356
+F,All ages,Other infectious diseases,2017 - 2019,1340,35149,3.8123417451421093
+F,All ages,Other infectious diseases,2020 - 2022,903,20669,4.368861580144177
+F,All ages,Other non-communicable diseases,2008 - 2010,10772,122266,8.810298856591366
+F,All ages,Other non-communicable diseases,2011 - 2013,5153,59047,8.726946330888953
+F,All ages,Other non-communicable diseases,2014 - 2016,3763,46222,8.141144909350526
+F,All ages,Other non-communicable diseases,2017 - 2019,2672,35149,7.60192324105949
+F,All ages,Other non-communicable diseases,2020 - 2022,1355,20669,6.555711451932847
+F,All ages,Respiratory infections and tuberculosis,2008 - 2010,4150,122266,3.3942387908331018
+F,All ages,Respiratory infections and tuberculosis,2011 - 2013,1694,59047,2.86890104493031
+F,All ages,Respiratory infections and tuberculosis,2014 - 2016,1195,46222,2.585348968023885
+F,All ages,Respiratory infections and tuberculosis,2017 - 2019,761,35149,2.165068707502347
+F,All ages,Respiratory infections and tuberculosis,2020 - 2022,612,20669,2.9609560210943924
+F,All ages,Self-harm and interpersonal violence,2008 - 2010,1436,122266,1.1744884105147793
+F,All ages,Self-harm and interpersonal violence,2011 - 2013,861,59047,1.4581604484563144
+F,All ages,Self-harm and interpersonal violence,2014 - 2016,1289,46222,2.7887153303621655
+F,All ages,Self-harm and interpersonal violence,2017 - 2019,1442,35149,4.102534922757404
+F,All ages,Self-harm and interpersonal violence,2020 - 2022,862,20669,4.170496879384586
+F,All ages,Sense organ diseases,2008 - 2010,632,122266,0.5169057628449446
+F,All ages,Sense organ diseases,2011 - 2013,294,59047,0.4979084458143513
+F,All ages,Sense organ diseases,2014 - 2016,236,46222,0.5105793777854701
+F,All ages,Sense organ diseases,2017 - 2019,155,35149,0.44097982872912456
+F,All ages,Sense organ diseases,2020 - 2022,89,20669,0.4305965455513088
+F,All ages,Skin and subcutaneous diseases,2008 - 2010,3227,122266,2.6393273681972094
+F,All ages,Skin and subcutaneous diseases,2011 - 2013,1378,59047,2.333734143986993
+F,All ages,Skin and subcutaneous diseases,2014 - 2016,932,46222,2.016355847864653
+F,All ages,Skin and subcutaneous diseases,2017 - 2019,566,35149,1.6102876326495774
+F,All ages,Skin and subcutaneous diseases,2020 - 2022,313,20669,1.5143451545793216
+F,All ages,Substance use disorders,2008 - 2010,1660,122266,1.3576955163332407
+F,All ages,Substance use disorders,2011 - 2013,899,59047,1.5225159618608903
+F,All ages,Substance use disorders,2014 - 2016,776,46222,1.6788542252606984
+F,All ages,Substance use disorders,2017 - 2019,521,35149,1.4822612307604768
+F,All ages,Substance use disorders,2020 - 2022,253,20669,1.2240553485896752
+F,All ages,Transport injuries,2008 - 2010,429,122266,0.350874323196964
+F,All ages,Transport injuries,2011 - 2013,324,59047,0.5487154300811218
+F,All ages,Transport injuries,2014 - 2016,182,46222,0.39375189303794733
+F,All ages,Transport injuries,2017 - 2019,165,35149,0.4694301402600358
+F,All ages,Transport injuries,2020 - 2022,132,20669,0.6386375731772219
+F,All ages,Unintentional injuries,2008 - 2010,5174,122266,4.2317569888603535
+F,All ages,Unintentional injuries,2011 - 2013,2897,59047,4.906261114027808
+F,All ages,Unintentional injuries,2014 - 2016,2484,46222,5.37406429838605
+F,All ages,Unintentional injuries,2017 - 2019,2603,35149,7.405616091496202
+F,All ages,Unintentional injuries,2020 - 2022,1838,20669,8.8925443901495
+M,All ages,Cardiovascular diseases,2008 - 2010,20092,104750,19.18090692124105
+M,All ages,Cardiovascular diseases,2011 - 2013,11134,55616,20.01941887226697
+M,All ages,Cardiovascular diseases,2014 - 2016,9971,44715,22.2990048082299
+M,All ages,Cardiovascular diseases,2017 - 2019,7601,34591,21.973923853025354
+M,All ages,Cardiovascular diseases,2020 - 2022,4746,21707,21.863914866172202
+M,All ages,Chronic respiratory diseases,2008 - 2010,8044,104750,7.679236276849642
+M,All ages,Chronic respiratory diseases,2011 - 2013,3273,55616,5.884997123130034
+M,All ages,Chronic respiratory diseases,2014 - 2016,1633,44715,3.6520183383652016
+M,All ages,Chronic respiratory diseases,2017 - 2019,1004,34591,2.902489086756671
+M,All ages,Chronic respiratory diseases,2020 - 2022,587,21707,2.7041968028746486
+M,All ages,Diabetes and kidney diseases,2008 - 2010,7888,104750,7.530310262529833
+M,All ages,Diabetes and kidney diseases,2011 - 2013,3205,55616,5.762730149597238
+M,All ages,Diabetes and kidney diseases,2014 - 2016,2450,44715,5.479145700547915
+M,All ages,Diabetes and kidney diseases,2017 - 2019,1863,34591,5.3857939926570495
+M,All ages,Diabetes and kidney diseases,2020 - 2022,1065,21707,4.90625143962777
+M,All ages,Digestive diseases,2008 - 2010,13616,104750,12.99856801909308
+M,All ages,Digestive diseases,2011 - 2013,7488,55616,13.463751438434981
+M,All ages,Digestive diseases,2014 - 2016,5795,44715,12.959856871295985
+M,All ages,Digestive diseases,2017 - 2019,4429,34591,12.803908531120811
+M,All ages,Digestive diseases,2020 - 2022,2619,21707,12.065232413507164
+M,All ages,Enteric infections,2008 - 2010,841,104750,0.8028639618138425
+M,All ages,Enteric infections,2011 - 2013,360,55616,0.6472957422324511
+M,All ages,Enteric infections,2014 - 2016,259,44715,0.5792239740579224
+M,All ages,Enteric infections,2017 - 2019,186,34591,0.5377121216501403
+M,All ages,Enteric infections,2020 - 2022,78,21707,0.35933109135301977
+M,All ages,HIV/AIDS and sexually transmitted infections,2008 - 2010,476,104750,0.4544152744630071
+M,All ages,HIV/AIDS and sexually transmitted infections,2011 - 2013,182,55616,0.3272439585730725
+M,All ages,HIV/AIDS and sexually transmitted infections,2014 - 2016,121,44715,0.27060270602706027
+M,All ages,HIV/AIDS and sexually transmitted infections,2017 - 2019,52,34591,0.15032812003122198
+M,All ages,HIV/AIDS and sexually transmitted infections,2020 - 2022,76,21707,0.35011747362601925
+M,All ages,Maternal and neonatal disorders,2008 - 2010,67,104750,0.0639618138424821
+M,All ages,Maternal and neonatal disorders,2011 - 2013,54,55616,0.09709436133486767
+M,All ages,Maternal and neonatal disorders,2014 - 2016,86,44715,0.19232919601923293
+M,All ages,Maternal and neonatal disorders,2017 - 2019,48,34591,0.13876441849035875
+M,All ages,Maternal and neonatal disorders,2020 - 2022,37,21707,0.1704519279495094
+M,All ages,Mental disorders,2008 - 2010,7285,104750,6.954653937947494
+M,All ages,Mental disorders,2011 - 2013,4068,55616,7.314441887226697
+M,All ages,Mental disorders,2014 - 2016,2817,44715,6.29989936262999
+M,All ages,Mental disorders,2017 - 2019,2320,34591,6.706946893700673
+M,All ages,Mental disorders,2020 - 2022,1291,21707,5.947390242778827
+M,All ages,Musculoskeletal disorders,2008 - 2010,5254,104750,5.015751789976133
+M,All ages,Musculoskeletal disorders,2011 - 2013,2902,55616,5.217922899884925
+M,All ages,Musculoskeletal disorders,2014 - 2016,2124,44715,4.750083864475008
+M,All ages,Musculoskeletal disorders,2017 - 2019,1526,34591,4.4115521378393225
+M,All ages,Musculoskeletal disorders,2020 - 2022,989,21707,4.556133966001751
+M,All ages,Neglected tropical diseases and malaria,2008 - 2010,106,104750,0.10119331742243437
+M,All ages,Neglected tropical diseases and malaria,2011 - 2013,54,55616,0.09709436133486767
+M,All ages,Neglected tropical diseases and malaria,2014 - 2016,57,44715,0.1274740020127474
+M,All ages,Neglected tropical diseases and malaria,2017 - 2019,56,34591,0.16189182157208523
+M,All ages,Neglected tropical diseases and malaria,2020 - 2022,38,21707,0.17505873681300962
+M,All ages,Neoplasms,2008 - 2010,5914,104750,5.645823389021479
+M,All ages,Neoplasms,2011 - 2013,4039,55616,7.262298619102417
+M,All ages,Neoplasms,2014 - 2016,3269,44715,7.310745834731075
+M,All ages,Neoplasms,2017 - 2019,2628,34591,7.597351912347142
+M,All ages,Neoplasms,2020 - 2022,1938,21707,8.927995577463491
+M,All ages,Neurological disorders,2008 - 2010,3920,104750,3.7422434367541766
+M,All ages,Neurological disorders,2011 - 2013,2121,55616,3.8136507479861907
+M,All ages,Neurological disorders,2014 - 2016,1789,44715,4.00089455440009
+M,All ages,Neurological disorders,2017 - 2019,1362,34591,3.93744037466393
+M,All ages,Neurological disorders,2020 - 2022,913,21707,4.206016492375731
+M,All ages,Nutritional deficiencies,2008 - 2010,296,104750,0.2825775656324582
+M,All ages,Nutritional deficiencies,2011 - 2013,149,55616,0.2679085155350978
+M,All ages,Nutritional deficiencies,2014 - 2016,140,44715,0.31309404003130936
+M,All ages,Nutritional deficiencies,2017 - 2019,127,34591,0.36714752392240757
+M,All ages,Nutritional deficiencies,2020 - 2022,81,21707,0.3731515179435205
+M,All ages,Other infectious diseases,2008 - 2010,3899,104750,3.7221957040572793
+M,All ages,Other infectious diseases,2011 - 2013,2419,55616,4.349467779056386
+M,All ages,Other infectious diseases,2014 - 2016,2139,44715,4.7836296544783625
+M,All ages,Other infectious diseases,2017 - 2019,1607,34591,4.645717094041803
+M,All ages,Other infectious diseases,2020 - 2022,1117,21707,5.145805500529783
+M,All ages,Other non-communicable diseases,2008 - 2010,6271,104750,5.986634844868735
+M,All ages,Other non-communicable diseases,2011 - 2013,3323,55616,5.974899309551208
+M,All ages,Other non-communicable diseases,2014 - 2016,2649,44715,5.924186514592419
+M,All ages,Other non-communicable diseases,2017 - 2019,1976,34591,5.712468561186436
+M,All ages,Other non-communicable diseases,2020 - 2022,1209,21707,5.569631915971806
+M,All ages,Respiratory infections and tuberculosis,2008 - 2010,4031,104750,3.8482100238663484
+M,All ages,Respiratory infections and tuberculosis,2011 - 2013,1863,55616,3.3497554660529345
+M,All ages,Respiratory infections and tuberculosis,2014 - 2016,1254,44715,2.8044280442804426
+M,All ages,Respiratory infections and tuberculosis,2017 - 2019,891,34591,2.5758145182272845
+M,All ages,Respiratory infections and tuberculosis,2020 - 2022,776,21707,3.574883678076197
+M,All ages,Self-harm and interpersonal violence,2008 - 2010,1693,104750,1.6162291169451073
+M,All ages,Self-harm and interpersonal violence,2011 - 2013,1269,55616,2.28171749136939
+M,All ages,Self-harm and interpersonal violence,2014 - 2016,1767,44715,3.9516940623951697
+M,All ages,Self-harm and interpersonal violence,2017 - 2019,1893,34591,5.472521754213524
+M,All ages,Self-harm and interpersonal violence,2020 - 2022,1133,21707,5.219514442345787
+M,All ages,Sense organ diseases,2008 - 2010,455,104750,0.43436754176610975
+M,All ages,Sense organ diseases,2011 - 2013,265,55616,0.47648158803222096
+M,All ages,Sense organ diseases,2014 - 2016,199,44715,0.445040814044504
+M,All ages,Sense organ diseases,2017 - 2019,155,34591,0.44809343470845014
+M,All ages,Sense organ diseases,2020 - 2022,82,21707,0.37775832680702076
+M,All ages,Skin and subcutaneous diseases,2008 - 2010,3237,104750,3.090214797136038
+M,All ages,Skin and subcutaneous diseases,2011 - 2013,1551,55616,2.7887658227848102
+M,All ages,Skin and subcutaneous diseases,2014 - 2016,1042,44715,2.3303142122330316
+M,All ages,Skin and subcutaneous diseases,2017 - 2019,740,34591,2.1392847850596977
+M,All ages,Skin and subcutaneous diseases,2020 - 2022,379,21707,1.745980559266596
+M,All ages,Substance use disorders,2008 - 2010,5987,104750,5.715513126491647
+M,All ages,Substance use disorders,2011 - 2013,2503,55616,4.500503452243958
+M,All ages,Substance use disorders,2014 - 2016,2300,44715,5.143687800514369
+M,All ages,Substance use disorders,2017 - 2019,1231,34591,3.558729149200659
+M,All ages,Substance use disorders,2020 - 2022,626,21707,2.8838623485511587
+M,All ages,Transport injuries,2008 - 2010,713,104750,0.6806682577565633
+M,All ages,Transport injuries,2011 - 2013,519,55616,0.9331846950517836
+M,All ages,Transport injuries,2014 - 2016,342,44715,0.7648440120764843
+M,All ages,Transport injuries,2017 - 2019,293,34591,0.8470411378682317
+M,All ages,Transport injuries,2020 - 2022,282,21707,1.2991200995070715
+M,All ages,Unintentional injuries,2008 - 2010,4665,104750,4.4534606205250595
+M,All ages,Unintentional injuries,2011 - 2013,2875,55616,5.169375719217491
+M,All ages,Unintentional injuries,2014 - 2016,2512,44715,5.61780163256178
+M,All ages,Unintentional injuries,2017 - 2019,2603,34591,7.525078777716747
+M,All ages,Unintentional injuries,2020 - 2022,1645,21707,7.578200580457917
+Both,All ages,Cardiovascular diseases,2008 - 2010,37270,227016,16.417345032949218
+Both,All ages,Cardiovascular diseases,2011 - 2013,19724,114663,17.201712845468894
+Both,All ages,Cardiovascular diseases,2014 - 2016,17566,90937,19.31666978237681
+Both,All ages,Cardiovascular diseases,2017 - 2019,13571,69740,19.459420705477488
+Both,All ages,Cardiovascular diseases,2020 - 2022,8324,42376,19.643194260902398
+Both,All ages,Chronic respiratory diseases,2008 - 2010,18014,227016,7.935123515523134
+Both,All ages,Chronic respiratory diseases,2011 - 2013,6756,114663,5.892048873655844
+Both,All ages,Chronic respiratory diseases,2014 - 2016,3585,90937,3.9422897170568634
+Both,All ages,Chronic respiratory diseases,2017 - 2019,2018,69740,2.8936048178950387
+Both,All ages,Chronic respiratory diseases,2020 - 2022,1109,42376,2.617047385312441
+Both,All ages,Diabetes and kidney diseases,2008 - 2010,14764,227016,6.503506360785143
+Both,All ages,Diabetes and kidney diseases,2011 - 2013,5604,114663,4.887365584364616
+Both,All ages,Diabetes and kidney diseases,2014 - 2016,4085,90937,4.492120918877904
+Both,All ages,Diabetes and kidney diseases,2017 - 2019,3244,69740,4.651562948092916
+Both,All ages,Diabetes and kidney diseases,2020 - 2022,1687,42376,3.981026996413064
+Both,All ages,Digestive diseases,2008 - 2010,30811,227016,13.572171124502239
+Both,All ages,Digestive diseases,2011 - 2013,15688,114663,13.681832849306227
+Both,All ages,Digestive diseases,2014 - 2016,11505,90937,12.651615953902152
+Both,All ages,Digestive diseases,2017 - 2019,8502,69740,12.190995124749069
+Both,All ages,Digestive diseases,2020 - 2022,5139,42376,12.127147441948273
+Both,All ages,Enteric infections,2008 - 2010,2309,227016,1.0171089262430841
+Both,All ages,Enteric infections,2011 - 2013,885,114663,0.7718270060961252
+Both,All ages,Enteric infections,2014 - 2016,665,90937,0.7312754984219845
+Both,All ages,Enteric infections,2017 - 2019,450,69740,0.6452537998279323
+Both,All ages,Enteric infections,2020 - 2022,173,42376,0.40824995280347365
+Both,All ages,HIV/AIDS and sexually transmitted infections,2008 - 2010,786,227016,0.34623110265355744
+Both,All ages,HIV/AIDS and sexually transmitted infections,2011 - 2013,359,114663,0.31309140699266547
+Both,All ages,HIV/AIDS and sexually transmitted infections,2014 - 2016,236,90937,0.25952032725953134
+Both,All ages,HIV/AIDS and sexually transmitted infections,2017 - 2019,146,69740,0.20934901061084027
+Both,All ages,HIV/AIDS and sexually transmitted infections,2020 - 2022,169,42376,0.3988106475363413
+Both,All ages,Maternal and neonatal disorders,2008 - 2010,11312,227016,4.982908693660359
+Both,All ages,Maternal and neonatal disorders,2011 - 2013,5996,114663,5.229236981415104
+Both,All ages,Maternal and neonatal disorders,2014 - 2016,4999,90937,5.497212355806767
+Both,All ages,Maternal and neonatal disorders,2017 - 2019,3377,69740,4.842271293375394
+Both,All ages,Maternal and neonatal disorders,2020 - 2022,1580,42376,3.7285255805172737
+Both,All ages,Mental disorders,2008 - 2010,14506,227016,6.389857983578249
+Both,All ages,Mental disorders,2011 - 2013,7998,114663,6.975223044922949
+Both,All ages,Mental disorders,2014 - 2016,5746,90937,6.3186601713274015
+Both,All ages,Mental disorders,2017 - 2019,4688,69740,6.722110696874103
+Both,All ages,Mental disorders,2020 - 2022,2651,42376,6.255899565791958
+Both,All ages,Musculoskeletal disorders,2008 - 2010,12839,227016,5.655548507594179
+Both,All ages,Musculoskeletal disorders,2011 - 2013,6290,114663,5.485640529202969
+Both,All ages,Musculoskeletal disorders,2014 - 2016,4494,90937,4.941882841967516
+Both,All ages,Musculoskeletal disorders,2017 - 2019,3277,69740,4.698881560080298
+Both,All ages,Musculoskeletal disorders,2020 - 2022,2033,42376,4.797526902020011
+Both,All ages,Neglected tropical diseases and malaria,2008 - 2010,170,227016,0.0748845896324488
+Both,All ages,Neglected tropical diseases and malaria,2011 - 2013,91,114663,0.07936300288672021
+Both,All ages,Neglected tropical diseases and malaria,2014 - 2016,115,90937,0.12646117641883942
+Both,All ages,Neglected tropical diseases and malaria,2017 - 2019,85,69740,0.12188127330083166
+Both,All ages,Neglected tropical diseases and malaria,2020 - 2022,58,42376,0.1368699263734189
+Both,All ages,Neoplasms,2008 - 2010,11984,227016,5.278923071501569
+Both,All ages,Neoplasms,2011 - 2013,8124,114663,7.085110279689176
+Both,All ages,Neoplasms,2014 - 2016,6854,90937,7.53708611456283
+Both,All ages,Neoplasms,2017 - 2019,5474,69740,7.849154000573559
+Both,All ages,Neoplasms,2020 - 2022,3869,42376,9.130168019633755
+Both,All ages,Neurological disorders,2008 - 2010,9400,227016,4.140677309088346
+Both,All ages,Neurological disorders,2011 - 2013,4705,114663,4.103328885516689
+Both,All ages,Neurological disorders,2014 - 2016,3876,90937,4.262291476516709
+Both,All ages,Neurological disorders,2017 - 2019,3006,69740,4.3102953828505886
+Both,All ages,Neurological disorders,2020 - 2022,1795,42376,4.235888238625638
+Both,All ages,Nutritional deficiencies,2008 - 2010,793,227016,0.34931458575607005
+Both,All ages,Nutritional deficiencies,2011 - 2013,386,114663,0.3366386715854286
+Both,All ages,Nutritional deficiencies,2014 - 2016,361,90937,0.3969781277147915
+Both,All ages,Nutritional deficiencies,2017 - 2019,288,69740,0.4129624318898767
+Both,All ages,Nutritional deficiencies,2020 - 2022,183,42376,0.4318482159713045
+Both,All ages,Other infectious diseases,2008 - 2010,7526,227016,3.3151848327871165
+Both,All ages,Other infectious diseases,2011 - 2013,4389,114663,3.8277386776902746
+Both,All ages,Other infectious diseases,2014 - 2016,3928,90937,4.3194739215060975
+Both,All ages,Other infectious diseases,2017 - 2019,2947,69740,4.225695440206481
+Both,All ages,Other infectious diseases,2020 - 2022,2020,42376,4.766849159901831
+Both,All ages,Other non-communicable diseases,2008 - 2010,17043,227016,7.50740035944603
+Both,All ages,Other non-communicable diseases,2011 - 2013,8476,114663,7.392096840305939
+Both,All ages,Other non-communicable diseases,2014 - 2016,6412,90937,7.051035332153028
+Both,All ages,Other non-communicable diseases,2017 - 2019,4648,69740,6.6647548035560655
+Both,All ages,Other non-communicable diseases,2020 - 2022,2564,42376,6.05059467623183
+Both,All ages,Respiratory infections and tuberculosis,2008 - 2010,8181,227016,3.6037107516650813
+Both,All ages,Respiratory infections and tuberculosis,2011 - 2013,3557,114663,3.102134079868833
+Both,All ages,Respiratory infections and tuberculosis,2014 - 2016,2449,90937,2.6930732265194584
+Both,All ages,Respiratory infections and tuberculosis,2017 - 2019,1652,69740,2.368798394034987
+Both,All ages,Respiratory infections and tuberculosis,2020 - 2022,1388,42376,3.2754389276949216
+Both,All ages,Self-harm and interpersonal violence,2008 - 2010,3129,227016,1.3783169468231316
+Both,All ages,Self-harm and interpersonal violence,2011 - 2013,2130,114663,1.857617540095759
+Both,All ages,Self-harm and interpersonal violence,2014 - 2016,3056,90937,3.3605683055302022
+Both,All ages,Self-harm and interpersonal violence,2017 - 2019,3335,69740,4.782047605391454
+Both,All ages,Self-harm and interpersonal violence,2020 - 2022,1995,42376,4.707853501982254
+Both,All ages,Sense organ diseases,2008 - 2010,1087,227016,0.4788208760615992
+Both,All ages,Sense organ diseases,2011 - 2013,559,114663,0.4875155891612813
+Both,All ages,Sense organ diseases,2014 - 2016,435,90937,0.47835314558430564
+Both,All ages,Sense organ diseases,2017 - 2019,310,69740,0.44450817321479785
+Both,All ages,Sense organ diseases,2020 - 2022,171,42376,0.40353030016990743
+Both,All ages,Skin and subcutaneous diseases,2008 - 2010,6464,227016,2.8473763963773475
+Both,All ages,Skin and subcutaneous diseases,2011 - 2013,2929,114663,2.5544421478593793
+Both,All ages,Skin and subcutaneous diseases,2014 - 2016,1974,90937,2.1707335847894695
+Both,All ages,Skin and subcutaneous diseases,2017 - 2019,1306,69740,1.8726699168339547
+Both,All ages,Skin and subcutaneous diseases,2020 - 2022,692,42376,1.6329998112138946
+Both,All ages,Substance use disorders,2008 - 2010,7647,227016,3.3684850407019766
+Both,All ages,Substance use disorders,2011 - 2013,3402,114663,2.9669553386881558
+Both,All ages,Substance use disorders,2014 - 2016,3076,90937,3.382561553603044
+Both,All ages,Substance use disorders,2017 - 2019,1752,69740,2.512188127330083
+Both,All ages,Substance use disorders,2020 - 2022,879,42376,2.0742873324523314
+Both,All ages,Transport injuries,2008 - 2010,1142,227016,0.5030482432956267
+Both,All ages,Transport injuries,2011 - 2013,843,114663,0.7351979278407158
+Both,All ages,Transport injuries,2014 - 2016,524,90937,0.5762230995084509
+Both,All ages,Transport injuries,2017 - 2019,458,69740,0.65672497849154
+Both,All ages,Transport injuries,2020 - 2022,414,42376,0.976968095148197
+Both,All ages,Unintentional injuries,2008 - 2010,9839,227016,4.334055749374493
+Both,All ages,Unintentional injuries,2011 - 2013,5772,114663,5.033881897386254
+Both,All ages,Unintentional injuries,2014 - 2016,4996,90937,5.493913368595841
+Both,All ages,Unintentional injuries,2017 - 2019,5206,69740,7.464869515342701
+Both,All ages,Unintentional injuries,2020 - 2022,3483,42376,8.219275061355484
