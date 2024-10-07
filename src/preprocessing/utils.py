@@ -264,3 +264,14 @@ class Utils:
             tab.set_title(i, title)
 
         display(tab)
+
+    @staticmethod
+    def min_max_for_cols(df):
+        """Calculate and return the min and max for each numeric column in the DataFrame."""
+        min_max_dict = {}
+        numeric_cols = df.select_dtypes(include=[np.number]).columns
+        for col in numeric_cols:
+            min_val = df[col].min()
+            max_val = df[col].max()
+            min_max_dict[col] = {'min': min_val, 'max': max_val}
+        return min_max_dict
