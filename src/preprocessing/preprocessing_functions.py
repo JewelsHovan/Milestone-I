@@ -168,6 +168,17 @@ def preprocess_icu_stays(df):
 
     return df
 
+def preprocess_prescriptions(df):
+    """Preprocesses the prescriptions DataFrame."""
+    # Convert specified columns to category dtype
+    cat_cols = ['drug_type', 'drug']
+    for col in cat_cols:
+        df[col] = df[col].astype('category')
+    
+    # Additional preprocessing steps can be added here if needed
+
+    return df
+
 # Helper functions for triage preprocessing
 def _preprocess_text(text):
     lemmatizer = WordNetLemmatizer()

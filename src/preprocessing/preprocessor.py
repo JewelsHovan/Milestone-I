@@ -7,7 +7,8 @@ from .preprocessing_functions import (
     preprocess_ed_stay,
     preprocess_patients,
     preprocess_transfers,
-    preprocess_icu_stays
+    preprocess_icu_stays,
+    preprocess_prescriptions
 )
 
 class Preprocessor:
@@ -26,11 +27,17 @@ class Preprocessor:
         if table_name not in self.file_paths:
             raise ValueError(f"No file path found for table: {table_name}")
 
-        df = pd.read_csv(self.file_paths[table_name])
+        if table_name == 'prescriptions':
+            df = pd.read_csv(self.file_paths[table_name],
+                                  usecols=['subject_id', 'hadm_id', 'drug_type', 'drug', 'gsn', 'ndc', 'prod_strength'])
+        else:
+            df = pd.read_csv(self.file_paths[table_name])
         # set the name of the dataframe
         df.name = table_name
 
         if table_name == 'diagnosis':
+            return preprocess_diagnosis(df, self.file_paths['icd9_codes'], self.file_paths['icd10_codes'])
+        elif table_name == 'hosp_diagnosis':
             return preprocess_diagnosis(df, self.file_paths['icd9_codes'], self.file_paths['icd10_codes'])
         elif table_name == 'admissions':
             return preprocess_admissions(df)
@@ -46,6 +53,8 @@ class Preprocessor:
             return preprocess_transfers(df)
         elif table_name == 'icu_stays':
             return preprocess_icu_stays(df)
+        elif table_name == 'prescriptions':
+            return preprocess_prescriptions(df)
         else:
             print(f"Warning: No preprocessing function for {table_name}")
             return df

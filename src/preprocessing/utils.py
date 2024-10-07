@@ -6,6 +6,8 @@ from IPython.display import display
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 import nltk
+import ipywidgets as widgets
+from IPython.display import display
 
 class Utils:
     race_mapping = {
@@ -248,3 +250,17 @@ class Utils:
         if '.' not in end:
             end += '.9'
         return start <= code <= end
+
+    @staticmethod
+    def display_dataframes(dataframes, titles):
+        outputs = [widgets.Output() for _ in dataframes]
+
+        for output, dataframe in zip(outputs, dataframes):
+            with output:
+                display(dataframe.head())
+
+        tab = widgets.Tab(outputs)
+        for i, title in enumerate(titles):
+            tab.set_title(i, title)
+
+        display(tab)
