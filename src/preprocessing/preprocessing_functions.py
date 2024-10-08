@@ -85,6 +85,12 @@ def preprocess_admissions(df):
     for column in columns_to_impute:
         df[column] = df[column].fillna(df[column].mode()[0])
 
+    # Filter out negative values for length of stay
+    df = df[df['admission_los_hours'] > 0]
+
+    # Remove outliers
+    df = Utils.filter_outliers(df, 'admission_los_hours')
+
     return df
 
 def preprocess_patients(df):

@@ -28,8 +28,10 @@ class Preprocessor:
             raise ValueError(f"No file path found for table: {table_name}")
 
         if table_name == 'prescriptions':
-            df = pd.read_csv(self.file_paths[table_name],
-                                  usecols=['subject_id', 'hadm_id', 'drug_type', 'drug', 'gsn', 'ndc', 'prod_strength'])
+            df = pd.read_csv(
+                self.file_paths[table_name],
+                usecols=['subject_id', 'hadm_id', 'drug_type', 'drug', 'gsn', 'ndc', 'prod_strength']
+            )
         else:
             df = pd.read_csv(self.file_paths[table_name])
         # set the name of the dataframe
@@ -58,3 +60,31 @@ class Preprocessor:
         else:
             print(f"Warning: No preprocessing function for {table_name}")
             return df
+
+    def preprocess_and_save_all(self, save_dir="../Processed_Data"):
+        import os
+
+        if not os.path.exists(save_dir):
+            os.makedirs(save_dir)
+
+        preprocessed_data = self.preprocess_all()
+        for table_name, df in preprocessed_data.items():
+            df.to_pickle(f"{save_dir}/{table_name}.pkl")
+
+    def preprocess_and_save_sample(self, save_dir="../Processed_Data_Sample"):
+        """
+        Preprocesses all tables and saves only the first 100 rows of each to the specified directory.
+
+        Parameters:
+        - save_dir (str): The directory where the sample data will be saved. Defaults to "../Processed_Data_Sample".
+        """
+        import os
+
+        if not os.path.exists(save_dir):
+            os.makedirs(save_dir)
+
+        preprocessed_data = self.preprocess_all()
+        for table_name, df in preprocessed_data.items():
+            sample_df = df.head(100)
+            sample_df.to_pickle(f"{save_dir}/{table_name}.pkl")
+            print(f"Saved sample of {table_name} with {len(sample_df)} rows to {save_dir}/{table_name}.pkl")
